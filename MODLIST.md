@@ -20,6 +20,6 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Ping Wheel](https://modrinth.com/mod/ping-wheel) | Luken | 1.3.0 | Allows players to temporarily mark locations for everyone |
 | [Presence Footsteps](https://modrinth.com/mod/presence-footsteps) | Sollace | 1.9.0 | ..An Overly complicated Sound Mod... |
 | [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) | FlashyReese | 1.5.1+mc1.20-build.74 | Alternative Options Menu for Sodium |
-| [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat) | henkelmax | 1.20-2.4.8 | A working voice chat in Minecraft! |
+| [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat) | henkelmax | 1.20-2.4.9 | A working voice chat in Minecraft! |
 | [Sodium](https://modrinth.com/mod/sodium)  jellysquid3 | 0.4.10+build.27 | Modern rendering engine and client-side optimization mod for Minecraft |
-| [YetAnotherConfigLib](https://modrinth.com/mod/yacl) | isxander | 3.0.0+1.20 | A builder-based configuration library for Minecraft. |
+| [YetAnotherConfigLib](https://modrinth.com/mod/yacl) | isxander | 3.0.1+1.20 | A builder-based configuration library for Minecraft. |
