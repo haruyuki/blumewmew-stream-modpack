@@ -1,0 +1,7 @@
+{
+  "pingVolume": 100,
+  "pingDistance": 300,
+  "itemIconVisible": true,
+  "pingDuration": 10,
+  "channel": ""
+}
