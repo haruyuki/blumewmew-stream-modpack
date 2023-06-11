@@ -105,11 +105,6 @@ hash = "f7d04ceb6755bd743608fbc6c31e64334050c1910825b1c84a21aef5ebffcdc0"
 metafile = true
 
 [[files]]
-file = "mods/fastchest.pw.toml"
-hash = "b05a2c1fe2184464dbbb696dca3b15ed8ef20f2e0cc0eae9e3f9ebabc39f3149"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
 metafile = true
@@ -182,6 +177,11 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "1683145253f0375ebacdacb685fb37549bd7a32b94b1d074e54cf575ee2c541d"
+metafile = true
+
+[[files]]
+file = "mods/reinforced-chests.pw.toml"
+hash = "5ae921c0a1fd4d3fb6505d5f94b1e6744166eb819261fce551e5939706689d1d"
 metafile = true
 
 [[files]]
