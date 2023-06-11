@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/craftpresence.json"
-hash = "def005b0abbbb15541c82c30b77875d0870f37d22f4b96b7230f93993800df2c"
-
-[[files]]
 file = "config/debugify.json"
 hash = "59610be9899e23cdbe955e8e2008421d21dda05477539d91d0bf7e1fa135d711"
 
@@ -18,15 +14,7 @@ hash = "02352fc2da7f004604495695f1aca3a56dc82fd98c3753154fedcbddbca0f3fa"
 
 [[files]]
 file = "config/ping-wheel.json"
-hash = "761161ef9e1b90f5097178e73f444434a4c5178838cab20f8e24b88d0d1eda05"
-
-[[files]]
-file = "config/presencefootsteps/updater.json"
-hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
-
-[[files]]
-file = "config/presencefootsteps/userconfig.json"
-hash = "1be3a10ac82f51c74fc3ff8c2e8e3a27e9933e8c20aba588c4e5933697a17180"
+hash = "7f5c6c9c4e8559a7b5f03f6b61961fe4edf174bdb447e98fda1d7882b9412d31"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
