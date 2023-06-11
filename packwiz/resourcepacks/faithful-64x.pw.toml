@@ -1,0 +1,7 @@
+name = "Faithful 64x - 1.20 Experimental"
+filename = "Faithful 64x - 1.20 Experimental.zip"
+
+[download]
+url = "https://database.faithfulpack.net/packs/64x-Java/Experimental/Faithful%2064x%20-%201.20%20Experimental.zip"
+hash-format = "sha256"
+hash = "58a1f648838c12588c1c4e418e8b1fd72ee35de2671ab06735e941d10b89066c"
