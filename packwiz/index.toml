@@ -49,6 +49,11 @@ hash = "d8e1be6504f9fa74f7f78904422b83cc0b7147ed974e6dab16f03ec9dfda8994"
 metafile = true
 
 [[files]]
+file = "mods/better-beds.pw.toml"
+hash = "0bf7fa5d6e5b126e110699e85c64b4d86a1d4171d17adfc994936e6f62b81083"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "c4433d59883d98e778c0ad54088f2b04ae2ccc33406f394780244c3734a5d136"
 metafile = true
@@ -56,6 +61,11 @@ metafile = true
 [[files]]
 file = "mods/cinderscapes.pw.toml"
 hash = "214fe4ff63884d8bc2135b3ba3b1c926f013679fd77928f70b777b5f1181cce9"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "44e2cc695c040b7bbca462165099fa3c56a98aa8f01104bb067dc850b65f6d02"
 metafile = true
 
 [[files]]
@@ -76,6 +86,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "a3ef0ef31a8279dfb6ff25e78083291a483109b624e90946d7d0de13d9ff35a3"
+metafile = true
+
+[[files]]
+file = "mods/e4mc.pw.toml"
+hash = "b03c0c9616b8e790ca01054d8be91c2d6b62b26e7c9262ec7b0a70fb07e6a7f5"
 metafile = true
 
 [[files]]
@@ -134,6 +149,11 @@ hash = "b5a80beb6c7d1ea261fdfc4d2c4f31377f630381d43fd2caa6edf9e5d46c0173"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "6c681a60f617657bb819dae03d180a92a513908705518480391dfd55783b457a"
 metafile = true
@@ -161,6 +181,11 @@ metafile = true
 [[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "f88518b6112999634c53c2cee462c07fae4b963f451bfad6e476455607905673"
+metafile = true
+
+[[files]]
+file = "mods/puzzle.pw.toml"
+hash = "684594797d13dbc0ca57a5a6349a4597c03f629617bff83621bafb147a22ee76"
 metafile = true
 
 [[files]]
