@@ -1,7 +1,6 @@
 [![BSD 3 Clause License](https://img.shields.io/github/license/haruyuki/blumewmew-stream-modpack?style=for-the-badge)](https://github.com/haruyuki/blumewmew-stream-modpack/blob/main/LICENSE)
 ![Supported Minecraft Version](https://img.shields.io/modrinth/game-versions/blumewmew-stream-modpack?label=Supports&style=for-the-badge)
 [![GitHub Downloads](https://img.shields.io/github/downloads/haruyuki/blumewmew-stream-modpack/total?logo=github&style=for-the-badge)](https://github.com/haruyuki/blumewmew-stream-modpack/releases)
-[![Modrinth Downloads](https://img.shields.io/modrinth/dt/blumewmew-stream-modpack?logo=modrinth&label=Download%20from%20Modrinth&style=for-the-badge)](https://modrinth.com/modpack/blumewmew-stream-modpack)
 
 <br>
 
@@ -19,6 +18,9 @@
   [Changelog](https://github.com/haruyuki/blumewmew-stream-modpack/blob/main/CHANGELOG.md)
 
 </div>
+
+# Download
+[![Modrinth Downloads](https://img.shields.io/modrinth/dt/blumewmew-stream-modpack?logo=modrinth&label=Download%20from%20Modrinth&style=for-the-badge)](https://modrinth.com/modpack/blumewmew-stream-modpack)
 
 # Installation
 
