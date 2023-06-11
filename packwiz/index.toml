@@ -29,30 +29,6 @@ file = "config/presencefootsteps/userconfig.json"
 hash = "1be3a10ac82f51c74fc3ff8c2e8e3a27e9933e8c20aba588c4e5933697a17180"
 
 [[files]]
-file = "datapacks/afk display v1.1.4 (MC 1.20.x).zip"
-hash = "0c44f38c125b9622712ca77e58eee5305caa4cc1819ef0d676e82435841abbfa"
-
-[[files]]
-file = "datapacks/double shulker shells v1.3.4 (MC 1.20.x).zip"
-hash = "4d7d97097e105b41e18deb6346e7557c11331e13525d0ae76d2e85792200bc9b"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.4 (MC 1.20.x).zip"
-hash = "7b5c079509f90ae5c5b6a36fa993cf8e0377a204add6eee2b14ae6288c24d24f"
-
-[[files]]
-file = "datapacks/player head drops v1.1.4 (MC 1.20.x).zip"
-hash = "fd8e8a674ea85dab64ef9691adc6aecede02ddfc7bb1ddb88b208097a425a237"
-
-[[files]]
-file = "datapacks/track raw statistics v1.7.0 (MC 1.20.x).zip"
-hash = "8889fa8b350de50507ad852103600c855e637e6f4d1e8b09fa1e2dfe136f2a01"
-
-[[files]]
-file = "datapacks/unlock all recipes v2.0.5 (MC 1.20.x).zip"
-hash = "69354e4f14a46544299620e269332a5fed112c5e8135bcf8703a2b26304bc94c"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "05ac5655886661106bb34a8a898d47fd317577f7f44519693be882c7a73c64b8"
 metafile = true
@@ -249,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "a4e41c1709471dfd7884ed92d614f59c56e47c09254d4404fbd4fff94e762eed"
+hash = "53c66a4a8625204daaadbb21a2f7c871da9e22b1f9dc32047698b020e825377b"
 
 [[files]]
 file = "resourcepacks/faithful-64x.pw.toml"
