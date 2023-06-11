@@ -1,5 +1,22 @@
 # Changelog
 
+## 1.3.0
+
+### Added
+- Added Better Beds mod
+- Added CIT Resewn mod
+- Added e4mc mod
+- Added Krypton mod
+- Added Puzzle mod
+
+### Changed
+- Changed Ping Wheel duration to 8 seconds
+
+### Removed
+- Removed CraftPresence mod
+- Removed Presence Footsteps mod
+- Removed Starlight mod
+
 ## 1.2.2
 
 ### Added
