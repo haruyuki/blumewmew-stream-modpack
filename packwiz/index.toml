@@ -224,10 +224,6 @@ hash = "fe67f559bf7c07593f1eb0e3cfabb56635de7e566b26241559452dc04484bd4e"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "53c66a4a8625204daaadbb21a2f7c871da9e22b1f9dc32047698b020e825377b"
-
-[[files]]
 file = "resourcepacks/faithful-64x.pw.toml"
 hash = "356c8ee69a36f80845296f47f946c40a9555c6d31c72e9d50615c842a9999161"
 metafile = true
