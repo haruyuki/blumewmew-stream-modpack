@@ -64,11 +64,6 @@ hash = "b9cc3ddd40c728549f8de8db2b211a534303018bf8c18d22871ad17f62c47118"
 metafile = true
 
 [[files]]
-file = "mods/craftpresence.pw.toml"
-hash = "7230506ca6ccd632426f3e9e5e6193983eb3ff02bafbe8cef7456ef00e81c9c4"
-metafile = true
-
-[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "cdba4b9a99e550c7eb1d70e30d34261ea692872e566a319300a13761d96a6835"
 metafile = true
@@ -166,11 +161,6 @@ metafile = true
 [[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "f88518b6112999634c53c2cee462c07fae4b963f451bfad6e476455607905673"
-metafile = true
-
-[[files]]
-file = "mods/presence-footsteps.pw.toml"
-hash = "5027329d763899c40db5e3f389cfb2262d61d0037668c331db0cec1491c585d8"
 metafile = true
 
 [[files]]
