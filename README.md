@@ -1,5 +1,6 @@
-![Downloads](https://img.shields.io/github/downloads/haruyuki/blumewmew-stream-modpack/total?logo=github&style=for-the-badge)
+![GitHub Downloads](https://img.shields.io/github/downloads/haruyuki/blumewmew-stream-modpack/total?logo=github&style=for-the-badge)
 ![BSD 3 Clause License](https://img.shields.io/github/license/haruyuki/blumewmew-stream-modpack?style=for-the-badge)
+![Modrinth Downloads](https://img.shields.io/modrinth/dt/blumewmew-stream-modpack?logo=modrinth&label=Download%20from%20Modrinth&style=for-the-badge)
 
 
 <!-- PROJECT LOGO -->
