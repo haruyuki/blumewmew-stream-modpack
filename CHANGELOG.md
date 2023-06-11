@@ -2,6 +2,9 @@
 
 ## 1.2.2
 
+### Added
+- Added Complimentary Reimaged shaders
+
 ### Removed
 - Removed default options.txt file
 
