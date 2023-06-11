@@ -1,6 +1,30 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/craftpresence.json"
+hash = "def005b0abbbb15541c82c30b77875d0870f37d22f4b96b7230f93993800df2c"
+
+[[files]]
+file = "config/debugify.json"
+hash = "59610be9899e23cdbe955e8e2008421d21dda05477539d91d0bf7e1fa135d711"
+
+[[files]]
+file = "config/fallingtree.json"
+hash = "eab4bfb3a896db2aad190682e5b36c98462fa9561b482dc8d60b8258040d0f62"
+
+[[files]]
+file = "config/ping-wheel.json"
+hash = "761161ef9e1b90f5097178e73f444434a4c5178838cab20f8e24b88d0d1eda05"
+
+[[files]]
+file = "config/presencefootsteps/updater.json"
+hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
+
+[[files]]
+file = "config/presencefootsteps/userconfig.json"
+hash = "1be3a10ac82f51c74fc3ff8c2e8e3a27e9933e8c20aba588c4e5933697a17180"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "05ac5655886661106bb34a8a898d47fd317577f7f44519693be882c7a73c64b8"
 metafile = true
@@ -189,3 +213,7 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "fe67f559bf7c07593f1eb0e3cfabb56635de7e566b26241559452dc04484bd4e"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "a4e41c1709471dfd7884ed92d614f59c56e47c09254d4404fbd4fff94e762eed"
