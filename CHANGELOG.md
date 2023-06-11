@@ -1,5 +1,27 @@
 # Changelog
 
+## 1.2.2
+
+### Removed
+- Removed default options.txt file
+
+## 1.2.1
+
+### Added
+- Added Faithful resourcepack to resource packs
+
+### Changed
+- Updated default GUI scaling value
+
+## 1.2.0
+
+### Added
+- Added Reinforced Chests mod
+- Added config settings for Fabric Waystones
+
+### Removed
+- Removed FastChest mod due to incompatibility with Reinforced Chests
+
 ## 1.1.0 - 11/06/2023
 
 ### Added
