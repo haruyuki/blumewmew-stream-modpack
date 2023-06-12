@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.4.1
+
+### Changed
+- Updated JourneyMap to 5.9.8
+- Updated Roughly Enough Items (REI) to 12.0.624
+- Update Puzzles Lib to 7.0.3
+
 ## 1.4.0
 
 ### Added

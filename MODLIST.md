@@ -26,7 +26,7 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [FerriteCore](https://modrinth.com/mod/ferrite-core) | malte0811 | 6.0.0 | Memory usage optimizations |
 | [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | RaphiMC | 1.1.13 | Speed up immediate mode rendering in Minecraft |
 | [Iris Shaders](https://irisshaders.net/) | coderbot | 1.6.4 | A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs |
-| [JourneyMap](https://modrinth.com/mod/journeymap) | mysticdrew | 5.9.7 | Real-time mapping in game or in a web browser as you explore. |
+| [JourneyMap](https://modrinth.com/mod/journeymap) | mysticdrew | 5.9.8 | Real-time mapping in game or in a web browser as you explore. |
 | [Lithium](https://modrinth.com/mod/lithium) | jellyqsuid3 | 0.11.2 | No-compromises game logic/server optimization mod |
 | [Krypton](https://modrinth.com/mod/krypton) | astei | 0.2.3 | A mod to optimize the Minecraft networking stack |
 | [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) | fxmorin | 1.1.1 | A mod that fixes random memory leaks for both the client and server |
@@ -38,7 +38,7 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Puzzle](https://modrinth.com/mod/puzzle) | Motschen | 1.5.1+1.20 | Adds resourcepack features and a GUI to more conveniently configure OptiFine alternatives. |
 | [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) | FlashyReese | 1.5.1+mc1.20-build.74 | Alternative Options Menu for Sodium |
 | [Reinforced Chests](https://modrinth.com/mod/reinforced-chests) | Aton-Kish | 2.4.0+1.20 | Adds reinforced chests. |
-| [Roughly Enough Items](https://modrinth.com/mod/rei) | shedaniel | 12.0.622 | Adds a mod menu to view the list of mods you have installed. |
+| [Roughly Enough Items](https://modrinth.com/mod/rei) | shedaniel | 12.0.624 | Adds a mod menu to view the list of mods you have installed. |
 | [RPMTW Update Mod](https://modrinth.com/mod/rpmtw-update-mod) | SiongSng | 1.5.6 | The mod integrated with RPMTW services covers translation, wiki, universe chat, Chinese input optimization, and other features for Minecraft players to get a better gaming experience. |
 | [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat) | henkelmax | 1.20-2.4.9 | A working voice chat in Minecraft! |
 | [Sodium](https://modrinth.com/mod/sodium) | jellysquid3 | 0.4.10+build.27 | Modern rendering engine and client-side optimization mod for Minecraft |
@@ -50,7 +50,7 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 ## Libraries
 | Name | Author | Version | Description |
 | -------- | -------- | -------- | -------- |
-| [Architectury API](https://modrinth.com/mod/architectury-api) | shedaniel | 9.0.7 | An intermediary api aimed to ease developing multiplatform mods. |
+| [Architectury API](https://modrinth.com/mod/architectury-api) | shedaniel | 9.0.8 | An intermediary api aimed to ease developing multiplatform mods. |
 | [Cloth Config API](https://modrinth.com/mod/cloth-config) | shedaniel | 11.0.99 | Configuration Library for Minecraft Mods |
 | [CreativeCore](https://modrinth.com/mod/creativecore) | creativemd | 2.10.23 | A core mod |
 | [Fabric API](https://modrinth.com/mod/fabric-api) | modmuss50 | 0.83.0+1.20 | Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain. |
