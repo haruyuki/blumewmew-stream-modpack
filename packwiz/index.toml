@@ -62,6 +62,21 @@ hash = "b9cc3ddd40c728549f8de8db2b211a534303018bf8c18d22871ad17f62c47118"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "cc007edebf5a6043a114aa60fc49a938af0f60e24b93219ca2bdd9831f9c4f73"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "8e73f68cbcbff53b6a00c30f371fc34a63c2ac2240af4792008d67dce74fb507"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "bb840d853d0da5f98a0bfb39c6484411d2fde757d05dc2b70f065e601a7bb821"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "cdba4b9a99e550c7eb1d70e30d34261ea692872e566a319300a13761d96a6835"
 metafile = true
@@ -107,8 +122,18 @@ hash = "f7d04ceb6755bd743608fbc6c31e64334050c1910825b1c84a21aef5ebffcdc0"
 metafile = true
 
 [[files]]
+file = "mods/fastback.pw.toml"
+hash = "255550f35e2c44ad59e016e0e36b9fcd9d81d170a981c52ebea8f10547f773e4"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "68aac7738a251e9cbe0414426725f93f92069640ef18b56490b13c89b8f5beba"
 metafile = true
 
 [[files]]
@@ -157,6 +182,16 @@ hash = "728d46b605885ad0ec57968f7d6b1c926d93fcca3b235dda272f0ed02701cf83"
 metafile = true
 
 [[files]]
+file = "mods/more-mob-variants.pw.toml"
+hash = "8f878789230d8c194102e1b720feb2762dc1a192e9ee04590a6785c657f7f70e"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "669008dbd2508a67f8c409096cf2357de450f26a69494289e5852045ade7d358"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "cc1a5233588d0c2a1a284a0d98f9543ca987afccfe5e7ecf4e98f3c3f74706e8"
 metafile = true
@@ -177,6 +212,11 @@ hash = "684594797d13dbc0ca57a5a6349a4597c03f629617bff83621bafb147a22ee76"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "bcec3b585d846b33fdb6992c26e20bc22c7fea344ad8dd02ae38766cf0681135"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "a1d419cad5a32a4a442b37b2e2fe2db3e761429d6ab60dd3bb79f43d36df2297"
 metafile = true
@@ -192,6 +232,16 @@ hash = "5ae921c0a1fd4d3fb6505d5f94b1e6744166eb819261fce551e5939706689d1d"
 metafile = true
 
 [[files]]
+file = "mods/rpmtw-update-mod.pw.toml"
+hash = "4e0bd2f2898e2272dddec96e04a646a7c335bfec68e2db9d88a5b43a4429617d"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "73517338d1fcf0ea72fc083841b7407888bbef494af9a3dcff041ee12a68c59b"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "49d0ce7e7872aa4acbf3490647226fca58cebdc9cfc1402614bbddc1444ab66a"
 metafile = true
@@ -204,6 +254,16 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "49e4321150cf5ac4a79aad26d04e884cd734c655fdbed347d5dd7148a2b0a00a"
+metafile = true
+
+[[files]]
+file = "mods/stoneworks.pw.toml"
+hash = "58bd47dba4fd1567119e1789819024fd9b2cc566be84ed51e76a34a27cea1740"
+metafile = true
+
+[[files]]
+file = "mods/traverse.pw.toml"
+hash = "ac69528a5a1a39ddbbbd522364202aeedb5928fb20fc6708458d814d9f463aca"
 metafile = true
 
 [[files]]
