@@ -42,11 +42,6 @@ hash = "0bf7fa5d6e5b126e110699e85c64b4d86a1d4171d17adfc994936e6f62b81083"
 metafile = true
 
 [[files]]
-file = "mods/chat-heads.pw.toml"
-hash = "c4433d59883d98e778c0ad54088f2b04ae2ccc33406f394780244c3734a5d136"
-metafile = true
-
-[[files]]
 file = "mods/cinderscapes.pw.toml"
 hash = "214fe4ff63884d8bc2135b3ba3b1c926f013679fd77928f70b777b5f1181cce9"
 metafile = true
