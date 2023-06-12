@@ -1,5 +1,21 @@
 # Changelog
 
+## 1.4.0
+
+### Added
+- Added Clumps mod
+- Added Continuity mod
+- Added Controlling mod
+- Added More Mob Variants mod
+- Added Mouse Tweaks mod
+- Added RPMTW mod
+- Added Stoneworks mod
+- Added Traverse mod
+- Added RPMTW config settings
+
+### Removed
+- Removed Chat Heads mod
+
 ## 1.3.0
 
 ### Added
