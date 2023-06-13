@@ -1,5 +1,43 @@
 # Changelog
 
+## 2.0.0
+
+### Added
+- Added Quilted Fabric API mod
+- Added Your Options Shall Be Respected (YOSBR) mod
+- Added Deeper Oceans mod
+- Added Language Reload mod
+- Added config settings for Puzzle mod
+- Added config settings for RPMTW mod
+- Added default options.txt settings to YOSBR mod
+
+### Changed
+- Changed loader to use Quilt
+- Changed RPMTW to Quilt version of mod
+- Changed Simple Voice Chat to Quilt version of mod
+- Updated Quilt Loader to 0.19.1-beta.3
+- Updated ImmediatelyFast to 1.1.15
+- Updated OptiGUI to 2.1.2
+- Updated Roughly Enough Items (REI) to 12.0.625
+- Updated Cinderscapes to 4.0.2
+- Updated Traverse to 7.0.2
+- Updated Debugify to 1.20.1+1.0
+- Updated FallingTree to 4.1.1
+- Updated Reese's Sodium Options to 1.5.0+1.20
+- Updated Simple Voice Chat to 1.20.1-2.4.10
+- Updated Sound Physics Remastered to 1.20.1-1.1.1
+- Set options.txt to default load Faithful 64x resource pack
+
+### Removed
+- Removed e4mc mod
+- Removed Fabric API mod
+- Removed Clumps mod
+- Removed Controlling mod
+- Removed Forge Config API Port mod
+- Removed Puzzles Lib mod
+- Removed Searchables mod
+- Removed Stoneworks mod
+
 ## 1.4.1
 
 ### Changed
