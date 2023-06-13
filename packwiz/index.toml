@@ -17,8 +17,16 @@ file = "config/ping-wheel.json"
 hash = "7f5c6c9c4e8559a7b5f03f6b61961fe4edf174bdb447e98fda1d7882b9412d31"
 
 [[files]]
+file = "config/puzzle.json"
+hash = "91e053a53b1be19f2ec1670680c59774aab3998c12bdef5fd0b445e511a52042"
+
+[[files]]
 file = "config/rpmtw_platform_mod.json5"
-hash = "44861fa2e1f36d58420cdd35498eec66f908ce29e9a022a4e297d11d0f39e353"
+hash = "63327c0daac84b95651d56bf73608acad563bb07f9e2c1aa0751972855a6db90"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "d79df485734da741d4578169c520c17421f97fcb33a430dbc0615d058377f3db"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -61,18 +69,8 @@ hash = "b9cc3ddd40c728549f8de8db2b211a534303018bf8c18d22871ad17f62c47118"
 metafile = true
 
 [[files]]
-file = "mods/clumps.pw.toml"
-hash = "cc007edebf5a6043a114aa60fc49a938af0f60e24b93219ca2bdd9831f9c4f73"
-metafile = true
-
-[[files]]
 file = "mods/continuity.pw.toml"
 hash = "8e73f68cbcbff53b6a00c30f371fc34a63c2ac2240af4792008d67dce74fb507"
-metafile = true
-
-[[files]]
-file = "mods/controlling.pw.toml"
-hash = "bb840d853d0da5f98a0bfb39c6484411d2fde757d05dc2b70f065e601a7bb821"
 metafile = true
 
 [[files]]
@@ -87,7 +85,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "a3ef0ef31a8279dfb6ff25e78083291a483109b624e90946d7d0de13d9ff35a3"
+hash = "1d9a73c6ac3be4f2780441fdcc4392b9e543e1c9464232a21901e2d2db713fbe"
 metafile = true
 
 [[files]]
@@ -117,17 +115,12 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "f7d04ceb6755bd743608fbc6c31e64334050c1910825b1c84a21aef5ebffcdc0"
+hash = "8a0908bb4772b63bb977fcc10c012561d0423066df18609de7c2f0c3aeb5af98"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
-metafile = true
-
-[[files]]
-file = "mods/forge-config-api-port.pw.toml"
-hash = "68aac7738a251e9cbe0414426725f93f92069640ef18b56490b13c89b8f5beba"
 metafile = true
 
 [[files]]
@@ -167,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "6c681a60f617657bb819dae03d180a92a513908705518480391dfd55783b457a"
+hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
@@ -211,18 +204,13 @@ hash = "684594797d13dbc0ca57a5a6349a4597c03f629617bff83621bafb147a22ee76"
 metafile = true
 
 [[files]]
-file = "mods/puzzles-lib.pw.toml"
-hash = "deb4d4d8b8c54d02802970e72d1cac35dd8cb19ee2b192e6c439207a4683cf6d"
-metafile = true
-
-[[files]]
 file = "mods/qsl.pw.toml"
 hash = "ce669023c4265f3a377fb8d18d461b1b6e9218e90bf61f2c917b718d5ad55b02"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "a1d419cad5a32a4a442b37b2e2fe2db3e761429d6ab60dd3bb79f43d36df2297"
+hash = "00b38741c7c66f83d205d394c1ffd7d7d881a3d8600bf96488f94496e85c309b"
 metafile = true
 
 [[files]]
@@ -241,13 +229,8 @@ hash = "db8cd8a7de6214a62ca1887e52ebe5e5ca22b587dc6c37d7e94bd59f14d1e60f"
 metafile = true
 
 [[files]]
-file = "mods/searchables.pw.toml"
-hash = "73517338d1fcf0ea72fc083841b7407888bbef494af9a3dcff041ee12a68c59b"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "12b1d7d38e5e97a4c69c7828290a17dfacfac9cd05448d51c95a021bc1ce5ca1"
+hash = "67a8a31946ae85efdd9aec14c121885e957c37facc40558d683c14650700f369"
 metafile = true
 
 [[files]]
@@ -257,12 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "49e4321150cf5ac4a79aad26d04e884cd734c655fdbed347d5dd7148a2b0a00a"
-metafile = true
-
-[[files]]
-file = "mods/stoneworks.pw.toml"
-hash = "58bd47dba4fd1567119e1789819024fd9b2cc566be84ed51e76a34a27cea1740"
+hash = "f013995011fd15f45fc2bbd28a63f70542008891a6dcfd7a955a2ab3e248460d"
 metafile = true
 
 [[files]]
