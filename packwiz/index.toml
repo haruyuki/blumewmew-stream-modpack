@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/cinderscapes.pw.toml"
-hash = "214fe4ff63884d8bc2135b3ba3b1c926f013679fd77928f70b777b5f1181cce9"
+hash = "3023222f52b639031b595a7f8729ce948d2a34ad24aea2910d3c26be123d6dfa"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/traverse.pw.toml"
-hash = "ac69528a5a1a39ddbbbd522364202aeedb5928fb20fc6708458d814d9f463aca"
+hash = "75dccf289be4088769d6b99572e417967339a178636446538254986dc8fa5e85"
 metafile = true
 
 [[files]]
