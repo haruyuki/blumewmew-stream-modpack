@@ -12,9 +12,10 @@
 - Added default options.txt settings to YOSBR mod
 
 ### Changed
-- Changed loader to use Quilt
+- **Changed loader to use Quilt**
 - Changed RPMTW to Quilt version of mod
 - Changed Simple Voice Chat to Quilt version of mod
+- **Updated Minecraft version to 1.20.1**
 - Updated Quilt Loader to 0.19.1-beta.3
 - Updated ImmediatelyFast to 1.1.15
 - Updated OptiGUI to 2.1.2
