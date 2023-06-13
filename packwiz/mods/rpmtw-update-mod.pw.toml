@@ -1,13 +1,13 @@
 name = "RPMTW Platform Mod"
-filename = "rpmtw-platform-mod-1.20-1.5.6-fabric.jar"
+filename = "rpmtw-platform-mod-1.20-1.5.6-quilt.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZukQzaRP/versions/Ko02VKMU/rpmtw-platform-mod-1.20-1.5.6-fabric.jar"
+url = "https://cdn.modrinth.com/data/ZukQzaRP/versions/JFIEeywl/rpmtw-platform-mod-1.20-1.5.6-quilt.jar"
 hash-format = "sha1"
-hash = "5e0e46f52e795c18b0df7b3685b362be9f144bcc"
+hash = "00efa422df9557bdb1a47451c390ff2e59ce7e0a"
 
 [update]
 [update.modrinth]
 mod-id = "ZukQzaRP"
-version = "Ko02VKMU"
+version = "JFIEeywl"
