@@ -1,5 +1,16 @@
 # Changelog
 
+## 2.0.1
+
+### Added
+- Added server IP to multiplayer servers list
+- Added default config settings for Simple Voice Chat mod
+
+### Changed
+- Updated default options.txt settings to enable directional audio and skip initial Multiplayer dialogue message
+- Updated Reese's Sodium Options mod to 1.5.1
+- Updated FabricSkyBoxes Interop mod to 1.3.2
+
 ## 2.0.0
 
 ### Added
