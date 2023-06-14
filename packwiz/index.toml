@@ -105,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "e871cb21cde9457809e6eaa8d770dc0b2e0826ae077862d740247ec3335ce146"
+hash = "3a86b3417b781abc294b6e41c475e5ac1831944527db6f07f0107a30e5bde0bd"
 metafile = true
 
 [[files]]
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "00b38741c7c66f83d205d394c1ffd7d7d881a3d8600bf96488f94496e85c309b"
+hash = "a1d419cad5a32a4a442b37b2e2fe2db3e761429d6ab60dd3bb79f43d36df2297"
 metafile = true
 
 [[files]]
@@ -267,6 +267,22 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "fe67f559bf7c07593f1eb0e3cfabb56635de7e566b26241559452dc04484bd4e"
 metafile = true
+
+[[files]]
+file = "resourcepacks/blumewmew/LICENSE"
+hash = "230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809"
+
+[[files]]
+file = "resourcepacks/blumewmew/assets/reinfchest/lang/zh_tw.json"
+hash = "45e68acf768919ff164044ab4e6314b2c82821493b46128b2d6dcfa479f03563"
+
+[[files]]
+file = "resourcepacks/blumewmew/pack.mcmeta"
+hash = "4477b84ef62c86b41fdb3b9d80f8418c611209336075841f3b72683861356f58"
+
+[[files]]
+file = "resourcepacks/blumewmew/pack.png"
+hash = "7d2008db5f89673b15d5d5e9ca803c942b3e88bb1fbdf441513f085aa836110b"
 
 [[files]]
 file = "resourcepacks/faithful-64x.pw.toml"
