@@ -25,8 +25,16 @@ file = "config/rpmtw_platform_mod.json5"
 hash = "63327c0daac84b95651d56bf73608acad563bb07f9e2c1aa0751972855a6db90"
 
 [[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "86df594d377d8015bc6897c3198e05485598f15066d32b2de7453feaabac29cf"
+
+[[files]]
 file = "config/yosbr/options.txt"
-hash = "d79df485734da741d4578169c520c17421f97fcb33a430dbc0615d058377f3db"
+hash = "dc53b7263e6db5e88a9ecd3ccb24fc82457ba797d89dff4754544b5c260ccdc8"
+
+[[files]]
+file = "config/yosbr/servers.dat"
+hash = "75d678aa598eb2b28f0778fc33de1c813552e240568b92788f3a1c41769c3daa"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
