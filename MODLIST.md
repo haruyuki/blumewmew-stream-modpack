@@ -15,7 +15,7 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [CIT Resewn](https://modrinth.com/mod/cit-resewn) | shsupercm | 1.1.3+1.20 | Re-implements MCPatcher's CIT (custom item textures from optifine resource packs) |
 | [Continuity](https://modrinth.com/mod/continuity) | peppercode1 | 3.0.0-beta.2+1.20 | A Fabric mod that allows for efficient connected textures |
 | [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves) | isxander | 1.2.0 | Cull leaves while looking hot! |
-| [Debugify](https://modrinth.com/mod/debugify) | isxander | 1.20+1.1 | Fixes Minecraft bugs found on the bug tracker |
+| [Debugify](https://modrinth.com/mod/debugify) | isxander | 1.20.1+1.1 | Fixes Minecraft bugs found on the bug tracker |
 | [Deeper Oceans](https://modrinth.com/datapack/deeper-oceans) | Apollo | 1.0.1a | Oceans, but 3x as deep! |
 | [Entity Culling](https://modrinth.com/mod/entityculling) | tr7zw | 1.6.2-mc1.20 | Using async path-tracing to hide Block-/Entities that are not visible |
 | [Fabric Waystones](https://modrinth.com/mod/fwaystones) | LordDeatHunter | 3.1.2-mc1.20 | A better way of transport |
