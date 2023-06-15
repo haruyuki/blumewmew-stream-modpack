@@ -1,5 +1,13 @@
 # Changelog
 
+## 2.0.2
+
+### Changed
+- Updated Debugify to 1.20.1+1.1
+
+### Removed
+- Removed preset servers.dat file
+
 ## 2.0.1
 
 ### Added
