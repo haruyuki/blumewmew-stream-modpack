@@ -33,10 +33,6 @@ file = "config/yosbr/options.txt"
 hash = "dc53b7263e6db5e88a9ecd3ccb24fc82457ba797d89dff4754544b5c260ccdc8"
 
 [[files]]
-file = "config/yosbr/servers.dat"
-hash = "75d678aa598eb2b28f0778fc33de1c813552e240568b92788f3a1c41769c3daa"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "05ac5655886661106bb34a8a898d47fd317577f7f44519693be882c7a73c64b8"
 metafile = true
