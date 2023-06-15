@@ -1,6 +1,5 @@
 [![BSD 3 Clause License](https://img.shields.io/github/license/haruyuki/blumewmew-stream-modpack?style=for-the-badge)](https://github.com/haruyuki/blumewmew-stream-modpack/blob/main/LICENSE)
 ![Supported Minecraft Version](https://img.shields.io/modrinth/game-versions/blumewmew-stream-modpack?label=Supports&style=for-the-badge)
-[![GitHub Downloads](https://img.shields.io/github/downloads/haruyuki/blumewmew-stream-modpack/total?logo=github&style=for-the-badge)](https://github.com/haruyuki/blumewmew-stream-modpack/releases)
 
 <br>
 
