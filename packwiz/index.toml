@@ -273,22 +273,6 @@ hash = "fe67f559bf7c07593f1eb0e3cfabb56635de7e566b26241559452dc04484bd4e"
 metafile = true
 
 [[files]]
-file = "resourcepacks/blumewmew/LICENSE"
-hash = "230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809"
-
-[[files]]
-file = "resourcepacks/blumewmew/assets/reinfchest/lang/zh_tw.json"
-hash = "45e68acf768919ff164044ab4e6314b2c82821493b46128b2d6dcfa479f03563"
-
-[[files]]
-file = "resourcepacks/blumewmew/pack.mcmeta"
-hash = "4477b84ef62c86b41fdb3b9d80f8418c611209336075841f3b72683861356f58"
-
-[[files]]
-file = "resourcepacks/blumewmew/pack.png"
-hash = "7d2008db5f89673b15d5d5e9ca803c942b3e88bb1fbdf441513f085aa836110b"
-
-[[files]]
 file = "resourcepacks/faithful-64x.pw.toml"
 hash = "356c8ee69a36f80845296f47f946c40a9555c6d31c72e9d50615c842a9999161"
 metafile = true
