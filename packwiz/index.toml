@@ -58,6 +58,11 @@ hash = "0bf7fa5d6e5b126e110699e85c64b4d86a1d4171d17adfc994936e6f62b81083"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "56e43a6d3b2f91b41552a09488b6ec374aa0c5796c9d55a1148c17c562949142"
+metafile = true
+
+[[files]]
 file = "mods/cinderscapes.pw.toml"
 hash = "3023222f52b639031b595a7f8729ce948d2a34ad24aea2910d3c26be123d6dfa"
 metafile = true
@@ -88,6 +93,11 @@ hash = "312270e142843c8709d2768888f6a95572ed385d4b4aaf50526f1bfa667cf23c"
 metafile = true
 
 [[files]]
+file = "mods/dark-loading-screen.pw.toml"
+hash = "97ca0b01ac6888486402018e7c95ec3b219a89c3338a416fd25418def5f51fa1"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "dd45b08011417dd062568cbb230369a29aff617066c7108cf4a240ccdd9a030b"
 metafile = true
@@ -95,6 +105,11 @@ metafile = true
 [[files]]
 file = "mods/deeper-oceans.pw.toml"
 hash = "ffeca7f1daabe2d0296fde7b76f502a4cbb6476859c5e14b57194ec75fcbdb3a"
+metafile = true
+
+[[files]]
+file = "mods/eating-animation.pw.toml"
+hash = "13a1357c0e5f6a3bd2978c80c405909b0654079a3f29d8f02fdc30f985f17f9b"
 metafile = true
 
 [[files]]
@@ -140,6 +155,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "45ad54cce889a3327cc38e244b140552c8a8616068885c26f05d4edc0a0456f0"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorting.pw.toml"
+hash = "e3c656b030785f3b4e316987dd0c8a5f9d9aac390a446b3a10d33826b23765e0"
 metafile = true
 
 [[files]]
