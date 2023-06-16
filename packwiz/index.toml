@@ -30,7 +30,7 @@ hash = "86df594d377d8015bc6897c3198e05485598f15066d32b2de7453feaabac29cf"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "dc53b7263e6db5e88a9ecd3ccb24fc82457ba797d89dff4754544b5c260ccdc8"
+hash = "9da467309f14d910dd739515dd8055d3f7f613328a4c92cd8eb91e2bff9fb068"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -271,6 +271,10 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "fe67f559bf7c07593f1eb0e3cfabb56635de7e566b26241559452dc04484bd4e"
 metafile = true
+
+[[files]]
+file = "resourcepacks/blumewmew Extras.zip"
+hash = "1d644305d390ff5791996cf0f1407fd5e836e4a4b0efb601b56dc83a242e46de"
 
 [[files]]
 file = "resourcepacks/faithful-64x.pw.toml"
