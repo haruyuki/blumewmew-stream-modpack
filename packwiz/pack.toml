@@ -1,6 +1,6 @@
 name = "Blumewmew's Stream Modpack"
 author = "blumewmew"
-version = "2.0.2"
+version = "2.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -10,7 +10,7 @@ hash = "1141c8b954108a994efa95ac309d03389a361011af389fddcb6659b92dafc251"
 
 [versions]
 minecraft = "1.20.1"
-quilt = "0.19.1-beta.3"
+quilt = "0.19.2-beta.2"
 
 [options]
 acceptable-game-versions = ["1.20", "1.20.1"]
