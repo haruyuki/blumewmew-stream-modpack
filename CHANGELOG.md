@@ -1,5 +1,20 @@
 # Changelog
 
+## 2.1.0
+
+### Added
+- Added extras resource pack
+- Added Dark Loading Screen mod
+- Added Bobby mod
+- Added Eating Animation mod
+- Added Inventory Sorting mod
+
+### Changed
+- Updated Traverse to 7.0.4
+- Updated Quilted Fabric API to 7.0.3
+- Updated JoruneyMap to 5.9.9
+- **Updated Quilt Loader to 0.19.2-beta.2**
+
 ## 2.0.2
 
 ### Changed
@@ -16,8 +31,8 @@
 
 ### Changed
 - Updated default options.txt settings to enable directional audio and skip initial Multiplayer dialogue message
-- Updated Reese's Sodium Options mod to 1.5.1
-- Updated FabricSkyBoxes Interop mod to 1.3.2
+- Updated Reese's Sodium Options to 1.5.1
+- Updated FabricSkyBoxes Interop to 1.3.2
 
 ## 2.0.0
 

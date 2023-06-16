@@ -11,20 +11,24 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [AmbientSounds](https://modrinth.com/mod/ambientsounds) | creativemd | 5.2.19 | #listentonature |
 | [AppleSkin](https://modrinth.com/mod/appleskin) | squeek502 | 2.5.0+mc1.20 | Food/hunger-related HUD improvements |
 | [Better Beds](https://modrinth.com/mod/better-beds) | Motschen | 1.3.0 | Changes the renderer of the bed to use json models instead of a block entity renderer! |
+| [Bobby](https://modrinth.com/mod/bobby) | Johni0702 | 5.0.0 | Allows for render distances greater than the server's view-distance |
 | [Cinderscapes](https://modrinth.com/mod/cinderscapes) | Prospector | 4.0.2 | A biome mod expanding the life of The Nether |
 | [CIT Resewn](https://modrinth.com/mod/cit-resewn) | shsupercm | 1.1.3+1.20 | Re-implements MCPatcher's CIT (custom item textures from optifine resource packs) |
 | [Continuity](https://modrinth.com/mod/continuity) | peppercode1 | 3.0.0-beta.2+1.20 | A Fabric mod that allows for efficient connected textures |
 | [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves) | isxander | 1.2.0 | Cull leaves while looking hot! |
+| [Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen) | A5b84 | 1.6.14 | Makes the loading screen darker. |
 | [Debugify](https://modrinth.com/mod/debugify) | isxander | 1.20.1+1.1 | Fixes Minecraft bugs found on the bug tracker |
 | [Deeper Oceans](https://modrinth.com/datapack/deeper-oceans) | Apollo | 1.0.1a | Oceans, but 3x as deep! |
+| [Eating Animation](https://modrinth.com/mod/eating-animation) | theoness1 | 1.9.4+1.20 | A mod that adds sprite animations for edible and drinkable items. |
 | [Entity Culling](https://modrinth.com/mod/entityculling) | tr7zw | 1.6.2-mc1.20 | Using async path-tracing to hide Block-/Entities that are not visible |
 | [Fabric Waystones](https://modrinth.com/mod/fwaystones) | LordDeatHunter | 3.1.2-mc1.20 | A better way of transport |
 | [FabricSkyBoxes](https://modrinth.com/mod/fabricskyboxes) | AMereBagatelle | 0.7.1+mc1.20 | Allows resource packs to define custom skyboxes. |
 | [FallingTree](https://modrinth.com/mod/fallingtree) | Rakambda | 4.0.0 | Break down your trees by only cutting one piece of it |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core) | malte0811 | 6.0.0 | Memory usage optimizations |
 | [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | RaphiMC | 1.1.15 | Speed up immediate mode rendering in Minecraft |
+| [Inventory Sorting](https://modrinth.com/mod/inventory-sorting) | kyrptonaught | 1.8.10-1.20 | Quick, simple, and lightweight inventory sorting |
 | [Iris Shaders](https://irisshaders.net/) | coderbot | 1.6.4 | A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs |
-| [JourneyMap](https://modrinth.com/mod/journeymap) | mysticdrew | 5.9.8 | Real-time mapping in game or in a web browser as you explore. |
+| [JourneyMap](https://modrinth.com/mod/journeymap) | mysticdrew | 5.9.9 | Real-time mapping in game or in a web browser as you explore. |
 | [Language Reload](https://modrinth.com/mod/language-reload) | Jerozgen | 1.5.7+1.20 | Reduces load times and adds fallbacks for languages |
 | [Lithium](https://modrinth.com/mod/lithium) | jellyqsuid3 | 0.11.2 | No-compromises game logic/server optimization mod |
 | [Krypton](https://modrinth.com/mod/krypton) | astei | 0.2.3 | A mod to optimize the Minecraft networking stack |
@@ -42,7 +46,7 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat) | henkelmax | 1.20.1-2.4.10 | A working voice chat in Minecraft! |
 | [Sodium](https://modrinth.com/mod/sodium) | jellysquid3 | 0.4.10+build.27 | Modern rendering engine and client-side optimization mod for Minecraft |
 | [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) | henkelmax | 1.20.1-1.1.1 | A Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks. |
-| [Traverse](https://modrinth.com/mod/traverse) | Prospector | 7.0.2 | A biome expansion mod that embraces the simplistic nature of Minecraft biomes |
+| [Traverse](https://modrinth.com/mod/traverse) | Prospector | 7.0.4 | A biome expansion mod that embraces the simplistic nature of Minecraft biomes |
 | [WaveyCapes](https://modrinth.com/mod/wavey-capes) | tr7zw | 1.3.2 | The cape shouldn't be a static slab |
 | [Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr) | shedaniel | 0.1.2 | Your options shall be respected. |
 | [Zoomify](https://modrinth.com/mod/zoomify) | isxander | 2.10.0 | A zoom mod with infinite customizability. |
@@ -56,5 +60,5 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) | modmuss50 | 1.9.4+kotlin.1.8.22 | Fabric Language Kotlin |
 | [Indium](https://modrinth.com/mod/indium) | comp500 | 1.0.18+mc1.20 | Sodium addon providing support for the Fabric Rendering API, based on Indigo |
 | [oωo](https://modrinth.com/mod/owo-lib) | glisco | 0.11.0+1.20 | A general utility, GUI and config library for modding on Fabric and Quilt |
-| [Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)](https://modrinth.com/mod/qsl) | Quilt-Holdings | 7.0.2 | The standard libraries of the Quilt ecosystem. Essential for your modding experience on Quilt! |
+| [Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)](https://modrinth.com/mod/qsl) | Quilt-Holdings | 7.0.3 | The standard libraries of the Quilt ecosystem. Essential for your modding experience on Quilt! |
 | [YetAnotherConfigLib](https://modrinth.com/mod/yacl) | isxander | 3.0.1+1.20 | A builder-based configuration library for Minecraft. |
