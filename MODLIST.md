@@ -15,6 +15,8 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Cinderscapes](https://modrinth.com/mod/cinderscapes) | Prospector | 4.0.2 | A biome mod expanding the life of The Nether |
 | [CIT Resewn](https://modrinth.com/mod/cit-resewn) | shsupercm | 1.1.3+1.20 | Re-implements MCPatcher's CIT (custom item textures from optifine resource packs) |
 | [Continuity](https://modrinth.com/mod/continuity) | peppercode1 | 3.0.0-beta.2+1.20 | A Fabric mod that allows for efficient connected textures |
+| [Cooking for Blockheads](https://modrinth.com/mod/cooking-for-blockheads) | BlayTheNinth | 16.0.0 | Adds a cooking book and multiblock kitchens that only shows recipes you can make with what you currently have in your inventory. |
+| [Cozy](https://modrinth.com/mod/cozy) | Frogipher | 1.2.0 | Liven your world with food & decor! |
 | [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves) | isxander | 1.2.0 | Cull leaves while looking hot! |
 | [Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen) | A5b84 | 1.6.14 | Makes the loading screen darker. |
 | [Debugify](https://modrinth.com/mod/debugify) | isxander | 1.20.1+1.1 | Fixes Minecraft bugs found on the bug tracker |
@@ -25,10 +27,12 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [FabricSkyBoxes](https://modrinth.com/mod/fabricskyboxes) | AMereBagatelle | 0.7.1+mc1.20 | Allows resource packs to define custom skyboxes. |
 | [FallingTree](https://modrinth.com/mod/fallingtree) | Rakambda | 4.0.0 | Break down your trees by only cutting one piece of it |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core) | malte0811 | 6.0.0 | Memory usage optimizations |
+| [Harvest with ease](https://modrinth.com/mod/harvest-with-ease) | Nyphet | 7.0.0.1 | Don't break crops, right click them! |
 | [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | RaphiMC | 1.1.15 | Speed up immediate mode rendering in Minecraft |
 | [Inventory Sorting](https://modrinth.com/mod/inventory-sorting) | kyrptonaught | 1.8.10-1.20 | Quick, simple, and lightweight inventory sorting |
 | [Iris Shaders](https://irisshaders.net/) | coderbot | 1.6.4 | A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs |
 | [JourneyMap](https://modrinth.com/mod/journeymap) | mysticdrew | 5.9.9 | Real-time mapping in game or in a web browser as you explore. |
+| [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | LambdAurora | 2.3.1 | A dynamic lights mod for Fabric. |
 | [Language Reload](https://modrinth.com/mod/language-reload) | Jerozgen | 1.5.7+1.20 | Reduces load times and adds fallbacks for languages |
 | [Lithium](https://modrinth.com/mod/lithium) | jellyqsuid3 | 0.11.2 | No-compromises game logic/server optimization mod |
 | [Krypton](https://modrinth.com/mod/krypton) | astei | 0.2.3 | A mod to optimize the Minecraft networking stack |
@@ -55,9 +59,11 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | Name | Author | Version | Description |
 | -------- | -------- | -------- | -------- |
 | [Architectury API](https://modrinth.com/mod/architectury-api) | shedaniel | 9.0.8 | An intermediary api aimed to ease developing multiplatform mods. |
+| [Balm](https://modrinth.com/mod/balm) | BlayTheNinth | 7.0.4 | Abstraction Layer (but not really)™ for Blay's multiplatform mods |
 | [Cloth Config API](https://modrinth.com/mod/cloth-config) | shedaniel | 11.0.99 | Configuration Library for Minecraft Mods |
 | [CreativeCore](https://modrinth.com/mod/creativecore) | creativemd | 2.10.23 | A core mod |
 | [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) | modmuss50 | 1.9.4+kotlin.1.8.22 | Fabric Language Kotlin |
+| [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port) | Fuzs | 8.0.0 | Forge's whole config system provided to the Fabric ecosystem. Designed for a multiloader architecture. |
 | [Indium](https://modrinth.com/mod/indium) | comp500 | 1.0.18+mc1.20 | Sodium addon providing support for the Fabric Rendering API, based on Indigo |
 | [oωo](https://modrinth.com/mod/owo-lib) | glisco | 0.11.0+1.20 | A general utility, GUI and config library for modding on Fabric and Quilt |
 | [Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)](https://modrinth.com/mod/qsl) | Quilt-Holdings | 7.0.3 | The standard libraries of the Quilt ecosystem. Essential for your modding experience on Quilt! |

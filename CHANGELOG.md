@@ -1,5 +1,21 @@
 # Changelog
 
+## 2.2.0
+
+### Added
+- Added Cooking For Blockheads mod
+- Added Cozy mod
+- Added Harvest with ease mod
+- Added LambDynamicLights mod
+
+### Changed
+- Changed waystone cost
+- Updated Cinderscapes to 4.0.5
+- Updated Inventory Sorting to 1.9.0
+- Updated Mod Menu to 7.1.0
+- Updated Reinforced Chests to 2.4.2
+- Updated Traverse to 7.0.6
+
 ## 2.1.0
 
 ### Added
