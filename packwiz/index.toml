@@ -10,7 +10,7 @@ hash = "eab4bfb3a896db2aad190682e5b36c98462fa9561b482dc8d60b8258040d0f62"
 
 [[files]]
 file = "config/fwaystones/config.json5"
-hash = "02352fc2da7f004604495695f1aca3a56dc82fd98c3753154fedcbddbca0f3fa"
+hash = "9d8c09c14e1c921ed0a42703110c6f3a729eaabcbfda7843a26f64cf93a8126f"
 
 [[files]]
 file = "config/ping-wheel.json"
