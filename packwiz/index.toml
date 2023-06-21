@@ -38,6 +38,11 @@ hash = "05ac5655886661106bb34a8a898d47fd317577f7f44519693be882c7a73c64b8"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "4e5894d63fd78dfcc4fd9bd415c2386c693f6fa04e3eb161118a8d33ee7b736d"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "04e54f0b85079f5dbdee4df2c3126d7ad51a2a80276112befa3b8df717fc2fa1"
 metafile = true
@@ -58,8 +63,18 @@ hash = "e1cb00f094495e57ee1083f811a482075caebebb51269b6374512bf02cacff1f"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "6e67b6b86c3187d78356146e2d00ab1dc454769ebdff5ff959dcae16298f9920"
+metafile = true
+
+[[files]]
 file = "mods/better-beds.pw.toml"
 hash = "0bf7fa5d6e5b126e110699e85c64b4d86a1d4171d17adfc994936e6f62b81083"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "e558af86e8e15c4d2733d8bc2ab0caeb203eec2115f17be03f60ea9d71d2ef8e"
 metafile = true
 
 [[files]]
@@ -68,8 +83,13 @@ hash = "56e43a6d3b2f91b41552a09488b6ec374aa0c5796c9d55a1148c17c562949142"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "be694b9cf9d9d2245fb0908c837f129dd9033bfb69ffe49c0e5c9dcecb580a2e"
+metafile = true
+
+[[files]]
 file = "mods/cinderscapes.pw.toml"
-hash = "0aeea005fe74bc136338e262d6fa5da9f322656e71a0fc1570af13b239c07c59"
+hash = "505410f4589f312b7e8631a1a030f3dcd201c882615e129ee557fc2b366a77dd"
 metafile = true
 
 [[files]]
@@ -80,6 +100,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "b9cc3ddd40c728549f8de8db2b211a534303018bf8c18d22871ad17f62c47118"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "1a663e295307641e3f6b875e561f41255bf2f6aaeecc6bc6533e7fd734823bd6"
 metafile = true
 
 [[files]]
@@ -125,6 +150,11 @@ metafile = true
 [[files]]
 file = "mods/eating-animation.pw.toml"
 hash = "13a1357c0e5f6a3bd2978c80c405909b0654079a3f29d8f02fdc30f985f17f9b"
+metafile = true
+
+[[files]]
+file = "mods/elytra_trinket.pw.toml"
+hash = "83fdf26679f1a8c79b0b87e2581154415a9e753e133e35def882fb7b1644b948"
 metafile = true
 
 [[files]]
@@ -188,6 +218,11 @@ hash = "82a7c9721c81c309d3c4dc2cf93ab12e1399894d03b738782ac04b0b7c232213"
 metafile = true
 
 [[files]]
+file = "mods/inventory-totem.pw.toml"
+hash = "c2eb7e78e3d01c29b3bb7d930096859b1fb8e06d1670b9cef5d49f991ca3da10"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "659e2447deffc797f441ed09c0b05d75138253dfacfe1479d3938e55773be4b6"
 metafile = true
@@ -228,6 +263,11 @@ hash = "e00217e8327711e7d6acf95814212d9398499bc15cde7a3ec4ca4417393a8fbc"
 metafile = true
 
 [[files]]
+file = "mods/mooshroom-tweaks.pw.toml"
+hash = "88fb0ed65ba72905ffaa371385574ea186eeb940a29049d0eec1ce5735f58a6a"
+metafile = true
+
+[[files]]
 file = "mods/more-mob-variants.pw.toml"
 hash = "8f878789230d8c194102e1b720feb2762dc1a192e9ee04590a6785c657f7f70e"
 metafile = true
@@ -235,6 +275,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "669008dbd2508a67f8c409096cf2357de450f26a69494289e5852045ade7d358"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "5ac7c70847108d6c21c3352ae5233129a410e42ddf161319cb0a658c0b296693"
 metafile = true
 
 [[files]]
@@ -263,6 +308,11 @@ hash = "b26289a0932399eeccd9e80167963590032bb04a40a52330bcfa218bf2bfda39"
 metafile = true
 
 [[files]]
+file = "mods/realistic-bees.pw.toml"
+hash = "f9bfa0f3edf2f457b3783eedb42e4d6682023f19ea34f16bacea26a5b2975695"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "a1d419cad5a32a4a442b37b2e2fe2db3e761429d6ab60dd3bb79f43d36df2297"
 metafile = true
@@ -284,7 +334,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "67a8a31946ae85efdd9aec14c121885e957c37facc40558d683c14650700f369"
+hash = "9dae2232026213f1fd611d79795496039922a55abd662cfcbe6de23f56f88a94"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "33f4a84790e78ae394e619e4977922d68a91540d801e7c1c49bc074754d86b0f"
 metafile = true
 
 [[files]]
@@ -299,12 +354,17 @@ metafile = true
 
 [[files]]
 file = "mods/traverse.pw.toml"
-hash = "a4784d81eaa3396bc97124f764f1feff2f159199ef07b33a1d13f3ee2b9bc36b"
+hash = "7db72e761cbc24899b879a44751aa371cb5a3dcfb7ec85d07172cffed8266e50"
 metafile = true
 
 [[files]]
-file = "mods/wavey-capes.pw.toml"
-hash = "9f6d01028472394a8c3120f1e2a0229d09c77069bdca793159fecc6074aae394"
+file = "mods/trinkets.pw.toml"
+hash = "5ad04a604b92754fcc7896310f1d201bc9f22bb70901a76504daa265b3f8745c"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "7c3eff18529e48a5a3ba5e73315478fa84f32bf040adca45a37b4ba5a02bccf9"
 metafile = true
 
 [[files]]
@@ -315,6 +375,11 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
+file = "mods/your-items-are-safe.pw.toml"
+hash = "e9fc99724fb2d5cb665005dffda212cd331e0df312b4bfea824ae3aba58c3ad5"
 metafile = true
 
 [[files]]
@@ -330,6 +395,10 @@ hash = "6f9a2c097c05888c04ec22e0d0023e454cc5b7fb9ce9e17faa35a2f00840115a"
 file = "resourcepacks/faithful-64x.pw.toml"
 hash = "cf8103a2051bcc18c38f04808c7556a70ba6f2da7e60fb5a2ad54b6daec5322b"
 metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r2.2.zip.txt"
+hash = "0dcca23f26d2aa32ca9cbba73ca3a2afc09d43574a632d663640b19e58e4ccc9"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
