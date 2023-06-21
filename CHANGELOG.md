@@ -1,5 +1,32 @@
 # Changelog
 
+## 3.0.0
+
+### Added
+- Added Retweaked Atmosphere v2 shader settings for Complementary Reimagined by andywithcatz on Discord
+- Added Alternate Current mod
+- Added BetterEnd mod
+- Added Concurrent Chunk Management Engine mod
+- Added Elytra Trinket mod
+- Added Inventory Totem mod
+- Added Mooshroom Tweaks mod
+- Added No Chat Reports mod
+- Added Realistic Bees mod
+- Added Smooth Chunk Save mod
+- Added Trinkets mod
+- Added Very Many Players mod
+- Added Your Items Are Safe mod
+- Added custom config settings for Your Items Are Safe mod
+
+### Changed
+- Updated Cinderscapes to 4.0.6
+- Updated Simple Voice Chat to 2.4.11
+- Updated Traverse to 7.0.7
+
+### Removed
+- Removed Wavey Capes mod
+- Removed blumewmew Extras resource pack
+
 ## 2.2.0
 
 ### Added
