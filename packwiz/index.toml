@@ -42,11 +42,6 @@ hash = "05ac5655886661106bb34a8a898d47fd317577f7f44519693be882c7a73c64b8"
 metafile = true
 
 [[files]]
-file = "mods/alternate-current.pw.toml"
-hash = "4e5894d63fd78dfcc4fd9bd415c2386c693f6fa04e3eb161118a8d33ee7b736d"
-metafile = true
-
-[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "04e54f0b85079f5dbdee4df2c3126d7ad51a2a80276112befa3b8df717fc2fa1"
 metafile = true
@@ -68,7 +63,7 @@ metafile = true
 
 [[files]]
 file = "mods/bclib.pw.toml"
-hash = "6e67b6b86c3187d78356146e2d00ab1dc454769ebdff5ff959dcae16298f9920"
+hash = "840e4722c4a977094f7406b8fd730c6c783e01b6ba073b91b4e27a5724f2ff35"
 metafile = true
 
 [[files]]
@@ -78,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterend.pw.toml"
-hash = "e558af86e8e15c4d2733d8bc2ab0caeb203eec2115f17be03f60ea9d71d2ef8e"
+hash = "4c0c2629a5825651e8cacb72c4e1035483cfeb93716de464b1a3ea94845191e4"
 metafile = true
 
 [[files]]
@@ -108,7 +103,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "1a663e295307641e3f6b875e561f41255bf2f6aaeecc6bc6533e7fd734823bd6"
+hash = "5762821023a5dcae59dcd54e28e498781662257b727f06f76176693995281791"
 metafile = true
 
 [[files]]
@@ -267,11 +262,6 @@ hash = "e00217e8327711e7d6acf95814212d9398499bc15cde7a3ec4ca4417393a8fbc"
 metafile = true
 
 [[files]]
-file = "mods/mooshroom-tweaks.pw.toml"
-hash = "88fb0ed65ba72905ffaa371385574ea186eeb940a29049d0eec1ce5735f58a6a"
-metafile = true
-
-[[files]]
 file = "mods/more-mob-variants.pw.toml"
 hash = "8f878789230d8c194102e1b720feb2762dc1a192e9ee04590a6785c657f7f70e"
 metafile = true
@@ -334,11 +324,6 @@ metafile = true
 [[files]]
 file = "mods/rpmtw-update-mod.pw.toml"
 hash = "db8cd8a7de6214a62ca1887e52ebe5e5ca22b587dc6c37d7e94bd59f14d1e60f"
-metafile = true
-
-[[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "9dae2232026213f1fd611d79795496039922a55abd662cfcbe6de23f56f88a94"
 metafile = true
 
 [[files]]
