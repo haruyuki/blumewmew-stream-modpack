@@ -33,6 +33,10 @@ file = "config/yosbr/options.txt"
 hash = "9da467309f14d910dd739515dd8055d3f7f613328a4c92cd8eb91e2bff9fb068"
 
 [[files]]
+file = "config/yosbr/shaderpacks/ComplementaryReimagined_r2.2.zip.txt"
+hash = "0dcca23f26d2aa32ca9cbba73ca3a2afc09d43574a632d663640b19e58e4ccc9"
+
+[[files]]
 file = "config/youritemsaresafe.json5"
 hash = "64dba2e29440e89f5a7e7cc6fee11e9d4f7910f1c9bb2359b2214d4d2c22f075"
 
@@ -378,12 +382,8 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/faithful-64x.pw.toml"
-hash = "cf8103a2051bcc18c38f04808c7556a70ba6f2da7e60fb5a2ad54b6daec5322b"
+hash = "6a4680740b04a71b6d5bd6a6779191466335e01836aeb8585f1257bd79c6df9a"
 metafile = true
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r2.2.zip.txt"
-hash = "0dcca23f26d2aa32ca9cbba73ca3a2afc09d43574a632d663640b19e58e4ccc9"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
