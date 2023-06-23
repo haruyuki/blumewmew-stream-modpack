@@ -1,5 +1,18 @@
 # Changelog
 
+## 3.0.1
+
+### Changed
+- Updated BCLib to 3.0.9
+- Updated BetterEnd to 4.0.6
+- Updated Collective to 1.20.1-6.62
+- Moved Complementary Reimagined shader settings to YOSBR folder
+
+### Removed
+- Removed Alternate Current mod
+- Removed Mooshroom Tweaks mod
+- Removed Simple Voice Chat mod
+
 ## 3.0.0
 
 ### Added
@@ -7,7 +20,7 @@
 - Added Alternate Current mod
 - Added BetterEnd mod
 - Added Concurrent Chunk Management Engine mod
-- Added Elytra Trinket mod
+- Added Elytra Slot mod
 - Added Inventory Totem mod
 - Added Mooshroom Tweaks mod
 - Added No Chat Reports mod
