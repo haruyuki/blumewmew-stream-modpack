@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "04e54f0b85079f5dbdee4df2c3126d7ad51a2a80276112befa3b8df717fc2fa1"
+hash = "ee7eb03efe5a0750068ad1fd1d5e1fb950c73d1537b3a48c8bdc5d2f2bc650cc"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/bclib.pw.toml"
-hash = "840e4722c4a977094f7406b8fd730c6c783e01b6ba073b91b4e27a5724f2ff35"
+hash = "8d56c37138b08dc4e098bcdcf50579e1428df2c2e071022633a3b2e48bf0c975"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterend.pw.toml"
-hash = "4c0c2629a5825651e8cacb72c4e1035483cfeb93716de464b1a3ea94845191e4"
+hash = "3f3a883eedcb90e199fe94e96e46615866a86a3b31e7e33d37dd180700c3268b"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "cdba4b9a99e550c7eb1d70e30d34261ea692872e566a319300a13761d96a6835"
+hash = "066ea6997391a36d481c7d065cc357ec17f1610c0a30c243d4cf6fcf7485e75d"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "e0bcfae8d473e27507ca87747e1529eb34c2eb763efcb41c849ed863cbd70c75"
+hash = "409d820a08baf91ace8443e3abb9ef8914083b053e1e24cb989419aaef8b3f5d"
 metafile = true
 
 [[files]]
@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "b26289a0932399eeccd9e80167963590032bb04a40a52330bcfa218bf2bfda39"
+hash = "3f36737e564906049beb87529db19a44126c2a7717f1b112fc326229295e62d1"
 metafile = true
 
 [[files]]
@@ -328,11 +328,6 @@ metafile = true
 [[files]]
 file = "mods/rpmtw-update-mod.pw.toml"
 hash = "db8cd8a7de6214a62ca1887e52ebe5e5ca22b587dc6c37d7e94bd59f14d1e60f"
-metafile = true
-
-[[files]]
-file = "mods/smooth-chunk-save.pw.toml"
-hash = "33f4a84790e78ae394e619e4977922d68a91540d801e7c1c49bc074754d86b0f"
 metafile = true
 
 [[files]]
@@ -362,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "2da296c9f042dc47c672e2645be715c2f1cefa764f938a8e95e6c4163f8ce3ab"
+hash = "2cff9d338f25408ade4a747bd11a5d8a328bd007ae4505e70e971113351f0432"
 metafile = true
 
 [[files]]
