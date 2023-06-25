@@ -1,5 +1,18 @@
 # Changelog
 
+## 3.0.2
+
+### Changed
+- Updated CreativeCore to 2.10.24
+- Updated Quilted Fabric API to 7.0.4
+- Updated BCLib to 3.0.10
+- Updated Language Reload to 1.5.8
+- Updated BetterEnd to 4.0.7
+- Updated AmbientSounds to 5.2.20
+
+### Removed
+- Removed Smooth Chunk Save mod
+
 ## 3.0.1
 
 ### Changed
