@@ -1,5 +1,10 @@
 # Changelog
 
+## 4.0.1
+
+### Added
+- Added Polymorph mod
+
 ## 4.0.0
 
 ### Added

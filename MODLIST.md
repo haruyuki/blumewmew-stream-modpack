@@ -53,6 +53,7 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Aizistral | 2.2.2 | Makes chat unreportable (where possible) |
 | [OptiGUI](https://modrinth.com/mod/optigui) | opekope2 | 2.1.2 | Custom inventory GUIs on Fabric&Quilt with OptiFine resource pack support&many more features |
 | [Ping Wheel](https://modrinth.com/mod/ping-wheel) | Luken | 1.3.0 | Allows players to temporarily mark locations for everyone |
+| [Polymorph](https://modrinth.com/mod/polymorph) | TheIllusiveC4 | 0.49.0 | No more recipe conflicts! Adds an option to choose the crafting result if more than one is available. |
 | [Powah!](https://modrinth.com/mod/powah) | Technici4n | 5.0.0 | A tech mod that adds various ways to generate, store and transmit Energy |
 | [Puzzle](https://modrinth.com/mod/puzzle) | Motschen | 1.5.1+1.20 | Adds resourcepack features and a GUI to more conveniently configure OptiFine alternatives. |
 | [Realistic Bees](https://modrinth.com/mod/realistic-bees) | Serilum | 1.20.1-3.4 | 🐝 Tiny bees, or big! Bigger group spawns, increased hive space, stinger functionality and more. |
