@@ -196,11 +196,6 @@ hash = "4eec3de8a58a6e64ea96e31781b52f70b4b33ec02a34a45f171e3a1e6697ba86"
 metafile = true
 
 [[files]]
-file = "mods/fabric-language-kotlin.pw.toml"
-hash = "4ee359a86da950211a8da17a896c815af7d35fd9c5b7d3472f3fd5676476ba81"
-metafile = true
-
-[[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
 hash = "3a86b3417b781abc294b6e41c475e5ac1831944527db6f07f0107a30e5bde0bd"
 metafile = true
