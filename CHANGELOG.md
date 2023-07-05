@@ -1,5 +1,37 @@
 # Changelog
 
+## 4.0.0
+
+### Added
+- *Added Applied Energistics 2 mod*
+- Added Animatica mod
+- Added Applied Energistics 2 Wireless Terminals mod
+- Added Better Mount HUD mod
+- Added Boat Item View mod
+- Added Enhanced Block Entities mod
+- Added Powah! mod
+- Added Quilt Kotlin Libraries (QKL) mod
+- Added When Dungeons Arise mod
+
+### Changed
+- Updated Faithful 64x resource pack to 1.20.1 Experimental
+- Updated Complementary Reimagined shader pack to 2.2.1
+- Updated Cinderscapes to 4.0.7
+- Updated FallingTree to 4.2.0
+- Updated JourneyMap to 5.9.10
+- Updated No Chat Reports to 2.2.2
+- Updated owo-lib to 0.11.1
+- Updated Quilted Fabric API to 7.0.5
+- Updated REI to 12.0.626
+- Updated RPMTW to 1.5.7
+- Updated Traverse to 7.0.8
+- Updated YetAnotherConfigLib to 3.0.3
+
+### Removed
+- Removed blumewmew Extras resource pack from options.txt
+- Removed Fabric Language Kotlin
+
+
 ## 3.0.2
 
 ### Changed
