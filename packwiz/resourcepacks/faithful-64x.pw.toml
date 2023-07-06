@@ -1,7 +1,13 @@
-name = "Faithful 64x - 1.20.1 Experimental"
+name = "Faithful 64x"
 filename = "Faithful 64x - 1.20 Experimental.zip"
+side = "both"
 
 [download]
-url = "https://database.faithfulpack.net/packs/64x-Java/Experimental/Faithful%2064x%20-%201.20.1%20Experimental.zip"
-hash-format = "sha256"
-hash = "4fcccc83116865db1af5aaf768601c0829c0f203c25bd2b74a5338924b39c615"
+url = "https://cdn.modrinth.com/data/r4GILswZ/versions/YOjutORB/Faithful%2064x%20-%20Beta%209.zip"
+hash-format = "sha1"
+hash = "6dd076b2a74b7b9a0141339be48ef9c72c559516"
+
+[update]
+[update.modrinth]
+mod-id = "r4GILswZ"
+version = "YOjutORB"
