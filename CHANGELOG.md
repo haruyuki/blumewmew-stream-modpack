@@ -1,5 +1,18 @@
 # Changelog
 
+## 4.0.2
+
+### Added
+- Added DeathLog mod
+- Added Raised mod
+- Added View Distance Fix mod
+- Added ToolTipFix mod
+
+### Changed
+- Updated JourneyMap to 5.9.11
+- Updated Harvest with ease to 7.0.0.2
+- Updated Indium to 1.0.20
+
 ## 4.0.1
 
 ### Added

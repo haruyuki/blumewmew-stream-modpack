@@ -26,6 +26,7 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Cozy](https://modrinth.com/mod/cozy) | Frogipher | 1.2.0 | Liven your world with food & decor! |
 | [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves) | isxander | 1.2.0 | Cull leaves while looking hot! |
 | [Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen) | A5b84 | 1.6.14 | Makes the loading screen darker. |
+| [DeathLog](https://modrinth.com/mod/deathlog) | glisco | 0.3.2 | Keeps track of the many embarrassing times you died |
 | [Debugify](https://modrinth.com/mod/debugify) | isxander | 1.20.1+1.1 | Fixes Minecraft bugs found on the bug tracker |
 | [Deeper Oceans](https://modrinth.com/datapack/deeper-oceans) | Apollo | 1.0.1a | Oceans, but 3x as deep! |
 | [Eating Animation](https://modrinth.com/mod/eating-animation) | theoness1 | 1.9.4+1.20 | A mod that adds sprite animations for edible and drinkable items. |
@@ -53,9 +54,10 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Aizistral | 2.2.2 | Makes chat unreportable (where possible) |
 | [OptiGUI](https://modrinth.com/mod/optigui) | opekope2 | 2.1.2 | Custom inventory GUIs on Fabric&Quilt with OptiFine resource pack support&many more features |
 | [Ping Wheel](https://modrinth.com/mod/ping-wheel) | Luken | 1.3.0 | Allows players to temporarily mark locations for everyone |
-| [Polymorph](https://modrinth.com/mod/polymorph) | TheIllusiveC4 | 0.49.0 | No more recipe conflicts! Adds an option to choose the crafting result if more than one is available. |
+| [Polymorph](https://modrinth.com/mod/polymorph) | TheIllusiveC4 | 0.49.0 | No more recipe conflicts! Adds an option to choose the crafting result if more than one is available. |	
 | [Powah!](https://modrinth.com/mod/powah) | Technici4n | 5.0.0 | A tech mod that adds various ways to generate, store and transmit Energy |
 | [Puzzle](https://modrinth.com/mod/puzzle) | Motschen | 1.5.1+1.20 | Adds resourcepack features and a GUI to more conveniently configure OptiFine alternatives. |
+| [Raised](https://modrinth.com/mod/raised) | yurisuika | 1.2.2 | Raises the hotbar so the selector is not cut off! |
 | [Realistic Bees](https://modrinth.com/mod/realistic-bees) | Serilum | 1.20.1-3.4 | 🐝 Tiny bees, or big! Bigger group spawns, increased hive space, stinger functionality and more. |
 | [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) | FlashyReese | 1.5.1+mc1.20-build.74 | Alternative Options Menu for Sodium |
 | [Reinforced Chests](https://modrinth.com/mod/reinforced-chests) | Aton-Kish | 2.4.2 | Adds reinforced chests. |
@@ -63,9 +65,11 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [RPMTW Update Mod](https://modrinth.com/mod/rpmtw-update-mod) | SiongSng | 1.5.7 | The mod integrated with RPMTW services covers translation, wiki, universe chat, Chinese input optimization, and other features for Minecraft players to get a better gaming experience. |
 | [Sodium](https://modrinth.com/mod/sodium) | jellysquid3 | 0.4.10+build.27 | Modern rendering engine and client-side optimization mod for Minecraft |
 | [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) | henkelmax | 1.20.1-1.1.1 | A Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks. |
+| [ToolTipFix](https://modrinth.com/mod/tooltipfix) | kyrptonaught | 1.1.1 | Fixes Tooltips from runnning off the screen. |
 | [Traverse](https://modrinth.com/mod/traverse) | Prospector | 7.0.8 | A biome expansion mod that embraces the simplistic nature of Minecraft biomes |
 | [Trinkets](https://modrinth.com/mod/trinkets) | Emi | 3.7.0 | A data-driven accessory mod |
 | [Very Many Players (Fabric)](https://modrinth.com/mod/vmp-fabric) | ishland | 0.2.0+beta.7.96+1.20.1 | A Fabric mod designed to improve server performance at high playercounts. |
+| [View Distance Fix](https://modrinth.com/mod/view-distance-fix) | henkelmax | 1.20.1-1.0.0 | A server side Fabric mod that fixes the fog when having a higher render distance on the client than on the server |
 | [When Dungeons Arise](https://modrinth.com/mod/when-dungeons-arise) | aureljz | 2.1.56 | Adds various elegant -and likely hostile- roguelike dungeons and structure that generate on your worlds! |
 | [Your Items Are Safe](https://modrinth.com/mod/your-items-are-safe) | Serilum | 3.4 | 💀 Spawns a chest and armor stand with player items on death, a gravestone alternative. |
 | [Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr) | shedaniel | 0.1.2 | Your options shall be respected. |
