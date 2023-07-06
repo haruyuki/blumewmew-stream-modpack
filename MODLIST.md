@@ -69,7 +69,6 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Traverse](https://modrinth.com/mod/traverse) | Prospector | 7.0.8 | A biome expansion mod that embraces the simplistic nature of Minecraft biomes |
 | [Trinkets](https://modrinth.com/mod/trinkets) | Emi | 3.7.0 | A data-driven accessory mod |
 | [Very Many Players (Fabric)](https://modrinth.com/mod/vmp-fabric) | ishland | 0.2.0+beta.7.96+1.20.1 | A Fabric mod designed to improve server performance at high playercounts. |
-| [View Distance Fix](https://modrinth.com/mod/view-distance-fix) | henkelmax | 1.20.1-1.0.0 | A server side Fabric mod that fixes the fog when having a higher render distance on the client than on the server |
 | [When Dungeons Arise](https://modrinth.com/mod/when-dungeons-arise) | aureljz | 2.1.56 | Adds various elegant -and likely hostile- roguelike dungeons and structure that generate on your worlds! |
 | [Your Items Are Safe](https://modrinth.com/mod/your-items-are-safe) | Serilum | 3.4 | 💀 Spawns a chest and armor stand with player items on death, a gravestone alternative. |
 | [Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr) | shedaniel | 0.1.2 | Your options shall be respected. |

@@ -5,7 +5,6 @@
 ### Added
 - Added DeathLog mod
 - Added Raised mod
-- Added View Distance Fix mod
 - Added ToolTipFix mod
 
 ### Changed
