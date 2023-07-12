@@ -91,6 +91,11 @@ hash = "0bf7fa5d6e5b126e110699e85c64b4d86a1d4171d17adfc994936e6f62b81083"
 metafile = true
 
 [[files]]
+file = "mods/better-compressed-blocks.pw.toml"
+hash = "2573d54e34965dad6e8df5bbb70b9731343f64a802d4cb87a0d33ba6f70eb454"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
 metafile = true
@@ -378,6 +383,11 @@ metafile = true
 [[files]]
 file = "mods/rpmtw-update-mod.pw.toml"
 hash = "a00130681bc090d33b4690661f80e886f8883805365b22953a94911cc28aeae5"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "6afddbb9999fbdeb30199a43754c06aef8bab71bebed392f8aa74ace1afbdbc0"
 metafile = true
 
 [[files]]
