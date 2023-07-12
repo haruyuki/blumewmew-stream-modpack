@@ -7,14 +7,15 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 ## Functional
 | Name | Author | Version | Description |
 | -------- | -------- | -------- | -------- | 
-| [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) | tr7zw | 1.5.3-mc1.20 | Render the player skin layer in 3d! |
+| [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) | tr7zw | 1.5.4 | Render the player skin layer in 3d! |
 | [AmbientSounds](https://modrinth.com/mod/ambientsounds) | creativemd | 5.2.20 | #listentonature |
 | [Animatica](https://modrinth.com/mod/animatica) | FoundationGames | 0.6 | A mod implementing the OptiFine/MCPatcher animated texture format |
 | [AppleSkin](https://modrinth.com/mod/appleskin) | squeek502 | 2.5.0+mc1.20 | Food/hunger-related HUD improvements |
-| [Applied Energistics 2](https://modrinth.com/mod/ae2) | shartte | 15.0.3-alpha | AE2: A popular automation and storage mod |
+| [Applied Energistics 2](https://modrinth.com/mod/ae2) | shartte | 15.0.4-beta | AE2: A popular automation and storage mod |
 | [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) | Mari023 | 15.0.1 | An addon for Applied Energistics 2 that adds wireless versions of several Terminals |
-| [BetterEnd](https://modrinth.com/mod/betterend) | quiqueck | 4.0.7 | New Biomes, mysterious rituals and Mobs for your End |
+| [BetterEnd](https://modrinth.com/mod/betterend) | quiqueck | 4.0.8 | New Biomes, mysterious rituals and Mobs for your End |
 | [Better Beds](https://modrinth.com/mod/better-beds) | Motschen | 1.3.0 | Changes the renderer of the bed to use json models instead of a block entity renderer! |
+| [Better Compressed Blocks](https://modrinth.com/mod/better-compressed-blocks) | MrLoLf | 1.9 | Adding Compressed Blocks for Cobblestone, Dirt, Sand, Gravel, Netherrack and more |
 | [Better Mount HUD](https://modrinth.com/mod/better-mount-hud) | Lortseam | 1.2.2 | Improves the ingame HUD while riding a mount |
 | [Boat Item View](https://modrinth.com/mod/boat-item-view) | 50ap5ud5 | 0.0.5 | See your held items when in a moving boat! | 
 | [Bobby](https://modrinth.com/mod/bobby) | Johni0702 | 5.0.0 | Allows for render distances greater than the server's view-distance |
@@ -27,7 +28,7 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves) | isxander | 1.2.0 | Cull leaves while looking hot! |
 | [Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen) | A5b84 | 1.6.14 | Makes the loading screen darker. |
 | [DeathLog](https://modrinth.com/mod/deathlog) | glisco | 0.3.2 | Keeps track of the many embarrassing times you died |
-| [Debugify](https://modrinth.com/mod/debugify) | isxander | 1.20.1+1.1 | Fixes Minecraft bugs found on the bug tracker |
+| [Debugify](https://modrinth.com/mod/debugify) | isxander | 2.0 | Fixes Minecraft bugs found on the bug tracker |
 | [Deeper Oceans](https://modrinth.com/datapack/deeper-oceans) | Apollo | 1.0.1a | Oceans, but 3x as deep! |
 | [Eating Animation](https://modrinth.com/mod/eating-animation) | theoness1 | 1.9.4+1.20 | A mod that adds sprite animations for edible and drinkable items. |
 | [Elytra Slot](https://modrinth.com/mod/elytra-slot) | TheIllusiveC4 | 6.3.0 | Adds accessory support to the elytra so you can fly and wear chest armor at the same time. Formerly known as Curious Elytra and Elytra Trinket. |
@@ -38,7 +39,7 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [FallingTree](https://modrinth.com/mod/fallingtree) | Rakambda | 4.2.0 | Break down your trees by only cutting one piece of it |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core) | malte0811 | 6.0.0 | Memory usage optimizations |
 | [Harvest with ease](https://modrinth.com/mod/harvest-with-ease) | Nyphet | 7.0.0.1 | Don't break crops, right click them! |
-| [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | RaphiMC | 1.1.15 | Speed up immediate mode rendering in Minecraft |
+| [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | RaphiMC | 1.1.16 | Speed up immediate mode rendering in Minecraft |
 | [Inventory Sorting](https://modrinth.com/mod/inventory-sorting) | kyrptonaught | 1.9.0 | Quick, simple, and lightweight inventory sorting |
 | [Inventory Totem](https://modrinth.com/mod/inventory-totem) | Serilum | 1.20.1-3.0 | 🎴 Makes the totem of undying effect work when it's anywhere in the inventory. |
 | [Iris Shaders](https://irisshaders.net/) | coderbot | 1.6.4 | A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs |
@@ -53,16 +54,17 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) | YaLTeR | 2.25 | Enhances inventory management by adding various functions to the mouse buttons. |
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Aizistral | 2.2.2 | Makes chat unreportable (where possible) |
 | [OptiGUI](https://modrinth.com/mod/optigui) | opekope2 | 2.1.2 | Custom inventory GUIs on Fabric&Quilt with OptiFine resource pack support&many more features |
-| [Ping Wheel](https://modrinth.com/mod/ping-wheel) | Luken | 1.3.0 | Allows players to temporarily mark locations for everyone |
+| [Ping Wheel](https://modrinth.com/mod/ping-wheel) | Luken | 1.3.1 | Allows players to temporarily mark locations for everyone |
 | [Polymorph](https://modrinth.com/mod/polymorph) | TheIllusiveC4 | 0.49.0 | No more recipe conflicts! Adds an option to choose the crafting result if more than one is available. |	
-| [Powah!](https://modrinth.com/mod/powah) | Technici4n | 5.0.0 | A tech mod that adds various ways to generate, store and transmit Energy |
-| [Puzzle](https://modrinth.com/mod/puzzle) | Motschen | 1.5.1+1.20 | Adds resourcepack features and a GUI to more conveniently configure OptiFine alternatives. |
-| [Raised](https://modrinth.com/mod/raised) | yurisuika | 1.2.2 | Raises the hotbar so the selector is not cut off! |
+| [Powah!](https://modrinth.com/mod/powah) | Technici4n | 5.0.1 | A tech mod that adds various ways to generate, store and transmit Energy |
+| [Puzzle](https://modrinth.com/mod/puzzle) | Motschen | 1.5.2 | Adds resourcepack features and a GUI to more conveniently configure OptiFine alternatives. |
+| [Raised](https://modrinth.com/mod/raised) | yurisuika | 1.2.3 | Raises the hotbar so the selector is not cut off! |
 | [Realistic Bees](https://modrinth.com/mod/realistic-bees) | Serilum | 1.20.1-3.4 | 🐝 Tiny bees, or big! Bigger group spawns, increased hive space, stinger functionality and more. |
 | [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) | FlashyReese | 1.5.1+mc1.20-build.74 | Alternative Options Menu for Sodium |
 | [Reinforced Chests](https://modrinth.com/mod/reinforced-chests) | Aton-Kish | 2.4.2 | Adds reinforced chests. |
 | [Roughly Enough Items](https://modrinth.com/mod/rei) | shedaniel | 12.0.626 | Adds a mod menu to view the list of mods you have installed. |
 | [RPMTW Update Mod](https://modrinth.com/mod/rpmtw-update-mod) | SiongSng | 1.5.7 | The mod integrated with RPMTW services covers translation, wiki, universe chat, Chinese input optimization, and other features for Minecraft players to get a better gaming experience. |
+| [ShulkerBoxToolTip](https://modrinth.com/mod/shulkerboxtooltip) | MisterPeModder | 4.0.4 | View the contents of shulker boxes from your inventory |
 | [Sodium](https://modrinth.com/mod/sodium) | jellysquid3 | 0.4.10+build.27 | Modern rendering engine and client-side optimization mod for Minecraft |
 | [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) | henkelmax | 1.20.1-1.1.1 | A Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks. |
 | [ToolTipFix](https://modrinth.com/mod/tooltipfix) | kyrptonaught | 1.1.1 | Fixes Tooltips from runnning off the screen. |
@@ -77,15 +79,15 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 ## Libraries
 | Name | Author | Version | Description |
 | -------- | -------- | -------- | -------- |
-| [Architectury API](https://modrinth.com/mod/architectury-api) | shedaniel | 9.0.8 | An intermediary api aimed to ease developing multiplatform mods. |
+| [Architectury API](https://modrinth.com/mod/architectury-api) | shedaniel | 9.1.10 | An intermediary api aimed to ease developing multiplatform mods. |
 | [Balm](https://modrinth.com/mod/balm) | BlayTheNinth | 7.0.4 | Abstraction Layer (but not really)™ for Blay's multiplatform mods |
-| [BCLib](https://modrinth.com/mod/bclib) | quiqueck | 3.0.10 | A Library Mod for the BetterX Team |
-| [Cloth Config API](https://modrinth.com/mod/cloth-config) | shedaniel | 11.0.99 | Configuration Library for Minecraft Mods |
-| [Collective](https://modrinth.com/mod/collective) | Serilum | 1.20.1-6.62 | 🎓 Collective is a shared library with common code for all of Serilum's mods. |
-| [CreativeCore](https://modrinth.com/mod/creativecore) | creativemd | 2.10.24 | A core mod |
+| [BCLib](https://modrinth.com/mod/bclib) | quiqueck | 3.0.11 | A Library Mod for the BetterX Team |
+| [Cloth Config API](https://modrinth.com/mod/cloth-config) | shedaniel | 11.1.106 | Configuration Library for Minecraft Mods |
+| [Collective](https://modrinth.com/mod/collective) | Serilum | 6.65 | 🎓 Collective is a shared library with common code for all of Serilum's mods. |
+| [CreativeCore](https://modrinth.com/mod/creativecore) | creativemd | 2.10.28 | A core mod |
 | [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port) | Fuzs | 8.0.0 | Forge's whole config system provided to the Fabric ecosystem. Designed for a multiloader architecture. |
-| [Indium](https://modrinth.com/mod/indium) | comp500 | 1.0.18+mc1.20 | Sodium addon providing support for the Fabric Rendering API, based on Indigo |
+| [Indium](https://modrinth.com/mod/indium) | comp500 | 1.0.21 | Sodium addon providing support for the Fabric Rendering API, based on Indigo |
 | [oωo](https://modrinth.com/mod/owo-lib) | glisco | 0.11.1 | A general utility, GUI and config library for modding on Fabric and Quilt |
-| [Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)](https://modrinth.com/mod/qsl) | Quilt-Holdings | 7.0.5 | The standard libraries of the Quilt ecosystem. Essential for your modding experience on Quilt! |
+| [Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)](https://modrinth.com/mod/qsl) | Quilt-Holdings | 7.0.6 | The standard libraries of the Quilt ecosystem. Essential for your modding experience on Quilt! |
 | [Quilt Language Kotlin (QKL)](https://modrinth.com/mod/qkl) | Quilt-Holdings | 2.1.0 | Quilt's official Kotlin libraries |
 | [YetAnotherConfigLib](https://modrinth.com/mod/yacl) | isxander | 3.0.3 | A builder-based configuration library for Minecraft. |

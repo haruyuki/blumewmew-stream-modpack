@@ -1,5 +1,30 @@
 # Changelog
 
+## 4.1.0
+
+### Added
+- Added Better Compressed Blocks mod
+- Added ShulkerBoxTooltip mod
+
+### Changed
+- Updated 3D Skin Layers to 1.5.4
+- Updated Applied Energistics 2 to 15.0.4-beta
+- Updated Architectury API to 9.1.10
+- Updated BCLib to 3.0.11
+- Updated BetterEnd to 4.0.8
+- Updated ClothConfig to 11.1.106
+- Updated Collective 6.65
+- Updated CreativeCore to 2.10.28
+- Updated Debugify to 2.0
+- Updated ImmediatelyFast to 1.1.16
+- Updated Indium to 1.0.21
+- Updated Ping Wheel to 1.3.1
+- Updated Powah! to 5.0.1
+- Updated Puzzle to 1.5.2
+- Updated Quilted Fabric API to 7.0.6
+- Updated Raised to 1.2.3
+
+
 ## 4.0.2
 
 ### Added

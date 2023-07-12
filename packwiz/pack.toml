@@ -1,6 +1,6 @@
 name = "Blumewmew's Stream Modpack"
 author = "blumewmew"
-version = "4.1.2"
+version = "4.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
