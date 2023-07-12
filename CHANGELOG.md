@@ -24,7 +24,6 @@
 - Updated Quilted Fabric API to 7.0.6
 - Updated Raised to 1.2.3
 
-
 ## 4.0.2
 
 ### Added
