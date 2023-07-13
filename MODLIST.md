@@ -15,7 +15,6 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Applied Energistics 2](https://modrinth.com/mod/ae2) | shartte | 15.0.4-beta | AE2: A popular automation and storage mod |
 | [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) | Mari023 | 15.0.1 | An addon for Applied Energistics 2 that adds wireless versions of several Terminals |
 | [BetterEnd](https://modrinth.com/mod/betterend) | quiqueck | 4.0.8 | New Biomes, mysterious rituals and Mobs for your End |
-| [Better Beds](https://modrinth.com/mod/better-beds) | Motschen | 1.3.0 | Changes the renderer of the bed to use json models instead of a block entity renderer! |
 | [Better Compressed Blocks](https://modrinth.com/mod/better-compressed-blocks) | MrLoLf | 1.9 | Adding Compressed Blocks for Cobblestone, Dirt, Sand, Gravel, Netherrack and more |
 | [Better Mount HUD](https://modrinth.com/mod/better-mount-hud) | Lortseam | 1.2.2 | Improves the ingame HUD while riding a mount |
 | [Boat Item View](https://modrinth.com/mod/boat-item-view) | 50ap5ud5 | 0.0.5 | See your held items when in a moving boat! | 
