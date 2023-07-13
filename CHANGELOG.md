@@ -1,5 +1,24 @@
 # Changelog
 
+## 5.0.0
+
+### Added
+- Added Ad Astra mod
+- Added Dark Utilities mod
+- Added Ender Zoology mod
+- Added Linked Storage mod
+- Added Minecraft Transit Railway mod
+- Added Naturally Charged Creepers mod
+- Added WTHIT mod
+- Added custom BCLib config settings to config folder
+
+### Changed
+- Updated Concurrent Chunk Management Engine (Fabric) to 10.93
+- Updated FabricSkyboxes to 0.7.2
+
+### Removed
+- Removed Better Beds mod
+
 ## 4.1.0
 
 ### Added

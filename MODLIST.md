@@ -8,6 +8,7 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | Name | Author | Version | Description |
 | -------- | -------- | -------- | -------- | 
 | [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) | tr7zw | 1.5.4 | Render the player skin layer in 3d! |
+| [Ad Astra](https://modrinth.com/mod/ad-astra) | Terrarium | 1.15.1 | Live long and prosper, Ad Astra! |
 | [AmbientSounds](https://modrinth.com/mod/ambientsounds) | creativemd | 5.2.20 | #listentonature |
 | [Animatica](https://modrinth.com/mod/animatica) | FoundationGames | 0.6 | A mod implementing the OptiFine/MCPatcher animated texture format |
 | [AppleSkin](https://modrinth.com/mod/appleskin) | squeek502 | 2.5.0+mc1.20 | Food/hunger-related HUD improvements |
@@ -27,11 +28,13 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Cozy](https://modrinth.com/mod/cozy) | Frogipher | 1.2.0 | Liven your world with food & decor! |
 | [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves) | isxander | 1.2.0 | Cull leaves while looking hot! |
 | [Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen) | A5b84 | 1.6.14 | Makes the loading screen darker. |
+| [Dark Utilities](https://modrinth.com/mod/dark-utilities) | Darkhax | 16.0.3 | Expansive content mod which adds a little bit of everything. |
 | [DeathLog](https://modrinth.com/mod/deathlog) | glisco | 0.3.2 | Keeps track of the many embarrassing times you died |
 | [Debugify](https://modrinth.com/mod/debugify) | isxander | 2.0 | Fixes Minecraft bugs found on the bug tracker |
 | [Deeper Oceans](https://modrinth.com/datapack/deeper-oceans) | Apollo | 1.0.1a | Oceans, but 3x as deep! |
 | [Eating Animation](https://modrinth.com/mod/eating-animation) | theoness1 | 1.9.4+1.20 | A mod that adds sprite animations for edible and drinkable items. |
 | [Elytra Slot](https://modrinth.com/mod/elytra-slot) | TheIllusiveC4 | 6.3.0 | Adds accessory support to the elytra so you can fly and wear chest armor at the same time. Formerly known as Curious Elytra and Elytra Trinket. |
+| [Ender Zoology](https://modrinth.com/mod/ender-zoology) | Fuzs | 8.0.1 | Vanilla themed monsters to add some difficulty to the game. A remake of Ender Zoo. |
 | [Enhanced Block Entities](https://modrinth.com/mod/ebe) | FoundationGames | 0.9 | Reduce FPS lag with block entities, as well as customize them with resource packs |
 | [Entity Culling](https://modrinth.com/mod/entityculling) | tr7zw | 1.6.2-mc1.20 | Using async path-tracing to hide Block-/Entities that are not visible |
 | [Fabric Waystones](https://modrinth.com/mod/fwaystones) | LordDeatHunter | 3.1.2-mc1.20 | A better way of transport |
@@ -47,11 +50,14 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | LambdAurora | 2.3.1 | A dynamic lights mod for Fabric. |
 | [Language Reload](https://modrinth.com/mod/language-reload) | Jerozgen | 1.5.8 | Reduces load times and adds fallbacks for languages |
 | [Lithium](https://modrinth.com/mod/lithium) | jellyqsuid3 | 0.11.2 | No-compromises game logic/server optimization mod |
+| [Linked Storage](https://modrinth.com/mod/linked-storage) | kyrptonaught | 1.5.2 | Linkable storages! |
 | [Krypton](https://modrinth.com/mod/krypton) | astei | 0.2.3 | A mod to optimize the Minecraft networking stack |
 | [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) | fxmorin | 1.1.1 | A mod that fixes random memory leaks for both the client and server |
+| [Minecraft Transit Railway](https://modrinth.com/mod/minecraft-transit-railway) | jonafanho | 3.2.2-hotfix-1 | Build your own transport network with automated trains, boats, cable cars, and planes! |
 | [Mod Menu](https://modrinth.com/mod/modmenu) | Prospector | 7.1.0 | Adds a mod menu to view the list of mods you have installed. |
 | [More Mob Variants](https://modrinth.com/mod/more-mob-variants) | nyuppo |  1.2.2 | Adds new variants to existing mobs. |
 | [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) | YaLTeR | 2.25 | Enhances inventory management by adding various functions to the mouse buttons. |
+| [Naturally Charged Creepers](https://modrinth.com/mod/naturally-charged-creepers) | Serilum | 3.2 | 🔋 Allows creepers to spawn charged in order to increase the game's difficulty. |
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Aizistral | 2.2.2 | Makes chat unreportable (where possible) |
 | [OptiGUI](https://modrinth.com/mod/optigui) | opekope2 | 2.1.2 | Custom inventory GUIs on Fabric&Quilt with OptiFine resource pack support&many more features |
 | [Ping Wheel](https://modrinth.com/mod/ping-wheel) | Luken | 1.3.1 | Allows players to temporarily mark locations for everyone |
@@ -72,6 +78,7 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Trinkets](https://modrinth.com/mod/trinkets) | Emi | 3.7.0 | A data-driven accessory mod |
 | [Very Many Players (Fabric)](https://modrinth.com/mod/vmp-fabric) | ishland | 0.2.0+beta.7.96+1.20.1 | A Fabric mod designed to improve server performance at high playercounts. |
 | [When Dungeons Arise](https://modrinth.com/mod/when-dungeons-arise) | aureljz | 2.1.56 | Adds various elegant -and likely hostile- roguelike dungeons and structure that generate on your worlds! |
+| [WTHIT](https://modrinth.com/mod/wthit) | deirn | 8.1.1 | What the hell is that? |
 | [Your Items Are Safe](https://modrinth.com/mod/your-items-are-safe) | Serilum | 3.4 | 💀 Spawns a chest and armor stand with player items on death, a gravestone alternative. |
 | [Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr) | shedaniel | 0.1.2 | Your options shall be respected. |
 | [Zoomify](https://modrinth.com/mod/zoomify) | isxander | 2.10.0 | A zoom mod with infinite customizability. |
@@ -82,6 +89,9 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Architectury API](https://modrinth.com/mod/architectury-api) | shedaniel | 9.1.10 | An intermediary api aimed to ease developing multiplatform mods. |
 | [Balm](https://modrinth.com/mod/balm) | BlayTheNinth | 7.0.4 | Abstraction Layer (but not really)™ for Blay's multiplatform mods |
 | [BCLib](https://modrinth.com/mod/bclib) | quiqueck | 3.0.11 | A Library Mod for the BetterX Team |
+| [Bookshelf](https://modrinth.com/mod/bookshelf-lib) | Darkhax | 19.0.16 | An open source library for other mods! |
+| [Botarium](https://modrinth.com/mod/botarium) | Terrarium | 2.1.1 | A crossplatform API for devs that makes transfer and storage of items, fluids and energy easier, as well as some other helpful things |
+| [Cardinal Components API](https://modrinth.com/mod/cardinal-components-api) | Pyrofab | 5.2.1 | A data attachment API that is easy, modular, and extremely fast. |
 | [Cloth Config API](https://modrinth.com/mod/cloth-config) | shedaniel | 11.1.106 | Configuration Library for Minecraft Mods |
 | [Collective](https://modrinth.com/mod/collective) | Serilum | 6.65 | 🎓 Collective is a shared library with common code for all of Serilum's mods. |
 | [CreativeCore](https://modrinth.com/mod/creativecore) | creativemd | 2.10.28 | A core mod |
@@ -90,4 +100,9 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [oωo](https://modrinth.com/mod/owo-lib) | glisco | 0.11.1 | A general utility, GUI and config library for modding on Fabric and Quilt |
 | [Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)](https://modrinth.com/mod/qsl) | Quilt-Holdings | 7.0.6 | The standard libraries of the Quilt ecosystem. Essential for your modding experience on Quilt! |
 | [Quilt Language Kotlin (QKL)](https://modrinth.com/mod/qkl) | Quilt-Holdings | 2.1.0 | Quilt's official Kotlin libraries |
+| [Pig Pen Cipher](https://modrinth.com/mod/pig-pen-cipher) | Darkhax | 14.0.1 | Adds the pigpen cipher to Minecraft |
+| [Puzzles Lib](https://modrinth.com/mod/puzzles-lib) | Fuzs | 8.0.7 | Why's it called Puzzles you ask? That's the puzzle! |
+| [Resourceful Config](https://modrinth.com/mod/resourceful-config) | ThatGravyBoat | 2.0.0 | Resourceful Config is a mod that allows for developers to make cross-platform configs |
+| [Resourceful Lib](https://modrinth.com/mod/resourceful-lib) | ThatGravyBoat | 2.1.2 | Resourceful Lib |
+| [Runelic](https://modrinth.com/mod/runelic) | Darkhax | 17.0.1 | A runic font for Minecraft. |
 | [YetAnotherConfigLib](https://modrinth.com/mod/yacl) | isxander | 3.0.3 | A builder-based configuration library for Minecraft. |
