@@ -210,11 +210,6 @@ hash = "97ca0b01ac6888486402018e7c95ec3b219a89c3338a416fd25418def5f51fa1"
 metafile = true
 
 [[files]]
-file = "mods/dark-utilities.pw.toml"
-hash = "4d09615039394965bda95c26631acdb0605990facb66ab38fb15ff32d9409244"
-metafile = true
-
-[[files]]
 file = "mods/deathlog.pw.toml"
 hash = "b02739fbdc676c7561a500ad26aa59802b463e08d637d261b247a544f788d585"
 metafile = true
@@ -395,11 +390,6 @@ hash = "83b476730dba8c3cdc9ee6ed4e0623f97bc116848aebfe3149eece321083b251"
 metafile = true
 
 [[files]]
-file = "mods/pig-pen-cipher.pw.toml"
-hash = "16d7cbbd942330185fe98b447145b12345186bd73f769998ea8d2de7f6636b27"
-metafile = true
-
-[[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "835a482e07f197cf635b0c96c9d668f6d186e72fcfa5010b81b3b4be6d8489cf"
 metafile = true
@@ -462,11 +452,6 @@ metafile = true
 [[files]]
 file = "mods/rpmtw-update-mod.pw.toml"
 hash = "a00130681bc090d33b4690661f80e886f8883805365b22953a94911cc28aeae5"
-metafile = true
-
-[[files]]
-file = "mods/runelic.pw.toml"
-hash = "094af1c4cd7142f3c2da2cee08e2a3352b9fe9963b10d3f95f53dfe5d05e02ed"
 metafile = true
 
 [[files]]
