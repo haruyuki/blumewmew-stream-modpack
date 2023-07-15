@@ -70,11 +70,6 @@ hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
 metafile = true
 
 [[files]]
-file = "mods/ad-astra.pw.toml"
-hash = "2f836822bac213db83c4aaceab665b20e220ae42cbc1678239c8fff585cecb65"
-metafile = true
-
-[[files]]
 file = "mods/ae2.pw.toml"
 hash = "ae9173e1d85d2490f520e779f628b219c5f96b4822f1ca5fb6ce223e4de02acf"
 metafile = true
@@ -152,11 +147,6 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "ae83a4383b39be9255329e5ef2b5aba7cb1d1cb526715ce8c7efcea3c854e649"
-metafile = true
-
-[[files]]
-file = "mods/botarium.pw.toml"
-hash = "130dacafa710b59988b7c72271becc3019da4e86be4ce281ac493a1d9563b76c"
 metafile = true
 
 [[files]]
@@ -446,7 +436,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "9287bf3cac30edd8589cb334b14f8564f3b158622acdb7fb12f46ca845c63b9c"
+hash = "7843c9f45563df3fab3779f6771316b679d32694085d5626b2a060453fbe4e03"
 metafile = true
 
 [[files]]
@@ -467,16 +457,6 @@ metafile = true
 [[files]]
 file = "mods/reinforced-chests.pw.toml"
 hash = "9c672efa939b3ee31e4290942c3042f985fd6473a6c5831e33ac7aa91cd0635b"
-metafile = true
-
-[[files]]
-file = "mods/resourceful-config.pw.toml"
-hash = "43e3a15bf79c2f26f1af9a13c4430da8dd93b2911ae17654ca579eadf0614ed9"
-metafile = true
-
-[[files]]
-file = "mods/resourceful-lib.pw.toml"
-hash = "13534f6c5df22054f4d3c0c280a91626dc58fe70a58c3ff439319857948a7969"
 metafile = true
 
 [[files]]
