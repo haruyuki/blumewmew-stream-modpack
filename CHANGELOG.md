@@ -7,6 +7,7 @@
 
 ### Removed
 - Removed Ad Astra
+- Removed Dark Utilities
 
 ## 5.1.0
 

@@ -27,7 +27,6 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Cozy](https://modrinth.com/mod/cozy) | Frogipher | 1.2.0 | Liven your world with food & decor! |
 | [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves) | isxander | 1.2.0 | Cull leaves while looking hot! |
 | [Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen) | A5b84 | 1.6.14 | Makes the loading screen darker. |
-| [Dark Utilities](https://modrinth.com/mod/dark-utilities) | Darkhax | 16.0.3 | Expansive content mod which adds a little bit of everything. |
 | [DeathLog](https://modrinth.com/mod/deathlog) | glisco | 0.3.2 | Keeps track of the many embarrassing times you died |
 | [Debugify](https://modrinth.com/mod/debugify) | isxander | 2.0 | Fixes Minecraft bugs found on the bug tracker |
 | [Deeper Oceans](https://modrinth.com/datapack/deeper-oceans) | Apollo | 1.0.1a | Oceans, but 3x as deep! |
@@ -88,7 +87,6 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Architectury API](https://modrinth.com/mod/architectury-api) | shedaniel | 9.1.10 | An intermediary api aimed to ease developing multiplatform mods. |
 | [Balm](https://modrinth.com/mod/balm) | BlayTheNinth | 7.0.4 | Abstraction Layer (but not really)™ for Blay's multiplatform mods |
 | [BCLib](https://modrinth.com/mod/bclib) | quiqueck | 3.0.11 | A Library Mod for the BetterX Team |
-| [Bookshelf](https://modrinth.com/mod/bookshelf-lib) | Darkhax | 19.0.16 | An open source library for other mods! |
 | [Cardinal Components API](https://modrinth.com/mod/cardinal-components-api) | Pyrofab | 5.2.1 | A data attachment API that is easy, modular, and extremely fast. |
 | [Cloth Config API](https://modrinth.com/mod/cloth-config) | shedaniel | 11.1.106 | Configuration Library for Minecraft Mods |
 | [Collective](https://modrinth.com/mod/collective) | Serilum | 6.65 | 🎓 Collective is a shared library with common code for all of Serilum's mods. |
@@ -98,7 +96,5 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [oωo](https://modrinth.com/mod/owo-lib) | glisco | 0.11.1 | A general utility, GUI and config library for modding on Fabric and Quilt |
 | [Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)](https://modrinth.com/mod/qsl) | Quilt-Holdings | 7.0.6 | The standard libraries of the Quilt ecosystem. Essential for your modding experience on Quilt! |
 | [Quilt Language Kotlin (QKL)](https://modrinth.com/mod/qkl) | Quilt-Holdings | 2.1.0 | Quilt's official Kotlin libraries |
-| [Pig Pen Cipher](https://modrinth.com/mod/pig-pen-cipher) | Darkhax | 14.0.1 | Adds the pigpen cipher to Minecraft |
 | [Puzzles Lib](https://modrinth.com/mod/puzzles-lib) | Fuzs | 8.0.7 | Why's it called Puzzles you ask? That's the puzzle! |
-| [Runelic](https://modrinth.com/mod/runelic) | Darkhax | 17.0.1 | A runic font for Minecraft. |
 | [YetAnotherConfigLib](https://modrinth.com/mod/yacl) | isxander | 3.0.3 | A builder-based configuration library for Minecraft. |
