@@ -8,7 +8,6 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | Name | Author | Version | Description |
 | -------- | -------- | -------- | -------- | 
 | [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) | tr7zw | 1.5.4 | Render the player skin layer in 3d! |
-| [Ad Astra](https://modrinth.com/mod/ad-astra) | Terrarium | 1.15.2 | Live long and prosper, Ad Astra! |
 | [AmbientSounds](https://modrinth.com/mod/ambientsounds) | creativemd | 5.2.20 | #listentonature |
 | [Animatica](https://modrinth.com/mod/animatica) | FoundationGames | 0.6 | A mod implementing the OptiFine/MCPatcher animated texture format |
 | [AntiGhost](https://modrinth.com/mod/antighost) | Giselbaer | 0.83.0-1.1.5 | Get rid of ghost blocks by requesting resends from the server |
@@ -90,7 +89,6 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Balm](https://modrinth.com/mod/balm) | BlayTheNinth | 7.0.4 | Abstraction Layer (but not really)™ for Blay's multiplatform mods |
 | [BCLib](https://modrinth.com/mod/bclib) | quiqueck | 3.0.11 | A Library Mod for the BetterX Team |
 | [Bookshelf](https://modrinth.com/mod/bookshelf-lib) | Darkhax | 19.0.16 | An open source library for other mods! |
-| [Botarium](https://modrinth.com/mod/botarium) | Terrarium | 2.1.2 | A crossplatform API for devs that makes transfer and storage of items, fluids and energy easier, as well as some other helpful things |
 | [Cardinal Components API](https://modrinth.com/mod/cardinal-components-api) | Pyrofab | 5.2.1 | A data attachment API that is easy, modular, and extremely fast. |
 | [Cloth Config API](https://modrinth.com/mod/cloth-config) | shedaniel | 11.1.106 | Configuration Library for Minecraft Mods |
 | [Collective](https://modrinth.com/mod/collective) | Serilum | 6.65 | 🎓 Collective is a shared library with common code for all of Serilum's mods. |
@@ -102,7 +100,5 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Quilt Language Kotlin (QKL)](https://modrinth.com/mod/qkl) | Quilt-Holdings | 2.1.0 | Quilt's official Kotlin libraries |
 | [Pig Pen Cipher](https://modrinth.com/mod/pig-pen-cipher) | Darkhax | 14.0.1 | Adds the pigpen cipher to Minecraft |
 | [Puzzles Lib](https://modrinth.com/mod/puzzles-lib) | Fuzs | 8.0.7 | Why's it called Puzzles you ask? That's the puzzle! |
-| [Resourceful Config](https://modrinth.com/mod/resourceful-config) | ThatGravyBoat | 2.0.0 | Resourceful Config is a mod that allows for developers to make cross-platform configs |
-| [Resourceful Lib](https://modrinth.com/mod/resourceful-lib) | ThatGravyBoat | 2.1.3 | Resourceful Lib |
 | [Runelic](https://modrinth.com/mod/runelic) | Darkhax | 17.0.1 | A runic font for Minecraft. |
 | [YetAnotherConfigLib](https://modrinth.com/mod/yacl) | isxander | 3.0.3 | A builder-based configuration library for Minecraft. |

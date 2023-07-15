@@ -1,5 +1,13 @@
 # Changelog
 
+## 5.2.0
+
+### Changed
+- Updated Raised to 2.0.0
+
+### Removed
+- Removed Ad Astra
+
 ## 5.1.0
 
 ### Added
