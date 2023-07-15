@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
-hash = "c26220fd74d85f2cb2b3258f061e6f996fae4f3a9f0afdaf0293123b585b4feb"
+hash = "2f836822bac213db83c4aaceab665b20e220ae42cbc1678239c8fff585cecb65"
 metafile = true
 
 [[files]]
@@ -151,12 +151,12 @@ metafile = true
 
 [[files]]
 file = "mods/botarium.pw.toml"
-hash = "46efd7419ff90ec2a7d037838e6f38cae15bb7b9d17a576123f69c2fe8bc46b8"
+hash = "130dacafa710b59988b7c72271becc3019da4e86be4ce281ac493a1d9563b76c"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "943bcba1557ea49efad4f40689a20a8824b588a7ebaa95a25c17c3e64176a67a"
+hash = "78bf078da5e46c2513889f86aa24e522d0651055b5a93a17341b96fdcba70b5e"
 metafile = true
 
 [[files]]
@@ -386,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "0241aaf8419884f43f529223b52e274712b109557e065846b953ab91953f2cb7"
+hash = "e697002e593a54c31759e3849eaae1be9bcdff0d8ffc667c95d7fdf5bf59d979"
 metafile = true
 
 [[files]]
@@ -451,7 +451,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "401489a8476901a3f5d354b1d413f88034c9d69fb0928c932d042d99f33e68fc"
+hash = "470797db4f6f2110ac75f4d066557ffdee5ea3f08009e4ac4baa238da894acbe"
 metafile = true
 
 [[files]]
@@ -466,7 +466,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "e99cda7dfe83c55cd6698c5a4e1c8bfe738cdb48ce953a1843bb10be34ada205"
+hash = "13534f6c5df22054f4d3c0c280a91626dc58fe70a58c3ff439319857948a7969"
 metafile = true
 
 [[files]]
