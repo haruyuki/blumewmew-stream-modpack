@@ -63,7 +63,7 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Polymorph](https://modrinth.com/mod/polymorph) | TheIllusiveC4 | 0.49.0 | No more recipe conflicts! Adds an option to choose the crafting result if more than one is available. |	
 | [Powah!](https://modrinth.com/mod/powah) | Technici4n | 5.0.1 | A tech mod that adds various ways to generate, store and transmit Energy |
 | [Puzzle](https://modrinth.com/mod/puzzle) | Motschen | 1.5.2 | Adds resourcepack features and a GUI to more conveniently configure OptiFine alternatives. |
-| [Raised](https://modrinth.com/mod/raised) | yurisuika | 1.2.3 | Raises the hotbar so the selector is not cut off! |
+| [Raised](https://modrinth.com/mod/raised) | yurisuika | 2.0.0 | Raises the hotbar so the selector is not cut off! |
 | [Realistic Bees](https://modrinth.com/mod/realistic-bees) | Serilum | 1.20.1-3.4 | 🐝 Tiny bees, or big! Bigger group spawns, increased hive space, stinger functionality and more. |
 | [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) | FlashyReese | 1.5.1+mc1.20-build.74 | Alternative Options Menu for Sodium |
 | [Reinforced Chests](https://modrinth.com/mod/reinforced-chests) | Aton-Kish | 2.4.2 | Adds reinforced chests. |
