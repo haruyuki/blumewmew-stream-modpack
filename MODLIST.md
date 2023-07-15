@@ -8,9 +8,10 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | Name | Author | Version | Description |
 | -------- | -------- | -------- | -------- | 
 | [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) | tr7zw | 1.5.4 | Render the player skin layer in 3d! |
-| [Ad Astra](https://modrinth.com/mod/ad-astra) | Terrarium | 1.15.1 | Live long and prosper, Ad Astra! |
+| [Ad Astra](https://modrinth.com/mod/ad-astra) | Terrarium | 1.15.2 | Live long and prosper, Ad Astra! |
 | [AmbientSounds](https://modrinth.com/mod/ambientsounds) | creativemd | 5.2.20 | #listentonature |
 | [Animatica](https://modrinth.com/mod/animatica) | FoundationGames | 0.6 | A mod implementing the OptiFine/MCPatcher animated texture format |
+| [AntiGhost](https://modrinth.com/mod/antighost) | Giselbaer | 0.83.0-1.1.5 | Get rid of ghost blocks by requesting resends from the server |
 | [AppleSkin](https://modrinth.com/mod/appleskin) | squeek502 | 2.5.0+mc1.20 | Food/hunger-related HUD improvements |
 | [Applied Energistics 2](https://modrinth.com/mod/ae2) | shartte | 15.0.4-beta | AE2: A popular automation and storage mod |
 | [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) | Mari023 | 15.0.1 | An addon for Applied Energistics 2 that adds wireless versions of several Terminals |
@@ -21,7 +22,7 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Bobby](https://modrinth.com/mod/bobby) | Johni0702 | 5.0.0 | Allows for render distances greater than the server's view-distance |
 | [Cinderscapes](https://modrinth.com/mod/cinderscapes) | Prospector | 4.0.7 | A biome mod expanding the life of The Nether |
 | [CIT Resewn](https://modrinth.com/mod/cit-resewn) | shsupercm | 1.1.3+1.20 | Re-implements MCPatcher's CIT (custom item textures from optifine resource packs) |
-| [Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/mod/c2me-fabric) | ishland | 0.2.0+alpha.10.91+1.20.1 | A Fabric mod designed to improve the chunk performance of Minecraft. |
+| [Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/mod/c2me-fabric) | ishland | 10.94 | A Fabric mod designed to improve the chunk performance of Minecraft. |
 | [Continuity](https://modrinth.com/mod/continuity) | peppercode1 | 3.0.0-beta.2+1.20 | A Fabric mod that allows for efficient connected textures |
 | [Cooking for Blockheads](https://modrinth.com/mod/cooking-for-blockheads) | BlayTheNinth | 16.0.0 | Adds a cooking book and multiblock kitchens that only shows recipes you can make with what you currently have in your inventory. |
 | [Cozy](https://modrinth.com/mod/cozy) | Frogipher | 1.2.0 | Liven your world with food & decor! |
@@ -40,6 +41,7 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [FabricSkyBoxes](https://modrinth.com/mod/fabricskyboxes) | AMereBagatelle | 0.7.1+mc1.20 | Allows resource packs to define custom skyboxes. |
 | [FallingTree](https://modrinth.com/mod/fallingtree) | Rakambda | 4.2.0 | Break down your trees by only cutting one piece of it |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core) | malte0811 | 6.0.0 | Memory usage optimizations |
+| [Gravestones](https://modrinth.com/mod/gravestones) | Geometrically | 1.20 | A gravestones mod for fabric with tons of config options, an API, and more! |
 | [Harvest with ease](https://modrinth.com/mod/harvest-with-ease) | Nyphet | 7.0.0.1 | Don't break crops, right click them! |
 | [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | RaphiMC | 1.1.16 | Speed up immediate mode rendering in Minecraft |
 | [Inventory Sorting](https://modrinth.com/mod/inventory-sorting) | kyrptonaught | 1.9.0 | Quick, simple, and lightweight inventory sorting |
@@ -58,7 +60,7 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) | YaLTeR | 2.25 | Enhances inventory management by adding various functions to the mouse buttons. |
 | [Naturally Charged Creepers](https://modrinth.com/mod/naturally-charged-creepers) | Serilum | 3.2 | 🔋 Allows creepers to spawn charged in order to increase the game's difficulty. |
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Aizistral | 2.2.2 | Makes chat unreportable (where possible) |
-| [OptiGUI](https://modrinth.com/mod/optigui) | opekope2 | 2.1.2 | Custom inventory GUIs on Fabric&Quilt with OptiFine resource pack support&many more features |
+| [OptiGUI](https://modrinth.com/mod/optigui) | opekope2 | 2.1.3 | Custom inventory GUIs on Fabric&Quilt with OptiFine resource pack support&many more features |
 | [Ping Wheel](https://modrinth.com/mod/ping-wheel) | Luken | 1.3.1 | Allows players to temporarily mark locations for everyone |
 | [Polymorph](https://modrinth.com/mod/polymorph) | TheIllusiveC4 | 0.49.0 | No more recipe conflicts! Adds an option to choose the crafting result if more than one is available. |	
 | [Powah!](https://modrinth.com/mod/powah) | Technici4n | 5.0.1 | A tech mod that adds various ways to generate, store and transmit Energy |
@@ -67,7 +69,7 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Realistic Bees](https://modrinth.com/mod/realistic-bees) | Serilum | 1.20.1-3.4 | 🐝 Tiny bees, or big! Bigger group spawns, increased hive space, stinger functionality and more. |
 | [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) | FlashyReese | 1.5.1+mc1.20-build.74 | Alternative Options Menu for Sodium |
 | [Reinforced Chests](https://modrinth.com/mod/reinforced-chests) | Aton-Kish | 2.4.2 | Adds reinforced chests. |
-| [Roughly Enough Items](https://modrinth.com/mod/rei) | shedaniel | 12.0.626 | Adds a mod menu to view the list of mods you have installed. |
+| [Roughly Enough Items](https://modrinth.com/mod/rei) | shedaniel | 12.0.630 | Adds a mod menu to view the list of mods you have installed. |
 | [RPMTW Update Mod](https://modrinth.com/mod/rpmtw-update-mod) | SiongSng | 1.5.7 | The mod integrated with RPMTW services covers translation, wiki, universe chat, Chinese input optimization, and other features for Minecraft players to get a better gaming experience. |
 | [ShulkerBoxToolTip](https://modrinth.com/mod/shulkerboxtooltip) | MisterPeModder | 4.0.4 | View the contents of shulker boxes from your inventory |
 | [Sodium](https://modrinth.com/mod/sodium) | jellysquid3 | 0.4.10+build.27 | Modern rendering engine and client-side optimization mod for Minecraft |
@@ -78,7 +80,6 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Very Many Players (Fabric)](https://modrinth.com/mod/vmp-fabric) | ishland | 0.2.0+beta.7.96+1.20.1 | A Fabric mod designed to improve server performance at high playercounts. |
 | [When Dungeons Arise](https://modrinth.com/mod/when-dungeons-arise) | aureljz | 2.1.56 | Adds various elegant -and likely hostile- roguelike dungeons and structure that generate on your worlds! |
 | [WTHIT](https://modrinth.com/mod/wthit) | deirn | 8.1.1 | What the hell is that? |
-| [Your Items Are Safe](https://modrinth.com/mod/your-items-are-safe) | Serilum | 3.4 | 💀 Spawns a chest and armor stand with player items on death, a gravestone alternative. |
 | [Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr) | shedaniel | 0.1.2 | Your options shall be respected. |
 | [Zoomify](https://modrinth.com/mod/zoomify) | isxander | 2.10.0 | A zoom mod with infinite customizability. |
 
@@ -89,7 +90,7 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Balm](https://modrinth.com/mod/balm) | BlayTheNinth | 7.0.4 | Abstraction Layer (but not really)™ for Blay's multiplatform mods |
 | [BCLib](https://modrinth.com/mod/bclib) | quiqueck | 3.0.11 | A Library Mod for the BetterX Team |
 | [Bookshelf](https://modrinth.com/mod/bookshelf-lib) | Darkhax | 19.0.16 | An open source library for other mods! |
-| [Botarium](https://modrinth.com/mod/botarium) | Terrarium | 2.1.1 | A crossplatform API for devs that makes transfer and storage of items, fluids and energy easier, as well as some other helpful things |
+| [Botarium](https://modrinth.com/mod/botarium) | Terrarium | 2.1.2 | A crossplatform API for devs that makes transfer and storage of items, fluids and energy easier, as well as some other helpful things |
 | [Cardinal Components API](https://modrinth.com/mod/cardinal-components-api) | Pyrofab | 5.2.1 | A data attachment API that is easy, modular, and extremely fast. |
 | [Cloth Config API](https://modrinth.com/mod/cloth-config) | shedaniel | 11.1.106 | Configuration Library for Minecraft Mods |
 | [Collective](https://modrinth.com/mod/collective) | Serilum | 6.65 | 🎓 Collective is a shared library with common code for all of Serilum's mods. |
@@ -102,6 +103,6 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Pig Pen Cipher](https://modrinth.com/mod/pig-pen-cipher) | Darkhax | 14.0.1 | Adds the pigpen cipher to Minecraft |
 | [Puzzles Lib](https://modrinth.com/mod/puzzles-lib) | Fuzs | 8.0.7 | Why's it called Puzzles you ask? That's the puzzle! |
 | [Resourceful Config](https://modrinth.com/mod/resourceful-config) | ThatGravyBoat | 2.0.0 | Resourceful Config is a mod that allows for developers to make cross-platform configs |
-| [Resourceful Lib](https://modrinth.com/mod/resourceful-lib) | ThatGravyBoat | 2.1.2 | Resourceful Lib |
+| [Resourceful Lib](https://modrinth.com/mod/resourceful-lib) | ThatGravyBoat | 2.1.3 | Resourceful Lib |
 | [Runelic](https://modrinth.com/mod/runelic) | Darkhax | 17.0.1 | A runic font for Minecraft. |
 | [YetAnotherConfigLib](https://modrinth.com/mod/yacl) | isxander | 3.0.3 | A builder-based configuration library for Minecraft. |

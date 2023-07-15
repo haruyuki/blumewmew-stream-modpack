@@ -1,5 +1,22 @@
 # Changelog
 
+## 5.1.0
+
+### Added
+- Added Gravestones mod
+- Added AntiGhost mod
+
+### Changed
+- Updated Ad Astra to 1.15.2
+- Updated Botarium to 2.1.2
+- Updated Concurrent Chunk Management Engine (Fabric) to 10.94
+- Updated OptiGUI to 2.1.3
+- Updated REI to 12.0.630
+- Updated Resourceful Lib to 2.1.3
+
+### Removed
+- Removed Your Items Are Safe mod
+
 ## 5.0.0
 
 ### Added
