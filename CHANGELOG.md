@@ -1,5 +1,10 @@
 # Changelog
 
+## 5.2.1
+
+### Removed
+- Removed Bookshelf mod
+
 ## 5.2.0
 
 ### Changed
