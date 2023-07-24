@@ -1,5 +1,10 @@
 # Changelog
 
+## 6.0.1
+
+### Changed
+- Updated BCLib config settings
+
 ## 6.0.0
 
 ### Added
