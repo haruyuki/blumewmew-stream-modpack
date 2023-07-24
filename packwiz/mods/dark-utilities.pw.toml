@@ -1,0 +1,13 @@
+name = "Dark Utilities"
+filename = "DarkUtilities-Fabric-1.20.1-17.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CkqTAIaP/versions/nYB6kVsD/DarkUtilities-Fabric-1.20.1-17.0.1.jar"
+hash-format = "sha1"
+hash = "ce7b52f32b09d08ca13913cc70820605ea324eb3"
+
+[update]
+[update.modrinth]
+mod-id = "CkqTAIaP"
+version = "nYB6kVsD"

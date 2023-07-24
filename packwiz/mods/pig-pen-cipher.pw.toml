@@ -1,0 +1,13 @@
+name = "Pig Pen Cipher"
+filename = "PigPen-Fabric-1.20.1-15.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2xZPITh8/versions/d8ZQfLyL/PigPen-Fabric-1.20.1-15.0.1.jar"
+hash-format = "sha1"
+hash = "adc806231347d42e6809a97bcf938cac1ebea352"
+
+[update]
+[update.modrinth]
+mod-id = "2xZPITh8"
+version = "d8ZQfLyL"

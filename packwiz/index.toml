@@ -159,6 +159,11 @@ hash = "56e43a6d3b2f91b41552a09488b6ec374aa0c5796c9d55a1148c17c562949142"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "7a8878adad1c35daaba04095a2a52b56b7263f1042e2273419cc82475bbd9903"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "78bf078da5e46c2513889f86aa24e522d0651055b5a93a17341b96fdcba70b5e"
 metafile = true
@@ -226,6 +231,11 @@ metafile = true
 [[files]]
 file = "mods/dark-loading-screen.pw.toml"
 hash = "97ca0b01ac6888486402018e7c95ec3b219a89c3338a416fd25418def5f51fa1"
+metafile = true
+
+[[files]]
+file = "mods/dark-utilities.pw.toml"
+hash = "2d7dbc316024bf9784e1b75af7dc2a2d6126ab1cd7e3c542d6f1afd44e290457"
 metafile = true
 
 [[files]]
@@ -419,6 +429,11 @@ hash = "83b476730dba8c3cdc9ee6ed4e0623f97bc116848aebfe3149eece321083b251"
 metafile = true
 
 [[files]]
+file = "mods/pig-pen-cipher.pw.toml"
+hash = "df8d5f6662cbc9b19cb1fff604f784f2186b416eddbc45479382393b0ca8c050"
+metafile = true
+
+[[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "6f7bd0d03b00fa86ec16daf83ecb46949d24ccc4c0d451fa927fb502a9d85bfe"
 metafile = true
@@ -481,6 +496,11 @@ metafile = true
 [[files]]
 file = "mods/rpmtw-update-mod.pw.toml"
 hash = "a00130681bc090d33b4690661f80e886f8883805365b22953a94911cc28aeae5"
+metafile = true
+
+[[files]]
+file = "mods/runelic.pw.toml"
+hash = "3fa21ad2b62024e0ca29ee7b5edbff016e02bf2dd864f510a4cb39a7dc781571"
 metafile = true
 
 [[files]]
