@@ -474,6 +474,11 @@ hash = "7843c9f45563df3fab3779f6771316b679d32694085d5626b2a060453fbe4e03"
 metafile = true
 
 [[files]]
+file = "mods/raisedxappleskin.pw.toml"
+hash = "5cdd2aa39fcbac94074e09d16776f35f5fe6ac55a7bf6084045f634def320a56"
+metafile = true
+
+[[files]]
 file = "mods/realistic-bees.pw.toml"
 hash = "f9bfa0f3edf2f457b3783eedb42e4d6682023f19ea34f16bacea26a5b2975695"
 metafile = true

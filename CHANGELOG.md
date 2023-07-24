@@ -1,5 +1,34 @@
 # Changelog
 
+## 6.0.0
+
+### Added
+- Added Armor Visibility mod
+- Added Carry On mod
+- Added Controlling mod
+- Added Dark Utilities mod
+- Added Durability Tooltip mod
+- Added Sculk Depths mod
+- Added Staaaaaaaaaaaack mod
+- Added Trash Cans mod
+
+### Changed
+- Updated Applied Energistics 2 to 15.0.5-beta
+- Updated BetterEnd to 4.0.9
+- Updated Better Compressed Blocks to 4.0.9
+- Updated FabricSkyboxes Interop to 1.3.3
+- Updated FallingTree to 4.2.3
+- Updated JourneyMap to 5.9.12
+- Updated ModMenu to 7.2.1
+- Updated OptiGUI to 2.1.5
+- Updated Ping Wheel to 1.4.0
+- Updated Roughly Enough Items to 12.0.634
+- Updated Trinkets to 3.7.1
+- Updated Very Many Players to 0.2.0+beta.8.98
+- Updated WTHIT to 8.2.0
+- Updated BCLib to 3.0.12
+- Updated Puzzles Lib to 8.0.12
+
 ## 5.2.1
 
 ### Removed
