@@ -1,6 +1,29 @@
 # Changelog
 
-## 6.0.1
+## 6.1.0
+
+### Added
+- Added Chat Heads mod
+- Added Universal Graves mod
+- Added Simple Voice Chat mod
+- Added WTHIT config settings
+- Added Universal Graves config settings
+
+### Changed
+- Changed EnderZoology to spawn less mob types
+- Changed Universal Graves to not have self destruction time
+- Updated Applied Energistics 2 to 15.0.6-beta
+- Updated Architectury API to 9.1.12
+- Updated Carry On to 2.1.1.3
+- Updated Reese's Sodium Options to 1.6.2
+- Updated RPMTW to 1.5.8
+- Updated SuperMartijn's Core Lib to 1.1.12a
+- Updated Very Many Players to 0.2.0+beta.7.99
+- Updated YetAnotherConfigLib to 3.1.0
+
+### Removed
+- Removed Gravestones mod
+- Removed Very Many Players mod
 
 ### Changed
 - Updated BCLib config settings

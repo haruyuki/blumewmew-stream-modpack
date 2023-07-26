@@ -33,6 +33,10 @@ file = "config/debugify.json"
 hash = "59610be9899e23cdbe955e8e2008421d21dda05477539d91d0bf7e1fa135d711"
 
 [[files]]
+file = "config/enderzoology-common.toml"
+hash = "97c44ac50fc796e3c58b7b3ef23cb4ae08a8fae0e610cd360093c351f4e47fc9"
+
+[[files]]
 file = "config/fallingtree.json"
 hash = "eab4bfb3a896db2aad190682e5b36c98462fa9561b482dc8d60b8258040d0f62"
 
@@ -53,8 +57,16 @@ file = "config/rpmtw_platform_mod.json5"
 hash = "63327c0daac84b95651d56bf73608acad563bb07f9e2c1aa0751972855a6db90"
 
 [[files]]
+file = "config/universal-graves/config.json"
+hash = "b039294ea686233cdb5408827820bfda5f86b62494cc9c238605e3b2a4872ff4"
+
+[[files]]
 file = "config/voicechat/voicechat-server.properties"
-hash = "86df594d377d8015bc6897c3198e05485598f15066d32b2de7453feaabac29cf"
+hash = "913b62db9361028f5989d4c6cf364b9b57d98ef945fa2210805b33dc0785a5e5"
+
+[[files]]
+file = "config/waila/blacklist.json"
+hash = "33fe2be13cb1e3bfdac8c67fc219645fc1fd9161f785a4f2e2f6d51f8da5bcdf"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -179,6 +191,11 @@ hash = "b37fd7262ff2ffe29e35a1f625d53adadb550696574263f18c55407b5071db73"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "cd2e4fa0a3dda308c440d163b8339b2072cfb2409a0def1f49099a3114596ab6"
+metafile = true
+
+[[files]]
 file = "mods/cinderscapes.pw.toml"
 hash = "1ee4f8f755296c54434b5c4c02cbe86bfd36471e97dda15781877a88aa88be15"
 metafile = true
@@ -200,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "2ff8353009122a86ac846dd8d48b2522d46f3b43111eb3a697d99cc42285a14f"
+hash = "8e73f68cbcbff53b6a00c30f371fc34a63c2ac2240af4792008d67dce74fb507"
 metafile = true
 
 [[files]]
@@ -571,11 +588,6 @@ metafile = true
 [[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "fda4e069e887ff780b767ba811a8e882ae527df4bdd8eacd7d60bab76eb27f27"
-metafile = true
-
-[[files]]
-file = "mods/vmp-fabric.pw.toml"
-hash = "f94769cf1233dd2c919693677be0eb53976d471674b2901a62d6251ceb8c5158"
 metafile = true
 
 [[files]]

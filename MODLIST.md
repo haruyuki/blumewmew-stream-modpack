@@ -12,7 +12,7 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Animatica](https://modrinth.com/mod/animatica) | FoundationGames | 0.6 | A mod implementing the OptiFine/MCPatcher animated texture format |
 | [AntiGhost](https://modrinth.com/mod/antighost) | Giselbaer | 0.83.0-1.1.5 | Get rid of ghost blocks by requesting resends from the server |
 | [AppleSkin](https://modrinth.com/mod/appleskin) | squeek502 | 2.5.0+mc1.20 | Food/hunger-related HUD improvements |
-| [Applied Energistics 2](https://modrinth.com/mod/ae2) | shartte | 15.0.5-beta | AE2: A popular automation and storage mod |
+| [Applied Energistics 2](https://modrinth.com/mod/ae2) | shartte | 15.0.6-beta | AE2: A popular automation and storage mod |
 | [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) | Mari023 | 15.0.1 | An addon for Applied Energistics 2 that adds wireless versions of several Terminals |
 | [Armor Visibility](https://modrinth.com/mod/armor-visibility) | Trikzon | 9.0.0 | Let that skin show! |
 | [BetterEnd](https://modrinth.com/mod/betterend) | quiqueck | 4.0.9 | New Biomes, mysterious rituals and Mobs for your End |
@@ -20,7 +20,8 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Better Mount HUD](https://modrinth.com/mod/better-mount-hud) | Lortseam | 1.2.2 | Improves the ingame HUD while riding a mount |
 | [Boat Item View](https://modrinth.com/mod/boat-item-view) | 50ap5ud5 | 0.0.5 | See your held items when in a moving boat! | 
 | [Bobby](https://modrinth.com/mod/bobby) | Johni0702 | 5.0.0 | Allows for render distances greater than the server's view-distance |
-| [Carry On](https://modrinth.com/mod/carry-on) | Tschipp | 2.1.1.2 | Carry On allows you to pick up Tile Entities and Mobs and carry them around! |
+| [Carry On](https://modrinth.com/mod/carry-on) | Tschipp | 2.1.1.3| Carry On allows you to pick up Tile Entities and Mobs and carry them around! |
+| [Chat Heads](https://modrinth.com/mod/chat-heads) | dzwdz | 0.10.18 | See who you're chatting with! |
 | [Cinderscapes](https://modrinth.com/mod/cinderscapes) | Prospector | 4.0.7 | A biome mod expanding the life of The Nether |
 | [CIT Resewn](https://modrinth.com/mod/cit-resewn) | shsupercm | 1.1.3+1.20 | Re-implements MCPatcher's CIT (custom item textures from optifine resource packs) |
 | [Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/mod/c2me-fabric) | ishland | 10.94 | A Fabric mod designed to improve the chunk performance of Minecraft. |
@@ -45,7 +46,6 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [FabricSkyBoxes Interop](https://modrinth.com/mod/fabricskyboxes-interop) | FlashyReese | 1.3.3 | FabricSkyBoxes Interoperability for MCPatcher/OptiFine Skies |
 | [FallingTree](https://modrinth.com/mod/fallingtree) | Rakambda | 4.2.3 | Break down your trees by only cutting one piece of it |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core) | malte0811 | 6.0.0 | Memory usage optimizations |
-| [Gravestones](https://modrinth.com/mod/gravestones) | Geometrically | 1.20 | A gravestones mod for fabric with tons of config options, an API, and more! |
 | [Harvest with ease](https://modrinth.com/mod/harvest-with-ease) | Nyphet | 7.0.0.1 | Don't break crops, right click them! |
 | [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | RaphiMC | 1.1.16 | Speed up immediate mode rendering in Minecraft |
 | [Inventory Sorting](https://modrinth.com/mod/inventory-sorting) | kyrptonaught | 1.9.0 | Quick, simple, and lightweight inventory sorting |
@@ -71,12 +71,13 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Puzzle](https://modrinth.com/mod/puzzle) | Motschen | 1.5.2 | Adds resourcepack features and a GUI to more conveniently configure OptiFine alternatives. |
 | [Raised](https://modrinth.com/mod/raised) | yurisuika | 2.0.0 | Raises the hotbar so the selector is not cut off! |
 | [Realistic Bees](https://modrinth.com/mod/realistic-bees) | Serilum | 1.20.1-3.4 | 🐝 Tiny bees, or big! Bigger group spawns, increased hive space, stinger functionality and more. |
-| [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) | FlashyReese | 1.5.1+mc1.20-build.74 | Alternative Options Menu for Sodium |
+| [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) | FlashyReese | 1.6.2 | Alternative Options Menu for Sodium |
 | [Reinforced Chests](https://modrinth.com/mod/reinforced-chests) | Aton-Kish | 2.4.2 | Adds reinforced chests. |
 | [Roughly Enough Items](https://modrinth.com/mod/rei) | shedaniel | 12.0.634 | Adds a mod menu to view the list of mods you have installed. |
-| [RPMTW Update Mod](https://modrinth.com/mod/rpmtw-update-mod) | SiongSng | 1.5.7 | The mod integrated with RPMTW services covers translation, wiki, universe chat, Chinese input optimization, and other features for Minecraft players to get a better gaming experience. |
+| [RPMTW Update Mod](https://modrinth.com/mod/rpmtw-update-mod) | SiongSng | 1.5.8 | The mod integrated with RPMTW services covers translation, wiki, universe chat, Chinese input optimization, and other features for Minecraft players to get a better gaming experience. |
 | [Sculk Depths](https://modrinth.com/mod/sculk-depths) | warior456 | 0.0.7 | adds a new dimension accessed via the ancient cities in the deep dark biome |
 | [ShulkerBoxToolTip](https://modrinth.com/mod/shulkerboxtooltip) | MisterPeModder | 4.0.4 | View the contents of shulker boxes from your inventory |
+| [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat) | henkelmax | 2.4.16 | A working voice chat in Minecraft! |
 | [Sodium](https://modrinth.com/mod/sodium) | jellysquid3 | 0.4.10+build.27 | Modern rendering engine and client-side optimization mod for Minecraft |
 | [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) | henkelmax | 1.20.1-1.1.1 | A Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks. |
 | [Staaaaaaaaaaaack (Stxck)](https://modrinth.com/mod/staaaaaaaaaaaack) | frankV | 1.20-1.3-55+fabric | A mod made to merge dropped items beyond the vanilla stack limit while considering mod compatibility. |
@@ -84,7 +85,7 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Traverse](https://modrinth.com/mod/traverse) | Prospector | 7.0.8 | A biome expansion mod that embraces the simplistic nature of Minecraft biomes |
 | [Trash Cans](https://modrinth.com/mod/trash-cans) | SuperMartijn642 | 1.0.18 | Trash Cans adds trash cans which can be used to void items, liquids, and energy! |
 | [Trinkets](https://modrinth.com/mod/trinkets) | Emi | 3.7.1 | A data-driven accessory mod |
-| [Very Many Players (Fabric)](https://modrinth.com/mod/vmp-fabric) | ishland | 0.2.0+beta.7.98 | A Fabric mod designed to improve server performance at high playercounts. |
+| [Universal Graves](https://modrinth.com/mod/universal-graves) | Patbox | 3.0.0-beta.4 | Customisable grave mod for Fabric! |
 | [When Dungeons Arise](https://modrinth.com/mod/when-dungeons-arise) | aureljz | 2.1.56 | Adds various elegant -and likely hostile- roguelike dungeons and structure that generate on your worlds! |
 | [WTHIT](https://modrinth.com/mod/wthit) | deirn | 8.2.0 | What the hell is that? |
 | [Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr) | shedaniel | 0.1.2 | Your options shall be respected. |
@@ -93,7 +94,7 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 ## Libraries
 | Name | Author | Version | Description |
 | -------- | -------- | -------- | -------- |
-| [Architectury API](https://modrinth.com/mod/architectury-api) | shedaniel | 9.1.10 | An intermediary api aimed to ease developing multiplatform mods. |
+| [Architectury API](https://modrinth.com/mod/architectury-api) | shedaniel | 9.1.12 | An intermediary api aimed to ease developing multiplatform mods. |
 | [Ash API](https://modrinth.com/mod/ash-api) | Trikzon | 3.0.2 | An abstraction layer between Fabric, Forge, and Quilt's APIs. |
 | [Balm](https://modrinth.com/mod/balm) | BlayTheNinth | 7.0.4 | Abstraction Layer (but not really)™ for Blay's multiplatform mods |
 | [BCLib](https://modrinth.com/mod/bclib) | quiqueck | 3.0.12 | A Library Mod for the BetterX Team |
@@ -112,5 +113,6 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Quilt Language Kotlin (QKL)](https://modrinth.com/mod/qkl) | Quilt-Holdings | 2.1.0 | Quilt's official Kotlin libraries |
 | [Runelic](https://www.modrinth.com/mod/runelic) | Darkhax | 18.0.1 | A runic font for Minecraft. |
 | [Searchables](https://modrinth.com/mod/searchables) | jaredlll08 | 1.0.1 | Searchables is a library mod that adds helper methods that allow for searching and filtering elements based on components, as well as offering built in auto-complete functionality. |
-| [SuperMartijn642's Core Lib](https://modrinth.com/mod/supermartijn642s-core-lib) | SuperMartijn642 | 1.1.12 | SuperMartijn642's Core Lib adds lots of basic implementations that allow for similar code between different Minecraft versions! |
-| [YetAnotherConfigLib](https://modrinth.com/mod/yacl) | isxander | 3.0.3 | A builder-based configuration library for Minecraft. |
+| [SuperMartijn642's Config Lib](https://modrinth.com/mod/supermartijn642s-config-lib) | SuperMartijn642 | 1.1.7 | Config Lib makes dealing with config files just a bit easier. |
+| [SuperMartijn642's Core Lib](https://modrinth.com/mod/supermartijn642s-core-lib) | SuperMartijn642 | 1.1.12a | SuperMartijn642's Core Lib adds lots of basic implementations that allow for similar code between different Minecraft versions! |
+| [YetAnotherConfigLib](https://modrinth.com/mod/yacl) | isxander | 3.1.0 | A builder-based configuration library for Minecraft. |
