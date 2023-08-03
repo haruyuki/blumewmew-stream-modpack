@@ -62,7 +62,7 @@ hash = "b039294ea686233cdb5408827820bfda5f86b62494cc9c238605e3b2a4872ff4"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
-hash = "913b62db9361028f5989d4c6cf364b9b57d98ef945fa2210805b33dc0785a5e5"
+hash = "eb9b6cda4ba87bbe9a2b41204579e986bc0f508d178f75db0ecc6936c886d66f"
 
 [[files]]
 file = "config/waila/blacklist.json"

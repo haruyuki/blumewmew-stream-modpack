@@ -1,5 +1,35 @@
 # Changelog
 
+## 6.2.0
+
+### Added
+- Added Inventory Profiles Next mod
+
+### Changed
+- Updated Armor Visibility to 9.0.1
+- Updated Balm to 7.0.7
+- Updated BCLib to 3.0.13
+- Updated BetterEnd to 4.0.10
+- Updated Better Compressed Blocks to 1.12
+- Updated Bookshelf to 20.0.2
+- Updated Chat Heads to 0.10.19
+- Updated Cinderscapes to 4.0.8
+- Updated Continuity to 3.0.0-beta.3
+- Updated Concurrent Chunk Management Engine to 0.2.0+alpha.10.96
+- Updated FallingTree to 4.2.4
+- Updated ImmediatelyFast to 1.1.24
+- Updated Puzzles Lib to 8.0.15
+- Updated Quilted Fabric API (QFAPI) to 7.1.0
+- Updated Quilt Kotlin Libraries (QKL) to 2.1.2
+- Updated Reese's Sodium Options to 1.6.3
+- Updated SuperMartijn642's Core Lib to 1.1.12b
+- Updated Traverse to 7.0.9
+- Updated WTHIT to 8.3.0
+- Updated Zoomify to 2.11.0
+
+### Removed
+- Removed Inventory Sorting mod
+
 ## 6.1.0
 
 ### Added
