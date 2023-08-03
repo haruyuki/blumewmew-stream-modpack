@@ -1,13 +1,13 @@
 name = "Armor Visibility"
-filename = "armor_visibility-quilt-9.0.0+1.20.1.jar"
+filename = "armor_visibility-quilt-9.0.1+1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/kvPlmCLX/versions/nANDlE8t/armor_visibility-quilt-9.0.0%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/kvPlmCLX/versions/zBYY2IcI/armor_visibility-quilt-9.0.1%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "680a51eb23adad43a5a94128cccedd748e4390eb"
+hash = "e0b6f9786ecc40137ac2eff1815ab6a19ea2063e"
 
 [update]
 [update.modrinth]
 mod-id = "kvPlmCLX"
-version = "nANDlE8t"
+version = "zBYY2IcI"
