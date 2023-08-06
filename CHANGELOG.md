@@ -1,8 +1,13 @@
 # Changelog
 
+## 7.0.1
+
+### Removed
+- Removed Tv Studio Mod
+
 ## 7.0.0
 
-## Added
+### Added
 - Added Auth Me mod
 - Added Bad Wither No Cookie mod
 - **Added Better Furnaces Reforged mod**
@@ -16,7 +21,7 @@
 - Added Tv Studio mod
 - Added Mod Menu config settings
 
-## Changed
+### Changed
 - Updated Complementary Reimagined Shader to 2.3
 - Updated Applied Energistics 2 to 15.0.7
 - Updated Cardinal Components API to 5.2.2
@@ -30,7 +35,7 @@
 - Updated Sound Physics Remastered to 1.1.2
 - Updated Staaaaaaaaaaaack 1.4-61
 
-## Removed
+### Removed
 - Removed Bobby mod
 
 ## 6.2.0

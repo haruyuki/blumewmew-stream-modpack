@@ -881,11 +881,6 @@ hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
 metafile = true
 
 [[files]]
-file = "mods/tv-studio-mod.pw.toml"
-hash = "829a4383a762c2d03b60cda9df0e965bd3ae90166b2733011fe45ab6e6c554cb"
-metafile = true
-
-[[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "fda4e069e887ff780b767ba811a8e882ae527df4bdd8eacd7d60bab76eb27f27"
 metafile = true

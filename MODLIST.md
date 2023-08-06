@@ -94,7 +94,6 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Traverse](https://modrinth.com/mod/traverse) | Prospector | 7.0.9 | A biome expansion mod that embraces the simplistic nature of Minecraft biomes |
 | [Trash Cans](https://modrinth.com/mod/trash-cans) | SuperMartijn642 | 1.0.18 | Trash Cans adds trash cans which can be used to void items, liquids, and energy! |
 | [Trinkets](https://modrinth.com/mod/trinkets) | Emi | 3.7.1 | A data-driven accessory mod |
-| [Tv Studio Mod](https://modrinth.com/mod/tv-studio-mod) | TheJoppeBijlsma | 1.14.0-SNAPSHOT-2 | Looking for decorative tv studio objects? This mod is for you! |
 | [Universal Graves](https://modrinth.com/mod/universal-graves) | Patbox | 3.0.0-beta.4 | Customisable grave mod for Fabric! |
 | [When Dungeons Arise](https://modrinth.com/mod/when-dungeons-arise) | aureljz | 2.1.56 | Adds various elegant -and likely hostile- roguelike dungeons and structure that generate on your worlds! |
 | [WTHIT](https://modrinth.com/mod/wthit) | deirn | 8.3.0 | What the hell is that? |
