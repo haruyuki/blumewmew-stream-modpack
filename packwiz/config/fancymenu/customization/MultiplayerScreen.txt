@@ -1,0 +1,12 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.MultiplayerScreen
+  renderorder = foreground
+}
+
+customization {
+  identifier = %id=580972%
+  action = clickbutton
+  clicks = 2
+}

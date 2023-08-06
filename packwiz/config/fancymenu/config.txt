@@ -1,0 +1,67 @@
+##[general]
+
+[If menu background sounds added by FancyMenu should be played when a world is loaded.]
+B:playbackgroundsoundsinworld = 'false';
+B:forcefullscreen = 'false';
+B:playbackgroundsounds = 'true';
+B:enablehotkeys = 'true';
+B:playmenumusic = 'false';
+S:variables_to_reset_on_launch = '';
+B:showdebugwarnings = 'true';
+I:defaultguiscale = '-1';
+
+
+##[customization]
+
+B:advancedmode = 'false';
+B:showcustomizationbuttons = 'false';
+
+
+##[loading]
+
+B:allowgameintroskip = 'false';
+B:showanimationloadingstatus = 'true';
+S:gameintroanimation = '';
+B:preloadanimations = 'false';
+S:customgameintroskiptext = '';
+
+
+##[minecraftwindow]
+
+S:customwindowtitle = 'Genshin Impact';
+B:customwindowicon = 'true';
+
+
+##[layouteditor]
+
+I:gridsize = '10';
+B:editordeleteconfirmation = 'true';
+B:showgrid = 'false';
+B:showvanillamovewarning = 'true';
+
+
+##[world_loading_screen]
+
+B:showloadingscreenanimation = 'true';
+B:showloadingscreenpercent = 'true';
+
+
+##[multiplayer_screen]
+
+B:show_server_icons = 'true';
+
+
+##[singleplayer_screen]
+
+B:show_world_icons = 'true';
+
+
+##[ui]
+
+B:show_unicode_warning = 'true';
+F:uiscale = '1.0';
+
+
+##[compatibility]
+
+B:allow_level_registry_interactions = 'true';

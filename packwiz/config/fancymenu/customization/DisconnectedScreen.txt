@@ -1,0 +1,67 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.DisconnectedScreen
+  renderorder = foreground
+}
+
+customization {
+  name = loading
+  action = animatebackground
+}
+
+customization {
+  action = setscale
+  scale = 2
+}
+
+customization {
+  identifier = %id=400513%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-centered
+  hoverlabel = §aBack to Main Menu
+  buttonaction = runscript
+  x = -50
+  width = 100
+  action = addbutton
+  y = 0
+  backgroundhovered = config/fancymenu/resources/pictures/main_menu/button_hovered_v2.png
+  label = Back to Main Menu
+  backgroundnormal = config/fancymenu/resources/pictures/main_menu/button_normal_v2.png
+  value = back_to_menu
+  height = 30
+}
+
+customization {
+  path = config/fancymenu/resources/pictures/main_menu/button_normal_v2.png
+  orientation = top-centered
+  x = -480
+  width = 430
+  action = addtexture
+  y = 0
+  height = 30
+}
+
+customization {
+  path = config/fancymenu/resources/pictures/main_menu/button_normal_v2.png
+  orientation = top-centered
+  x = 50
+  width = 430
+  action = addtexture
+  y = 0
+  height = 30
+}
+
+customization {
+  orientation = bottom-centered
+  shadow = true
+  centered = true
+  x = 0
+  action = addtext
+  y = -75
+  scale = 2.0
+  value = Failed to connect to the Cooperative Mode
+}

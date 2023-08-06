@@ -1,0 +1,66 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.MainMenuScreen
+  renderorder = foreground
+}
+
+customization {
+  action = setscale
+  scale = 2
+}
+
+customization {
+  identifier = %id=400322%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=604382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=502382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400298%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400346%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-centered
+  buttonaction = runscript
+  x = -475
+  width = 20
+  action = addbutton
+  y = 5
+  backgroundhovered = config/fancymenu/resources/pictures/main_menu/button_music_off.png
+  description = Enable Music
+  label = 
+  backgroundnormal = config/fancymenu/resources/pictures/main_menu/button_music_off.png
+  value = music_on
+  height = 20
+}

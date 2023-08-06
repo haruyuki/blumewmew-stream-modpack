@@ -1,0 +1,124 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.IngameMenuScreen
+  renderorder = foreground
+}
+
+customization {
+  action = setscale
+  scale = 2
+}
+
+customization {
+  identifier = %id=398354%
+  orientation = mid-left
+  x = 2
+  action = movebutton
+  y = 224
+}
+
+customization {
+  identifier = %id=398354%
+  width = 44
+  action = resizebutton
+  height = 44
+}
+
+customization {
+  identifier = %id=398354%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=398354%
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/resources/pictures/ingame_menu/quit_hovered.png
+  description = Save and Quit
+  backgroundnormal = config/fancymenu/resources/pictures/ingame_menu/quit_normal.png
+}
+
+customization {
+  identifier = %id=398258%
+  orientation = mid-left
+  x = 2
+  action = movebutton
+  y = -268
+}
+
+customization {
+  identifier = %id=398258%
+  width = 44
+  action = resizebutton
+  height = 44
+}
+
+customization {
+  identifier = %id=398258%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=398258%
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/resources/pictures/ingame_menu/back_hovered.png
+  description = Back to Game
+  backgroundnormal = config/fancymenu/resources/pictures/ingame_menu/back_normal.png
+}
+
+customization {
+  identifier = %id=398306%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=504306%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=398330%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=504330%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=398282%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=504282%
+  action = hidebutton
+}
+
+customization {
+  path = config/fancymenu/resources/pictures/ingame_menu/z2_background.png
+  orientation = mid-left
+  x = 0
+  width = 48
+  action = addtexture
+  y = -270
+  height = 540
+}
+
+customization {
+  orientation = mid-left
+  buttonaction = opengui
+  x = 2
+  width = 44
+  action = addbutton
+  y = 120
+  backgroundhovered = config/fancymenu/resources/pictures/ingame_menu/settings_hovered.png
+  description = Settings
+  label = 
+  backgroundnormal = config/fancymenu/resources/pictures/ingame_menu/settings_normal.png
+  value = net.minecraft.client.gui.screen.OptionsScreen
+  height = 44
+}

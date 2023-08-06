@@ -1,0 +1,35 @@
+type = customizablemenus
+
+net.minecraft.client.gui.screen.ConnectingScreen {
+}
+
+net.minecraft.class_424 {
+}
+
+net.minecraft.client.gui.screen.DisconnectedScreen {
+}
+
+net.minecraft.class_433 {
+}
+
+net.minecraft.class_500 {
+}
+
+net.minecraft.client.gui.screen.WorkingScreen {
+}
+
+net.minecraft.class_3928 {
+}
+
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
+net.minecraft.class_429 {
+}
+
+net.minecraft.class_442 {
+}
+
+net.minecraft.class_435 {
+}
+

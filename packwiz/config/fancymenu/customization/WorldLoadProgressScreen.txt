@@ -1,0 +1,36 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.WorldLoadProgressScreen
+  renderorder = foreground
+}
+
+customization {
+  name = loading
+  action = animatebackground
+}
+
+customization {
+  action = setscale
+  scale = 2
+}
+
+customization {
+  path = config/fancymenu/resources/pictures/loading_menu/loading_logo.png
+  orientation = mid-centered
+  x = -100
+  width = 200
+  action = addtexture
+  y = -100
+  height = 200
+}
+
+customization {
+  orientation = bottom-centered
+  shadow = true
+  centered = true
+  action = addtext
+  y = -75
+  scale = 2.0
+  value = Joining to the Adventure Mode
+}

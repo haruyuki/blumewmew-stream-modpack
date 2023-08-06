@@ -1,0 +1,128 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  action = setscale
+  scale = 2
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 262
+  action = deep_customization_element:title_screen_branding
+  actionid = c640326d-bb19-47ef-8477-9ec93b1aab461691323364970
+  y = 528
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 583
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = d21e7a69-6115-4329-8675-333e83db166b1691323364970
+  y = 235
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 343
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 919b6ab8-4632-42bd-8af1-4be7de55b1011691323364970
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 88128232-ccb1-4cd8-a04d-03a6775b7c7e1691323364970
+  y = 0
+  height = 30
+}
+
+customization {
+  orientation = top-centered
+  restartbackgroundanimations = true
+  buttonaction = runscript;music_off%btnaction_splitter_fm%
+  backgroundhovered = config/fancymenu/resources/pictures/main_menu/button_music_on.png
+  description = Disable Music
+  label = 
+  loopbackgroundanimations = true
+  x = -475
+  width = 20
+  action = addbutton
+  actionid = 0ae14bf6-b18f-4906-8b8c-0903509c37ac1691323364970
+  y = 5
+  backgroundnormal = config/fancymenu/resources/pictures/main_menu/button_music_on.png
+  height = 20
+}
+
