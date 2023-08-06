@@ -1,5 +1,38 @@
 # Changelog
 
+## 7.0.0
+
+## Added
+- Added Auth Me mod
+- Added Bad Wither No Cookie mod
+- **Added Better Furnaces Reforged mod**
+- Added ClickThrough mod
+- Added Entity Model Features mod
+- Added Entity Texture Features mod
+- **Added Farmer's Delight mod**
+- Added Highlight mod
+- Added Rechiseled mod
+- Added Supplementaries mod
+- Added Tv Studio mod
+- Added Mod Menu config settings
+
+## Changed
+- Updated Complementary Reimagined Shader to 2.3
+- Updated Applied Energistics 2 to 15.0.7
+- Updated Cardinal Components API to 5.2.2
+- Updated FabricSkyboxes Interop to 1.3.4
+- Updated FallingTree to 4.3.0
+- Updated ImmediatelyFast to 1.1.25
+- Updated Indium to 1.0.23
+- Updated Iris Shaders to 1.6.5
+- Updated Reese's Sodium Options to 1.6.4
+- Updated Sodium to 0.5.0
+- Updated Sound Physics Remastered to 1.1.2
+- Updated Staaaaaaaaaaaack 1.4-61
+
+## Removed
+- Removed Bobby mod
+
 ## 6.2.0
 
 ### Added
