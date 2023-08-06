@@ -15,7 +15,6 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Applied Energistics 2](https://modrinth.com/mod/ae2) | shartte | 15.0.7 | AE2: A popular automation and storage mod |
 | [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) | Mari023 | 15.0.1 | An addon for Applied Energistics 2 that adds wireless versions of several Terminals |
 | [Armor Visibility](https://modrinth.com/mod/armor-visibility) | Trikzon | 9.0.1 | Let that skin show! |
-| [Auth Me](https://modrinth.com/mod/auth-me) | axieum | 7.0.2 | Authenticate yourself and re-validate your session |
 | [Bad Wither No Cookie - Reloaded](https://modrinth.com/mod/bad-wither-no-cookie) | kreezxil | 3.17.0 | Localizes the wither and dragon death sounds. |
 | [BetterEnd](https://modrinth.com/mod/betterend) | quiqueck | 4.0.10 | New Biomes, mysterious rituals and Mobs for your End |
 | [Better Compressed Blocks](https://modrinth.com/mod/better-compressed-blocks) | MrLoLf | 1.12 | Adding Compressed Blocks for Cobblestone, Dirt, Sand, Gravel, Netherrack and more |

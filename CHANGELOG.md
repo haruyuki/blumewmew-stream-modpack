@@ -1,5 +1,10 @@
 # Changelog
 
+## 7.0.2
+
+### Removed
+- Removed Auth Me mod
+
 ## 7.0.1
 
 ### Removed
