@@ -347,6 +347,16 @@ hash = "475f8702ced96f452044c5e3558a0d3f6e2c5bb707eb43e2da0307023e3a2ea9"
 metafile = true
 
 [[files]]
+file = "mods/auth-me.pw.toml"
+hash = "e954c2f9ea9195ef558f0cb7dbc7057f2086348fc4a78186bc399145c18b4bb9"
+metafile = true
+
+[[files]]
+file = "mods/bad-wither-no-cookie.pw.toml"
+hash = "d995fbc8df8eb912e605c199f7073cc37108f40be97b547ac70be8b89ef7a961"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "cbf5544ba86d4d10262fff9c53af6c9ef05bb92d329bb02f891a5aaf3ca94631"
 metafile = true
@@ -364,6 +374,11 @@ metafile = true
 [[files]]
 file = "mods/better-compressed-blocks.pw.toml"
 hash = "0233a207d3b34e7aee1552a0d69eb669b0527816017f337e29c44216122c285c"
+metafile = true
+
+[[files]]
+file = "mods/better-furnaces-reforged.pw.toml"
+hash = "3843f65418bb0ee6682bd25f5cb58b3cc362902d503f2eede1785e421f051103"
 metafile = true
 
 [[files]]
@@ -419,6 +434,11 @@ metafile = true
 [[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "44e2cc695c040b7bbca462165099fa3c56a98aa8f01104bb067dc850b65f6d02"
+metafile = true
+
+[[files]]
+file = "mods/clickthrough.pw.toml"
+hash = "7703705832bac583d57f9c7c4abf04a669273f3bbf047fb8b333b52e9f5bb3ed"
 metafile = true
 
 [[files]]
@@ -507,8 +527,23 @@ hash = "807f4827867c068c5dd3f222138bc296d72ece5c02c02da05ca211e0f9005370"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "b97c2e6418ccc906fdba8bf0318b97b8cd9cf66454064c5a37a662add9ab8d15"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "4eec3de8a58a6e64ea96e31781b52f70b4b33ec02a34a45f171e3a1e6697ba86"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "79f1b115272dda60974bf0f16379308a673184fefc973a598a1a2f84e261b19d"
+metafile = true
+
+[[files]]
+file = "mods/fabricautocrafter.pw.toml"
+hash = "8fa07baaeaf595dd773b52975308f640172347fd98507063a81ce0d598c7e694"
 metafile = true
 
 [[files]]
@@ -522,6 +557,11 @@ hash = "66b982a755b4d812e9792502e96672f2ef2d8ce4ef702d2bf86cf45d99a7ece0"
 metafile = true
 
 [[files]]
+file = "mods/factory-api.pw.toml"
+hash = "ff9053820032e23248f699bc27c4be6737375f76e2e4e6318912c039ac65e83d"
+metafile = true
+
+[[files]]
 file = "mods/fallingtree.pw.toml"
 hash = "a926612a0279c18515bdee95a18757aa5c200759b936129ed794748dc584f000"
 metafile = true
@@ -532,6 +572,11 @@ hash = "2d783e03714ebcdda2d034b9b1697df388dc5b8e26f3bd0f9a610e2d062f1bab"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "76bff6c00431ae14e0de961cf30f2a950fb1dd46da429145f235a9b0adbecd7b"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
 metafile = true
@@ -539,6 +584,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "6d90ff7052a7bb61bbb6b8babd8fe1d9370ecf0a830c65196d21950cfb35183c"
 metafile = true
 
 [[files]]
@@ -554,6 +604,11 @@ metafile = true
 [[files]]
 file = "mods/harvest-with-ease.pw.toml"
 hash = "c4feaeeef2fe2b12d5f87d410c2458458971fe33386697142492d137794fe23e"
+metafile = true
+
+[[files]]
+file = "mods/highlight.pw.toml"
+hash = "17e0130bc29e14dd26019d0f0ccef1fab6f8dc7ab2a5ea60a6c734cae127d741"
 metafile = true
 
 [[files]]
@@ -642,6 +697,11 @@ hash = "e2a93bfe1d1e55657afd64a361b1d05929c8984332f1c39afd957eb7f88e9a62"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "118b2f291407112a7506525a35e68837f67f0f35b1c0f1eea872241d18e494bc"
+metafile = true
+
+[[files]]
 file = "mods/more-mob-variants.pw.toml"
 hash = "8f878789230d8c194102e1b720feb2762dc1a192e9ee04590a6785c657f7f70e"
 metafile = true
@@ -727,6 +787,11 @@ hash = "f9bfa0f3edf2f457b3783eedb42e4d6682023f19ea34f16bacea26a5b2975695"
 metafile = true
 
 [[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "67499e7799c4fc1401af3641a0bf57509b24cce9ee75ad9471efef36a6b3f822"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "16edb6e9b2eb85405f9a3e4ac7159a0c00a9d47bfb4dc9d5b548bca37245fc06"
 metafile = true
@@ -797,6 +862,11 @@ hash = "ecfe4b722ab208dcc3fae855116b2a962a23aa5939245ba428fab97f6ecdf24f"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "c4e216a13c42631f580da96e461abc76560d2b720bc5baac170dbf090e13b745"
+metafile = true
+
+[[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
 metafile = true
@@ -814,6 +884,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
+metafile = true
+
+[[files]]
+file = "mods/tv-studio-mod.pw.toml"
+hash = "829a4383a762c2d03b60cda9df0e965bd3ae90166b2733011fe45ab6e6c554cb"
 metafile = true
 
 [[files]]

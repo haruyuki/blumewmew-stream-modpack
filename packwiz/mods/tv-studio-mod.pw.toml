@@ -1,0 +1,13 @@
+name = "Tv Studio Mod"
+filename = "tv-studio-fabric-1.14.0-SNAPSHOT-2_fabric-1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ivGWJLOr/versions/VOaE6eA6/tv-studio-fabric-1.14.0-SNAPSHOT-2_fabric-1.20.jar"
+hash-format = "sha1"
+hash = "fcf2c4709c9a8b6f8f5d0acfddaabff637ee708c"
+
+[update]
+[update.modrinth]
+mod-id = "ivGWJLOr"
+version = "VOaE6eA6"

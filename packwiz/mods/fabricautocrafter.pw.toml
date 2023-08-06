@@ -1,0 +1,13 @@
+name = "FabricAutoCrafter"
+filename = "fabricautocrafter-1.0.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wbqioEpc/versions/LqWFzIJR/fabricautocrafter-1.0.11.jar"
+hash-format = "sha1"
+hash = "6d6850646011748b599ddf1c7f2e33fa715fd7e9"
+
+[update]
+[update.modrinth]
+mod-id = "wbqioEpc"
+version = "LqWFzIJR"
