@@ -261,6 +261,10 @@ file = "config/fwaystones/config.json5"
 hash = "9d8c09c14e1c921ed0a42703110c6f3a729eaabcbfda7843a26f64cf93a8126f"
 
 [[files]]
+file = "config/modmenu.json"
+hash = "c7aee11a8ed4b91635ea4db88d417727a368d7a454c6c023908c8c237a9b4523"
+
+[[files]]
 file = "config/ping-wheel.json"
 hash = "7f5c6c9c4e8559a7b5f03f6b61961fe4edf174bdb447e98fda1d7882b9412d31"
 
@@ -394,11 +398,6 @@ metafile = true
 [[files]]
 file = "mods/boat-item-view.pw.toml"
 hash = "45ef79853a6e968323dadc477f2b68c046948a9e5b2445fed3ab5586598347cf"
-metafile = true
-
-[[files]]
-file = "mods/bobby.pw.toml"
-hash = "56e43a6d3b2f91b41552a09488b6ec374aa0c5796c9d55a1148c17c562949142"
 metafile = true
 
 [[files]]
@@ -539,11 +538,6 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "79f1b115272dda60974bf0f16379308a673184fefc973a598a1a2f84e261b19d"
-metafile = true
-
-[[files]]
-file = "mods/fabricautocrafter.pw.toml"
-hash = "8fa07baaeaf595dd773b52975308f640172347fd98507063a81ce0d598c7e694"
 metafile = true
 
 [[files]]
