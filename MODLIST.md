@@ -53,7 +53,7 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [FerriteCore](https://modrinth.com/mod/ferrite-core) | malte0811 | 6.0.0 | Memory usage optimizations |
 | [Harvest with ease](https://modrinth.com/mod/harvest-with-ease) | Nyphet | 7.0.0.1 | Don't break crops, right click them! |
 | [Highlight](https://modrinth.com/mod/highlight) | ThatGravyBoat | 2.0.1 | Highlight changes the visualization of specific blocks in the game to have more aligned selections to their models. |
-| [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | RaphiMC | 1.1.25 | Speed up immediate mode rendering in Minecraft |
+| [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | RaphiMC | 1.1.26 | Speed up immediate mode rendering in Minecraft |
 | [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next) | blackd | 1.10.6 | Take control over you inventory. Sort. Move matching Items. Throw all. Locked slots. Gear sets! And much more. |
 | [Inventory Totem](https://modrinth.com/mod/inventory-totem) | Serilum | 1.20.1-3.0 | 🎴 Makes the totem of undying effect work when it's anywhere in the inventory. |
 | [Iris Shaders](https://irisshaders.net/) | coderbot | 1.6.5 | A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs |
@@ -88,12 +88,11 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Sodium](https://modrinth.com/mod/sodium) | jellysquid3 | 0.5.0 | Modern rendering engine and client-side optimization mod for Minecraft |
 | [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) | henkelmax | 1.1.2 | A Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks. |
 | [Staaaaaaaaaaaack (Stxck)](https://modrinth.com/mod/staaaaaaaaaaaack) | frankV | 1.4-61 | A mod made to merge dropped items beyond the vanilla stack limit while considering mod compatibility. |
-| [Supplementaries](https://modrinth.com/mod/supplementaries) | MehVahdJukaar | 2.5.21 | Vanilla+ additions: Jars, signposts, faucets, weather vanes spring launchers, sconces, planters, lights, decoration and automation |
 | [ToolTipFix](https://modrinth.com/mod/tooltipfix) | kyrptonaught | 1.1.1 | Fixes Tooltips from runnning off the screen. |
 | [Traverse](https://modrinth.com/mod/traverse) | Prospector | 7.0.9 | A biome expansion mod that embraces the simplistic nature of Minecraft biomes |
 | [Trash Cans](https://modrinth.com/mod/trash-cans) | SuperMartijn642 | 1.0.18 | Trash Cans adds trash cans which can be used to void items, liquids, and energy! |
 | [Trinkets](https://modrinth.com/mod/trinkets) | Emi | 3.7.1 | A data-driven accessory mod |
-| [Universal Graves](https://modrinth.com/mod/universal-graves) | Patbox | 3.0.0-beta.4 | Customisable grave mod for Fabric! |
+| [Universal Graves](https://modrinth.com/mod/universal-graves) | Patbox | 3.0.0-pre.1 | Customisable grave mod for Fabric! |
 | [When Dungeons Arise](https://modrinth.com/mod/when-dungeons-arise) | aureljz | 2.1.56 | Adds various elegant -and likely hostile- roguelike dungeons and structure that generate on your worlds! |
 | [WTHIT](https://modrinth.com/mod/wthit) | deirn | 8.3.0 | What the hell is that? |
 | [Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr) | shedaniel | 0.1.2 | Your options shall be respected. |
@@ -117,14 +116,13 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Geckolib](https://modrinth.com/mod/geckolib) | Gecko | 4.2.1 | A 3D animation library for entities, blocks, items, armor, and more! |
 | [Indium](https://modrinth.com/mod/indium) | comp500 | 1.0.23 | Sodium addon providing support for the Fabric Rendering API, based on Indigo |
 | [libIPN](https://modrinth.com/mod/libipn) | blackd | 3.0.2 | Inventory Profiles Next GUI/Config library |
-| [Moonlight Lib](https://modrinth.com/mod/moonlight) | MehVahdJukaar | 2.7.2 | dynamic data pack and registration, villager activities, custom map marker and a lot more |
 | [oωo](https://modrinth.com/mod/owo-lib) | glisco | 0.11.1 | A general utility, GUI and config library for modding on Fabric and Quilt |
 | [Pig Pen Cipher](https://www.modrinth.com/mod/pig-pen-cipher) | Darkhax | 15.0.1 | Adds the pigpen cipher to Minecraft |
 | [Puzzles Lib](https://modrinth.com/mod/puzzles-lib) | Fuzs | 8.0.15 | Why's it called Puzzles you ask? That's the puzzle! |
 | [Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)](https://modrinth.com/mod/qsl) | Quilt-Holdings | 7.1.0 | The standard libraries of the Quilt ecosystem. Essential for your modding experience on Quilt! |
 | [Quilt Language Kotlin (QKL)](https://modrinth.com/mod/qkl) | Quilt-Holdings | 2.1.2 | Quilt's official Kotlin libraries |
 | [Runelic](https://www.modrinth.com/mod/runelic) | Darkhax | 18.0.1 | A runic font for Minecraft. |
-| [Searchables](https://modrinth.com/mod/searchables) | jaredlll08 | 1.0.1 | Searchables is a library mod that adds helper methods that allow for searching and filtering elements based on components, as well as offering built in auto-complete functionality. |
+| [Searchables](https://modrinth.com/mod/searchables) | jaredlll08 | 1.0.1 | Searchables is a library mod that adds helper 	thods that allow for searching and filtering elements based on components, as well as offering built in auto-complete functionality. |
 | [SuperMartijn642's Config Lib](https://modrinth.com/mod/supermartijn642s-config-lib) | SuperMartijn642 | 1.1.7 | Config Lib makes dealing with config files just a bit easier. |
 | [SuperMartijn642's Core Lib](https://modrinth.com/mod/supermartijn642s-core-lib) | SuperMartijn642 | 1.1.12b | SuperMartijn642's Core Lib adds lots of basic implementations that allow for similar code between different Minecraft versions! |
 | [YetAnotherConfigLib](https://modrinth.com/mod/yacl) | isxander | 3.1.0 | A builder-based configuration library for Minecraft. |

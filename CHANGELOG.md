@@ -1,5 +1,15 @@
 # Changelog
 
+## 7.0.3
+
+### Changed
+- Updated ImmediatelyFast to 1.1.26
+- Updated Universal Graves to 3.0.0-pre.1
+
+### Removed
+- Removed FancyMenu mod
+- Removed Supplementaries mod
+
 ## 7.0.2
 
 ### Removed
