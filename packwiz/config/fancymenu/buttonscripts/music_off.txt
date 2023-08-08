@@ -1,5 +1,0 @@
-mutebackgroundsounds:true
-renamefile:config/fancymenu/customization/MainMenuScreen_1.txt;MainMenuScreen_1.temp
-renamefile:config/fancymenu/customization/MainMenuScreen_2.disabled;MainMenuScreen_2.txt
-renamefile:config/fancymenu/customization/MainMenuScreen_1.temp;MainMenuScreen_1.disabled
-reloadmenu

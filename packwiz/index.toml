@@ -556,11 +556,6 @@ hash = "a926612a0279c18515bdee95a18757aa5c200759b936129ed794748dc584f000"
 metafile = true
 
 [[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "2d783e03714ebcdda2d034b9b1697df388dc5b8e26f3bd0f9a610e2d062f1bab"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "76bff6c00431ae14e0de961cf30f2a950fb1dd46da429145f235a9b0adbecd7b"
 metafile = true
@@ -631,11 +626,6 @@ hash = "0afa1d2acbb35888bef596fa85de0cac881c881ee6cdd60940d711190f6a181a"
 metafile = true
 
 [[files]]
-file = "mods/konkrete.pw.toml"
-hash = "8634fda31069fb5fb246126bef5a273c01845f74b4c0ad0ba394698df815e678"
-metafile = true
-
-[[files]]
 file = "mods/krypton.pw.toml"
 hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
@@ -663,11 +653,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
-metafile = true
-
-[[files]]
-file = "mods/load-my-resources.pw.toml"
-hash = "8356b377c0d753c4677adb9b8697ddd0f4c15cbfffde4dc053164c82bd280926"
 metafile = true
 
 [[files]]
