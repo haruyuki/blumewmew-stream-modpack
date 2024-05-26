@@ -1,5 +1,14 @@
 # Changelog
 
+# 7.1.0
+
+## Changed
+- Changed Quilt Loader version to 0.20.0
+
+## Removed
+- Removed Deeper Oceans mod
+- Removed Simple Voice Chat mod
+
 ## 7.0.3
 
 ### Changed

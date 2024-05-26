@@ -36,7 +36,6 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Dark Utilities](https://modrinth.com/mod/dark-utilities) | Darkhax | 17.0.1 | Expansive content mod which adds a little bit of everything. |
 | [DeathLog](https://modrinth.com/mod/deathlog) | glisco | 0.3.2 | Keeps track of the many embarrassing times you died |
 | [Debugify](https://modrinth.com/mod/debugify) | isxander | 2.0 | Fixes Minecraft bugs found on the bug tracker |
-| [Deeper Oceans](https://modrinth.com/datapack/deeper-oceans) | Apollo | 1.0.1a | Oceans, but 3x as deep! |
 | [Durability Tooltip](https://modrinth.com/mod/durability-tooltip) | SuperMartijn642 | 1.1.4-fabric-mc1.20 | Durability Tooltip shows you the durability of an item! |
 | [Eating Animation](https://modrinth.com/mod/eating-animation) | theoness1 | 1.9.4+1.20 | A mod that adds sprite animations for edible and drinkable items. |
 | [Elytra Slot](https://modrinth.com/mod/elytra-slot) | TheIllusiveC4 | 6.3.0 | Adds accessory support to the elytra so you can fly and wear chest armor at the same time. Formerly known as Curious Elytra and Elytra Trinket. |
@@ -84,7 +83,6 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [RPMTW Update Mod](https://modrinth.com/mod/rpmtw-update-mod) | SiongSng | 1.5.8 | The mod integrated with RPMTW services covers translation, wiki, universe chat, Chinese input optimization, and other features for Minecraft players to get a better gaming experience. |
 | [Sculk Depths](https://modrinth.com/mod/sculk-depths) | warior456 | 0.0.7 | adds a new dimension accessed via the ancient cities in the deep dark biome |
 | [ShulkerBoxToolTip](https://modrinth.com/mod/shulkerboxtooltip) | MisterPeModder | 4.0.4 | View the contents of shulker boxes from your inventory |
-| [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat) | henkelmax | 2.4.16 | A working voice chat in Minecraft! |
 | [Sodium](https://modrinth.com/mod/sodium) | jellysquid3 | 0.5.0 | Modern rendering engine and client-side optimization mod for Minecraft |
 | [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) | henkelmax | 1.1.2 | A Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks. |
 | [Staaaaaaaaaaaack (Stxck)](https://modrinth.com/mod/staaaaaaaaaaaack) | frankV | 1.4-61 | A mod made to merge dropped items beyond the vanilla stack limit while considering mod compatibility. |
