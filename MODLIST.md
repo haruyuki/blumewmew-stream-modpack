@@ -21,7 +21,9 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Better Furnaces Reforged](https://modrinth.com/mod/better-furnaces-reforged) | Wilyicaro | 1.1.3| A remake of the mod BetterFurnaces, with even faster furnaces |
 | [Better Mount HUD](https://modrinth.com/mod/better-mount-hud) | Lortseam | 1.2.2 | Improves the ingame HUD while riding a mount |
 | [Boat Item View](https://modrinth.com/mod/boat-item-view) | 50ap5ud5 | 0.0.5 | See your held items when in a moving boat! | 
+| [Botania](https://modrinth.com/mod/botania) | Vazkii | 1.20.1-443 | An innovative natural magic themed tech mod |
 | [Carry On](https://modrinth.com/mod/carry-on) | Tschipp | 2.1.2.7 | Carry On allows you to pick up Tile Entities and Mobs and carry them around! |
+| [Casualness Delight](https://modrinth.com/mod/casualness-delight) | TsukimiRen | 0.4-FDR | A subsidiary module of Farmer's Delight Added some British food and the author's casual thoughts |
 | [Chat Heads](https://modrinth.com/mod/chat-heads) | dzwdz | 0.12.2 | See who you're chatting with! |
 | [Cinderscapes](https://modrinth.com/mod/cinderscapes) | Prospector | 4.0.10 | A biome mod expanding the life of The Nether |
 | [CIT Resewn](https://modrinth.com/mod/cit-resewn) | shsupercm | 1.1.5 | Re-implements MCPatcher's CIT (custom item textures from optifine resource packs) |
@@ -44,11 +46,12 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Entity Culling](https://modrinth.com/mod/entityculling) | tr7zw | 1.6.5 | Using async path-tracing to hide Block-/Entities that are not visible |
 | [Entity Model Features](https://modrinth.com/mod/entity-model-features) | Traben | 2.0.2 | EMF is an, OptiFine format, Custom Entity Model replacement mod available for Fabric and Forge. |
 | [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) | Traben | 6.0.1 | Emissive, Random & Custom texture support for entities in resourcepacks just like Optifine but for Fabric |
+| [Expanded Delight](https://modrinth.com/mod/expanded-delight) | ianm1647 | 0.3.1 | An addon mod for Farmer's Delight Fabric that adds many more crops and functionality to the base mod |
 | [Fabric Waystones](https://modrinth.com/mod/fwaystones) | LordDeatHunter | 3.3.2 | A better way of transport |
 | [FabricSkyBoxes](https://modrinth.com/mod/fabricskyboxes) | AMereBagatelle | 0.7.3 | Allows resource packs to define custom skyboxes. |
 | [FabricSkyBoxes Interop](https://modrinth.com/mod/fabricskyboxes-interop) | FlashyReese | 1.3.6+mc1.20.1-build.50 | FabricSkyBoxes Interoperability for MCPatcher/OptiFine Skies |
 | [FallingTree](https://modrinth.com/mod/fallingtree) | Rakambda | 4.3.4 | Break down your trees by only cutting one piece of it |
-| [Farmers Delight \[Fabric\]](https://modrinth.com/mod/farmers-delight-fabric) | Zifiv | 1.4.3 | Farmer's Delight is a mod that gently expands upon farming and cooking in Minecraft. |
+| [Farmer's Delight Refabricated](https://modrinth.com/mod/farmers-delight-refabricated) | Pug | 2.1.1 | Modern Fabric port of the cooking and farming mod, "Farmer's Delight" |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core) | malte0811 | 6.0.1 | Memory usage optimizations |
 | [Harvest with ease](https://modrinth.com/mod/harvest-with-ease) | Nyphet | 8.0.1.0 | Don't break crops, right click them! |
 | [Highlight](https://modrinth.com/mod/highlight) | ThatGravyBoat | 2.0.1 | Highlight changes the visualization of specific blocks in the game to have more aligned selections to their models. |
@@ -67,8 +70,10 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Mod Menu](https://modrinth.com/mod/modmenu) | Prospector | 7.2.2 | Adds a mod menu to view the list of mods you have installed. |
 | [More Mob Variants](https://modrinth.com/mod/more-mob-variants) | nyuppo |  1.3.0.1 | Adds new variants to existing mobs. |
 | [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) | YaLTeR | 2.26 | Enhances inventory management by adding various functions to the mouse buttons. |
+| [Naturalist](https://modrinth.com/mod/naturalist) | crispytwig | 4.0.3 | Adds new immersive wildlife with realistic behavior! |
 | [Naturally Charged Creepers](https://modrinth.com/mod/naturally-charged-creepers) | Serilum | 3.4 | 🔋 Allows creepers to spawn charged in order to increase the game's difficulty. |
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Aizistral | 2.2.2 | Makes chat unreportable (where possible) |
+| [Ocean's Delight](https://modrinth.com/mod/oceans-delight) | Scouter567 | 1.0.2 | Ocean's Delight is an addon mod for Farmer's Delight based around adding culinary content to the ocean! |
 | [OptiGUI](https://modrinth.com/mod/optigui) | opekope2 | 2.1.7 | Custom inventory GUIs on Fabric&Quilt with OptiFine resource pack support&many more features |
 | [Ping Wheel](https://modrinth.com/mod/ping-wheel) | Luken | 1.8.0 | Allows players to temporarily mark locations for everyone |
 | [Polymorph](https://modrinth.com/mod/polymorph) | TheIllusiveC4 | 0.49.5 | No more recipe conflicts! Adds an option to choose the crafting result if more than one is available. |	
@@ -116,6 +121,7 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Indium](https://modrinth.com/mod/indium) | comp500 | 1.0.30 | Sodium addon providing support for the Fabric Rendering API, based on Indigo |
 | [libIPN](https://modrinth.com/mod/libipn) | blackd | 4.0.2 | Inventory Profiles Next GUI/Config library |
 | [oωo](https://modrinth.com/mod/owo-lib) | glisco | 0.11.2 | A general utility, GUI and config library for modding on Fabric and Quilt |
+| [Patchouli](https://modrinth.com/mod/patchouli) | Vazkii | 1.20.4-85 | Accessible, Data-Driven, Dependency-Free Documentation for Minecraft Modders and Pack Makers |
 | [Pig Pen Cipher](https://www.modrinth.com/mod/pig-pen-cipher) | Darkhax | 15.0.2 | Adds the pigpen cipher to Minecraft |
 | [Puzzles Lib](https://modrinth.com/mod/puzzles-lib) | Fuzs | 8.1.19 | Why's it called Puzzles you ask? That's the puzzle! |
 | [Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)](https://modrinth.com/mod/qsl) | Quilt-Holdings | 7.5.0 | The standard libraries of the Quilt ecosystem. Essential for your modding experience on Quilt! |

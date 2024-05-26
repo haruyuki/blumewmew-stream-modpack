@@ -1,5 +1,21 @@
 # Changelog
 
+# 8.1.0
+
+## Added
+- Added Botania
+- Added Casualness Delight
+- Added Expanded Delight
+- Added Naturalist
+- Added Oceans Delight
+
+## Changed
+- Changed Farmers Delight Fabric mod to Farmers Delight Refabricated
+
+## Removed
+- Removed Raised X AppleSkin
+
+
 # 8.0.0
 
 ## Changed

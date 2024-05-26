@@ -185,6 +185,11 @@ hash = "9022ec899edf2af44a13d5d715b10661f394672306e3cff5b29bdd7452c783f7"
 metafile = true
 
 [[files]]
+file = "mods/botania.pw.toml"
+hash = "72983ba160e1f1359c121e0ec84315a1073e24a19287c2c446efd17bf2edb3e5"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "5afe4e900b83aa83109d0c845df28e9695d8e3639518b0f08169a547f0e3682b"
 metafile = true
@@ -197,6 +202,11 @@ metafile = true
 [[files]]
 file = "mods/carry-on.pw.toml"
 hash = "94fbe9655850d99ed2a950e6b59c9cbfabfc21d859c7920c4a8b21101f5981b7"
+metafile = true
+
+[[files]]
+file = "mods/casualness-delight.pw.toml"
+hash = "c59b32af007c0910e8fe5a17b7ba6d232f177c8806838852ab8dbba6f35c4532"
 metafile = true
 
 [[files]]
@@ -315,6 +325,11 @@ hash = "3251a3699322607d89dccdd4efef359e0aaa2f9a21e011265c36e165423d83c9"
 metafile = true
 
 [[files]]
+file = "mods/expanded-delight.pw.toml"
+hash = "4d013214266c48b8853463e428949881aa97c06684284dcb508a1932ab7c3593"
+metafile = true
+
+[[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
 hash = "ed4487cc1613cc53daa5188730653a4720728971553315dcea7205b28f914f1c"
 metafile = true
@@ -335,8 +350,8 @@ hash = "ebb242e321ae99b8802c08adcd82cc7fadbe89234749f5d7543264b1bc53661b"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delight-fabric.pw.toml"
-hash = "dc4a6ad558baacff8619bcb127784bfa27eb6ca4c177eae12d86b833eca80694"
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "e64cad200dfc6145b9822c7d7c7a89dd040e28bd8e79d4f827c02c9c348b08df"
 metafile = true
 
 [[files]]
@@ -460,6 +475,11 @@ hash = "9ecf3bd4cd96af63bb04063f74b8a13cea46a77bfce670b4408417f8d0d293e0"
 metafile = true
 
 [[files]]
+file = "mods/naturalist.pw.toml"
+hash = "6cef110f567b6957a35aa4224c70e7e4ad22dd25f852b2a39d2457fdb804edff"
+metafile = true
+
+[[files]]
 file = "mods/naturally-charged-creepers.pw.toml"
 hash = "8dd398d4b3a78e9519b6e1ea6dd8932438440236f25b96d21b854996e250d216"
 metafile = true
@@ -470,6 +490,11 @@ hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
 
 [[files]]
+file = "mods/oceans-delight.pw.toml"
+hash = "5167fe4155561b257e45ca43382ca6f66858d5bf5eefead2ed834854772ef8a9"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "2440a2e6d0ade6bc4ca8d3677b59312734dd22106fc6fc5cbac5c24b0ba2ff05"
 metafile = true
@@ -477,6 +502,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
 metafile = true
 
 [[files]]
@@ -522,11 +552,6 @@ metafile = true
 [[files]]
 file = "mods/raised.pw.toml"
 hash = "0a0284ef44b16dad0a7b00e728598d673a359a4a04c892501ca3f4ac6fc3720f"
-metafile = true
-
-[[files]]
-file = "mods/raisedxappleskin.pw.toml"
-hash = "5cdd2aa39fcbac94074e09d16776f35f5fe6ac55a7bf6084045f634def320a56"
 metafile = true
 
 [[files]]
