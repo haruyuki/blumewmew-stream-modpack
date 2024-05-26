@@ -1,9 +1,98 @@
 # Changelog
 
+# 8.0.0
+
+## Changed
+- **Changed Quilt Loader version to 0.26.0-beta.3**
+- Updated 3D Skin Layers to 1.6.5
+- Updated Applied Energistics 2 to 15.2.0
+- Updated AmbientSounds to 6.0.1
+- Updated AppleSkin to 2.5.1
+- Updated Applied Energistics 2 Wireless Terminals to 15.2.1
+- Updated Architectury API to 9.2.14
+- Updated bad packets to 0.4.3
+- Updated Balm to 7.2.2
+- Updated BCLib to 3.0.14
+- Updated Better Compressed Blocks to 1.13
+- Updated Better Furnaces Reforged to 1.1.3
+- Updated BetterEnd to 4.0.11
+- Updated Bookshelf to 20.1.10
+- Updated Concurrent Chunk Management Engine to 0.2.0+alpha.11.5
+- Updated Carry On to 2.1.2.7
+- Updated Chat Heads to 0.12.2
+- Updated Cinderscapes to 4.0.10
+- Updated CIT Resewn to 1.1.5
+- Updated Cloth Config to 11.1.118
+- Updated Collective to 7.60
+- Updated Continuity to 3.0.0-beta.5
+- Updated Cooking for Blockheads to 16.0.4
+- Updated Cozy to 1.1.1
+- Updated CreativeCore to 2.11.28
+- Updated Cull Less Leaves to 1.3.0
+- Updated Dark Utilities to 17.0.3
+- Updated Durability Tooltip to 1.1.5
+- Updated Eating Animation to 1.9.61
+- Updated Ender Zoology to 8.0.2
+- Updated Entity Culling to 1.6.5
+- Updated Entity Model Features to 2.0.2
+- Updated Entity Texture Features to 6.0.1
+- Updated FabricSkyboxes to 0.7.3
+- Updated FabricSkyBoxes Interop to 1.3.6+mc1.20.1-build.50
+- Updated Factory API to 2.1.4
+- Updated FallingTree to 4.3.4
+- Updated Farmer's Delight to 1.4.3
+- Updated FerriteCore to 6.0.1
+- Updated Fusion to 1.1.1
+- Updated Fabric Waystones to 3.3.2
+- Updated Geckolib to 4.4.4
+- Updated Harvest with ease to 8.0.1.0
+- Updated ImmediatelyFast to 1.2.15
+- Updated Indium to 1.0.30
+- Updated Inventory Profiles Next to 1.10.10
+- Updated Inventory Totem to 3.2
+- Updated Iris to 1.7.0
+- Updated JourneyMap to 5.9.21
+- Updated LambDynamicLights to 2.3.2
+- Updated Language Reload to 1.6.1
+- Updated LibIPN to 4.0.2
+- Updated Memory Leak Fix to 1.1.5
+- Updated Mod Menu to 7.2.2
+- Updated More Mob Variants to 1.3.0.1
+- Updated Mouse Tweaks to 2.26
+- Updated Naturally Charged Creepers to 3.4
+- Updated OptiGUI to 2.1.7
+- Updated owo-lib to 0.11.2
+- Updated Pig Pen Cipher to 15.0.2
+- Updated Ping Wheel to 1.8.0
+- Updated Polymorph to 0.49.5
+- Updated Powah to 5.0.5
+- Updated Puzzles Lib to 8.1.19
+- Updated Quilt Kotlin Libraries (QKL) to 2.1.3
+- Updated Quilted Fabric API (QFAPI) to 7.5.0
+- Updated Raised to 3.1.3
+- Updated Realistic Bees to 3.8
+- Updated Rechiseled to 1.1.6
+- Updated Reese's Sodium Options to 1.7.2+mc1.20.1-build.101
+- Updated REI to 12.1.725
+- Updated Runelic to 18.0.2
+- Updated Sculk Depths to 0.0.10-b
+- Updated Searchables to 1.0.3
+- Updated Sodium to 0.5.8
+- Updated Sound Physics Remastered to 1.4.1
+- Updated Staaaaaaaaaaaack to 1.5-71
+- Updated SuperMartijn642's Config Lib to 1.1.8a
+- Updated SuperMartijn642's Core Lib to 1.1.17
+- Updated Traverse to 7.0.11
+- Updated Trinkets to 3.7.2
+- Updated Universal Graves to 3.0.1
+- Updated When Dungeons Arise to 2.1.57
+- Updated WTHIT to 8.10.0
+- Updated YetAnotherConfigLib to 3.4.2
+
 # 7.1.0
 
 ## Changed
-- Changed Quilt Loader version to 0.20.0
+- **Changed Quilt Loader version to 0.20.0**
 
 ## Removed
 - Removed Deeper Oceans mod
@@ -82,7 +171,7 @@
 - Updated ImmediatelyFast to 1.1.24
 - Updated Puzzles Lib to 8.0.15
 - Updated Quilted Fabric API (QFAPI) to 7.1.0
-- Updated Quilt Kotlin Libraries (QKL) to 2.1.2
+- Updated Quilt Kotlin Libraries (qkl) to 2.1.2
 - Updated Reese's Sodium Options to 1.6.3
 - Updated SuperMartijn642's Core Lib to 1.1.12b
 - Updated Traverse to 7.0.9

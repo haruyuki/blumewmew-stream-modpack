@@ -34,7 +34,7 @@
 
 # Resource Packs
 
-This modpack comes with [Faithful 64x](https://modrinth.com/resourcepack/faithful-64x) pre-installed. Please note that the official release of Faithful 64x for 1.20 is not released yet and the resource pack included is an experimental version from the [Faithful Database](https://database.faithfulpack.net/packs/64x-Java/Experimental/).
+This modpack comes with [Faithful 64x](https://modrinth.com/resourcepack/faithful-64x) pre-installed.
 
 Extra addons and other details related to the Faithful resource pack can be found [here](https://faithfulpack.net/).
 
