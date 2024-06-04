@@ -1,12 +1,12 @@
 name = "Blumewmew's Stream Modpack"
 author = "blumewmew"
-version = "8.1.0"
+version = "9.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "342e250296e632b70728d2e7e039ce3d229baf9e003494796fe425bcae20b73e"
+hash = "49dfc973078ff9ca5fcc486a4cbb1b2af17507ae092ea94c602deba0fad3fb2e"
 
 [versions]
 minecraft = "1.20.1"
