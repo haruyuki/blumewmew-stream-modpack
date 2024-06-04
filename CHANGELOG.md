@@ -1,5 +1,60 @@
 # Changelog
 
+# 9.0.0
+
+## Added
+- Added AdventureZ
+- Added Pufferfish's Attributes
+- Added Bewitchment
+- Added BotaniaCombat
+- Added Create Fabric
+- Added Create: New Age
+- Added Do a Barrel Roll
+- Added Embeddium
+- Added Friends&Foes
+- Added Friends&Foes - Flowery Mooblooms
+- Added Hamsters
+- Added Hephaestus
+- Added Immersive Melodies
+- Added JourneyMap Integration
+- Added MC Dungeons Enchanting
+- Added MC Dungeons Armors
+- Added MC Dungeons Artifacts
+- Added MC Dungeons Weapons
+- Added Pet Shop
+- Added Polymorphic Energistics
+- Added Rechiseled: Create
+- Added Simply Swords
+- Added Pufferfish's Skills
+- Added Spell Engine
+- Added Vein Mining
+- Added Voidz
+- Added What Are They Up To (Watut)
+- Added When Dungeons Arise: Seven Seas
+- Added Wunderreich
+
+## Changed
+- Changed default config settings for BCLib
+- Replaced Clickthrough with Clickthrough 2.0
+- Replaced Harvest with ease with RightClickHarvest
+- Replaced Sodium, Indium with Embeddium
+- Updated Balm to 7.3.3
+- Updated Bookshelf to 20.1.11
+- Updated Collective 7.61
+- Updated Cooking for Blockheads to 16.0.6
+- Updated CreativeCore to 2.11.30
+- Updated ImmediatelyFast to 1.2.17
+- Updated JourneyMap to 5.9.22
+- Updated Puzzles Lib to 8.1.20
+- Updated WTHIT to 8.11.0
+- Updated YetAnotherConfigLib to 3.4.4
+
+## Removed
+- Removed AmbientSounds
+- Removed Reese's Sodium Options
+- Removed Sound Physics Remastered
+- Removed unused config settings
+
 # 8.1.0
 
 ## Added
