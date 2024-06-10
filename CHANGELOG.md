@@ -1,5 +1,10 @@
 # Changelog
 
+# 9.1.2
+
+## Added
+- Added BCLib
+
 # 9.1.1
 
 ## Added

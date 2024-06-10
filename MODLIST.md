@@ -134,6 +134,7 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Ash API](https://modrinth.com/mod/ash-api) | Trikzon | 3.0.2 | An abstraction layer between Fabric, Forge, and Quilt's APIs. |
 | [bad packets](https://modrinth.com/mod/badpackets) | badasintended | 0.4.3 | Bad Packets allows packet messaging between different modding platforms. |
 | [Balm](https://modrinth.com/mod/balm) | BlayTheNinth | 7.3.3 | Abstraction Layer (but not really)™ for Blay's multiplatform mods |
+| [BCLib](https://modrinth.com/mod/bclib) | quiqueck | 3.0.14 | A Library Mod for the BetterX Team |
 | [Bookshelf](https://www.modrinth.com/mod/bookshelf-lib) | Darkhax | 20.1.11 | An open source library for other mods! |
 | [Botarium](https://modrinth.com/mod/botarium) | Terrarium | 2.3.3 | A crossplatform API for devs that makes transfer and storage of items, fluids and energy easier, as well as some other helpful things |
 | [Cardinal Components API](https://modrinth.com/mod/cardinal-components-api) | Pyrofab | 5.2.2 | A data attachment API that is easy, modular, and extremely fast. |
