@@ -16,7 +16,9 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) | Mari023 | 15.2.1 | An addon for Applied Energistics 2 that adds wireless versions of several Terminals |
 | [Armor Visibility](https://modrinth.com/mod/armor-visibility) | Trikzon | 9.0.1 | Let that skin show! |
 | [Bad Wither No Cookie - Reloaded](https://modrinth.com/mod/bad-wither-no-cookie) | kreezxil | 3.17.0 | Localizes the wither and dragon death sounds. |
+| [Better Combat](https://modrinth.com/mod/better-combat) | ZsoltMolnarrr | 1.8.5 | ⚔️ Easy, spectacular and fun melee combat system from Minecraft Dungeons. |
 | [Better Compressed Blocks](https://modrinth.com/mod/better-compressed-blocks) | MrLoLf | 1.13 | Adding Compressed Blocks for Cobblestone, Dirt, Sand, Gravel, Netherrack and more |
+| [Better End Sky](https://modrinth.com/mod/better-end-sky) | PinkGoosik | 0.2.1 | Ripoff of the Better End mod's sky renderer in a standalone mod for a client-side only usage. |
 | [Better Furnaces Reforged](https://modrinth.com/mod/better-furnaces-reforged) | Wilyicaro | 1.1.3| A remake of the mod BetterFurnaces, with even faster furnaces |
 | [Better Mount HUD](https://modrinth.com/mod/better-mount-hud) | Lortseam | 1.2.2 | Improves the ingame HUD while riding a mount |
 | [Bewitchment](https://modrinth.com/mod/bewitchment) | MoriyaShiine | 1.20-8 | A mod that aims to add witchcraft to Minecraft |
@@ -93,7 +95,6 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Pet Shop](https://modrinth.com/mod/pet-shop) | Nyfaria | 0.1.3 | Adds a Pet Shop to Villages! Allowing Players to by an array of custom pets! |
 | [Ping Wheel](https://modrinth.com/mod/ping-wheel) | Luken | 1.8.0 | Allows players to temporarily mark locations for everyone |
 | [Polymorph](https://modrinth.com/mod/polymorph) | TheIllusiveC4 | 0.49.5 | No more recipe conflicts! Adds an option to choose the crafting result if more than one is available. |	
-| [Polymorphic Energistics](https://modrinth.com/mod/polymorphic-energistics) | 90 | 0.1.1 | Polymorph support for Applied Energistics 2. |
 | [Powah!](https://modrinth.com/mod/powah) | Technici4n | 5.0.5 | A tech mod that adds various ways to generate, store and transmit Energy |
 | [Pufferfish's Attributes](https://modrinth.com/mod/attributes) | Pufferfish | 0.3.0 | A Minecraft mod that adds more attributes to the game. |
 | [Pufferfish's Skills](https://modrinth.com/mod/skills) | Pufferfish | 0.12.2 | Adds a fully configurable skill system to the game. |

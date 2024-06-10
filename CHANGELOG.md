@@ -1,5 +1,25 @@
 # Changelog
 
+# 9.1.1
+
+## Added
+- Added Better End Sky
+
+## Removed
+- Removed BCLib
+
+# 9.1.0
+
+## Added
+- Added Better Combat
+
+## Changed
+- Updated Complementary Reimagined Shaders to 5.2.1
+
+## Removed
+- Removed BetterEnd
+- Removed Polymorphic Energistics
+
 # 9.0.0
 
 ## Added
