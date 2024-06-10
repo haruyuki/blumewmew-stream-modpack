@@ -16,7 +16,6 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) | Mari023 | 15.2.1 | An addon for Applied Energistics 2 that adds wireless versions of several Terminals |
 | [Armor Visibility](https://modrinth.com/mod/armor-visibility) | Trikzon | 9.0.1 | Let that skin show! |
 | [Bad Wither No Cookie - Reloaded](https://modrinth.com/mod/bad-wither-no-cookie) | kreezxil | 3.17.0 | Localizes the wither and dragon death sounds. |
-| [BetterEnd](https://modrinth.com/mod/betterend) | quiqueck | 4.0.11 | New Biomes, mysterious rituals and Mobs for your End |
 | [Better Compressed Blocks](https://modrinth.com/mod/better-compressed-blocks) | MrLoLf | 1.13 | Adding Compressed Blocks for Cobblestone, Dirt, Sand, Gravel, Netherrack and more |
 | [Better Furnaces Reforged](https://modrinth.com/mod/better-furnaces-reforged) | Wilyicaro | 1.1.3| A remake of the mod BetterFurnaces, with even faster furnaces |
 | [Better Mount HUD](https://modrinth.com/mod/better-mount-hud) | Lortseam | 1.2.2 | Improves the ingame HUD while riding a mount |
@@ -134,7 +133,6 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Ash API](https://modrinth.com/mod/ash-api) | Trikzon | 3.0.2 | An abstraction layer between Fabric, Forge, and Quilt's APIs. |
 | [bad packets](https://modrinth.com/mod/badpackets) | badasintended | 0.4.3 | Bad Packets allows packet messaging between different modding platforms. |
 | [Balm](https://modrinth.com/mod/balm) | BlayTheNinth | 7.3.3 | Abstraction Layer (but not really)™ for Blay's multiplatform mods |
-| [BCLib](https://modrinth.com/mod/bclib) | quiqueck | 3.0.14 | A Library Mod for the BetterX Team |
 | [Bookshelf](https://www.modrinth.com/mod/bookshelf-lib) | Darkhax | 20.1.11 | An open source library for other mods! |
 | [Botarium](https://modrinth.com/mod/botarium) | Terrarium | 2.3.3 | A crossplatform API for devs that makes transfer and storage of items, fluids and energy easier, as well as some other helpful things |
 | [Cardinal Components API](https://modrinth.com/mod/cardinal-components-api) | Pyrofab | 5.2.2 | A data attachment API that is easy, modular, and extremely fast. |
