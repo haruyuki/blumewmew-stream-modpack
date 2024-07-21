@@ -1,0 +1,13 @@
+name = "Yuushya 16x"
+filename = "[1.19-1.20] Yuushya Release 0.18.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4b145626bc0ebf0dd4a06acb874c834bea9bebcb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5084360
+project-id = 508948

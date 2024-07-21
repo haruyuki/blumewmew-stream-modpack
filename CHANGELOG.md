@@ -1,5 +1,74 @@
 # Changelog
 
+# 10.0.0
+
+## Added
+- Added Archers (RPG Series)
+- Added Exposure
+- Added FlightAssistant
+- Added Gazebos (RPG Series)
+- Added Jewelry (RPG Series)
+- Added [Let's Do] Bakery
+- Added [Let's Do] Beachparty
+- Added [Let's Do] Brewery
+- Added [Let's Do] Candlelight
+- Added [Let's Do] HerbalBrews
+- Added [Let's Do] Meadow
+- Added [Let's Do] NetherVinery
+- Added [Let's Do] Vinery
+- Added Mine Cells - Dead Cells Mod
+- Added Paladins & Priests (RPG Series)
+- Added Rogues & Warriors (RPG Series)
+- Added Simply Skills
+- Added Spectrum
+- Added The Bumblezone - Quilt/Fabric
+- Added Wizards (RPG Series)
+- Added Yuushya Townscape
+
+## Changed
+- Replaced ToolTipFix with Adaptive Tooltips
+- Updated YOSBR config settings
+- Updated Complementary Shaders - Reimaingined to r5.2.2
+- Updated 3D Skin Layers to 1.6.6
+- Updated Animatica to 0.6.1
+- Updated Applied Energistics 2 to 15.2.9
+- Updated Balm to 7.3.6
+- Updated Bookshelf to 20.1.13
+- Updated Botania to 1.20.1-445
+- Updated BotaniaCombat to 2.1.3
+- Updated Botarium to 2.3.4
+- Updated Chat Heads to 0.12.7
+- Updated CICADA to 0.8.3
+- Updated Collective to 7.71
+- Updated Common Network to 1.0.5
+- Updated Do a Barrel Roll to 3.6.1
+- Updated Elytra Slot to 6.4.1
+- Updated Embeddium to 0.3.25
+- Updated Entity Culling to 1.6.6
+- Updated Entity Model Features to 2.1.3
+- Updated Entity Texture Features to 6.1.3
+- Updated Friends&Foes to 2.0.15
+- Updated Friends&Foes - Flowery Mooblooms to 2.0.2
+- Updated Geckolib to 4.4.7
+- Updated Hephaestus to 3.6.4.279
+- Updated ImmediatelyFast to 1.2.18
+- Updated Immersive Melodies to 0.3.0
+- Updated Iris Shaders to 1.7.2
+- Updated JourneyMap to 5.10.1
+- Updated JourneyMap Integration to 0.14-48
+- Updated Minecraft Transit Railway to 4.0.0-beta-8
+- Updated Pehkui to 3.8.3
+- Updated Ping Wheel to 1.9.1
+- Updated Pufferfish's Attributes to 0.5.0
+- Updated Puzzles Lib to 8.1.21
+- Updated Quilted Fabric API (QFAPI) to 7.6.0
+- Updated SmartBrainLib to 1.14.2
+- Updated Spell Engine to 0.15.7
+- Updated Spell Power Attributes to 0.11.0
+- Updated Vein Mining to 1.5.0
+- Updated WTHIT to 8.13.2
+- Updated YetAnotherConfigLib to 3.5.0
+
 # 9.1.2
 
 ## Added
