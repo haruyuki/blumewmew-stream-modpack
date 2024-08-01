@@ -152,11 +152,6 @@ hash = "d995fbc8df8eb912e605c199f7073cc37108f40be97b547ac70be8b89ef7a961"
 metafile = true
 
 [[files]]
-file = "mods/badpackets.pw.toml"
-hash = "e5a68e0e0d90aac1d965ab7cab5858c474e875be9012a7c8a3adf96420faa726"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "6a4e4b9450aa618bd27346ec81d88231594ac487175c610e2106a6ccfdbce2d7"
 metafile = true
@@ -954,11 +949,6 @@ metafile = true
 [[files]]
 file = "mods/wizards.pw.toml"
 hash = "3b422919b8c5ef901b7679134d00074a8a19c98c75c9072c50b0e656e885f2b8"
-metafile = true
-
-[[files]]
-file = "mods/wthit.pw.toml"
-hash = "fc721bd93f9b250912bfba398601d111cd158fdf5e40129c107cc28fef3f5fa5"
 metafile = true
 
 [[files]]
