@@ -1,5 +1,11 @@
 # Changelog
 
+# 10.0.1
+
+## Removed
+- Removed WTHIT
+- Removed Bad Packets
+
 # 10.0.0
 
 ## Added

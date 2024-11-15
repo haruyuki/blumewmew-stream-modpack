@@ -143,7 +143,6 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [When Dungeons Arise](https://modrinth.com/mod/when-dungeons-arise) | aureljz | 2.1.57 | Adds various elegant -and likely hostile- roguelike dungeons and structure that generate on your worlds! |
 | [When Dungeons Arise: Seven Seas](https://modrinth.com/mod/when-dungeons-arise-seven-seas) | aureljz | 1.0.2 | Elegant - and likely hostile - vessels lost in the seven seas... |
 | [Wizards \(RPG Series\)](https://modrinth.com/mod/wizards) | ZsoltMolnarrr | 1.2.2 | 🧙🏻‍♂️ Destroy your enemies with Arcane, Fire and Frost magic |
-| [WTHIT](https://modrinth.com/mod/wthit) | deirn | 8.13.2 | What the hell is that? |
 | [Wunderreich](https://modrinth.com/mod/wunderreich) | quiqueck | 6.0.4 | Advanced Vanilla-Like Mechanics and Tools |
 | [Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr) | shedaniel | 0.1.2 | Your options shall be respected. |
 | [Yuushya Townscape](https://modrinth.com/mod/yuushya-townscape) | Coco | 2.1.1 | Build your aesthetic townscape with 2600+ building matierial |
@@ -155,7 +154,6 @@ Below you will find the list of mods that are used in this modpack in alpabetica
 | [Architectury API](https://modrinth.com/mod/architectury-api) | shedaniel | 9.1.14 | An intermediary api aimed to ease developing multiplatform mods. |
 | [Ash API](https://modrinth.com/mod/ash-api) | Trikzon | 3.0.2 | An abstraction layer between Fabric, Forge, and Quilt's APIs. |
 | [AzureLib Armor](https://modrinth.com/mod/azurelib-armor) | AzureDoom | 2.3.2 | A striped down Azurelib just for Armor! |
-| [bad packets](https://modrinth.com/mod/badpackets) | badasintended | 0.4.3 | Bad Packets allows packet messaging between different modding platforms. |
 | [Balm](https://modrinth.com/mod/balm) | BlayTheNinth | 7.3.6 | Abstraction Layer (but not really)™ for Blay's multiplatform mods |
 | [BCLib](https://modrinth.com/mod/bclib) | quiqueck | 3.0.14 | A Library Mod for the BetterX Team |
 | [Bookshelf](https://www.modrinth.com/mod/bookshelf-lib) | Darkhax | 20.1.13 | An open source library for other mods! |
